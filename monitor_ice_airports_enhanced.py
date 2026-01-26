@@ -232,8 +232,9 @@ def save_alerts(detections):
     
     print(f"\n🚨 {len(alerts)} ALERTS:")
     for alert in alerts[:10]:  # Show first 10
+        alt = alert['altitude_m'] if alert['altitude_m'] is not None else 0
         print(f"  {alert['callsign']} at {alert['airport_name']}")
-        print(f"    Distance: {alert['distance_from_airport_km']:.1f}km, Alt: {alert['altitude_m']:.0f}m")
+        print(f"    Distance: {alert['distance_from_airport_km']:.1f}km, Alt: {alt:.0f}m")
         print(f"    Region: {alert['projected_region']}")
         print(f"    Alerts: {', '.join(alert['alerts'])}")
 
