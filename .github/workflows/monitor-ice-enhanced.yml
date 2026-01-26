@@ -1,0 +1,61 @@
+name: Monitor ICE Operations (Enhanced)
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: pip install requests
+        
+    - name: Monitor ICE airports
+      run: python monitor_ice_airports_enhanced.py
+        
+    - name: Commit and push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "ICE ops update $(date -u +'%Y-%m-%d %H:%M')" || echo "No changes"
+        git push
+  
+  daily-analysis:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 12 * * *'  # Only at noon UTC
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Run daily gap analysis
+      run: python analyze_gaps_daily.py
+        
+    - name: Commit results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "Daily gap analysis $(date -u +'%Y-%m-%d')" || echo "No changes"
+        git push
