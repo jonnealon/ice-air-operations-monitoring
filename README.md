@@ -369,6 +369,8 @@ Restrictions:
     No surveillance of individuals
     Must credit methodology and data sources
 
+updaated 2/9/26
+
 Changelog
 
 v2.0 (Enhanced) - January 2026
