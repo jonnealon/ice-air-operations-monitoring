@@ -7212,5 +7212,105 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-14T05:01:45.860327",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a3ec93",
+    "callsign": "DAL1508",
+    "latitude": 29.5435,
+    "longitude": -98.45,
+    "altitude_m": 243.84,
+    "velocity_ms": 76.22,
+    "heading": 220.89,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.1999853912283127,
+    "bearing_from_airport": 60.35992091475771,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-14T05:01:45.860373",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "abc504",
+    "callsign": "SWA1945",
+    "latitude": 29.5446,
+    "longitude": -98.449,
+    "altitude_m": 259.08,
+    "velocity_ms": 76.61,
+    "heading": 220.64,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 2.3450305585076623,
+    "bearing_from_airport": 58.93306076449852,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "DESCENDING_NEAR_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-14T05:01:45.860385",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "abc40d",
+    "callsign": "SWA384",
+    "latitude": 29.5442,
+    "longitude": -98.4492,
+    "altitude_m": 251.46,
+    "velocity_ms": 74.05,
+    "heading": 220.77,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.305747498340132,
+    "bearing_from_airport": 59.63067007485853,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "DESCENDING_NEAR_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
   }
 ]
