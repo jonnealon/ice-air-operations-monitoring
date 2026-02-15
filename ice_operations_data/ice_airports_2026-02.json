@@ -11766,5 +11766,59 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-15T09:51:51.143565",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ae1f72",
+    "callsign": "G72099",
+    "latitude": 31.7627,
+    "longitude": -106.485,
+    "altitude_m": 1958.34,
+    "velocity_ms": 23.16,
+    "heading": 268.73,
+    "vertrate": 2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 11.254170933177777,
+    "bearing_from_airport": 243.9997100651922,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-15T09:51:52.280205",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a11b00",
+    "callsign": "AAL1542",
+    "latitude": 32.1071,
+    "longitude": -110.9288,
+    "altitude_m": null,
+    "velocity_ms": 8.75,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.5210331198894427,
+    "bearing_from_airport": 131.0509082970417,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
