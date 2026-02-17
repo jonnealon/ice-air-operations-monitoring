@@ -17354,5 +17354,29 @@
       "HIGH_PRIORITY:Charter+Unusual_Destination"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-17T10:31:57.012285",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a5465d",
+    "callsign": "UPS9784",
+    "latitude": 29.4892,
+    "longitude": -98.5035,
+    "altitude_m": 502.92,
+    "velocity_ms": 67.8,
+    "heading": 41.31,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 5.91535654769836,
+    "bearing_from_airport": 213.39513186458353,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
