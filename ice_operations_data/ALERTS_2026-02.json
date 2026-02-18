@@ -16067,5 +16067,63 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-18T21:55:28.318790",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a6c35d",
+    "callsign": "PCJ35",
+    "latitude": 33.2899,
+    "longitude": -111.6336,
+    "altitude_m": 525.78,
+    "velocity_ms": 58.57,
+    "heading": 315.36,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.776108684440526,
+    "bearing_from_airport": 135.69307248447046,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-18T21:55:29.079391",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a6066a",
+    "callsign": "N488B",
+    "latitude": 29.5466,
+    "longitude": -98.4469,
+    "altitude_m": 335.28,
+    "velocity_ms": 64.56,
+    "heading": 220.8,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.634692211573282,
+    "bearing_from_airport": 57.07189996482066,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
