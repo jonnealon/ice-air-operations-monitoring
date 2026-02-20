@@ -23595,5 +23595,62 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-20T06:11:24.691811",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a209c0",
+    "callsign": "AAY657",
+    "latitude": 33.3228,
+    "longitude": -111.5732,
+    "altitude_m": 1242.06,
+    "velocity_ms": 100.14,
+    "heading": 300.91,
+    "vertrate": -0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 7.723503604103395,
+    "bearing_from_airport": 77.52733078018491,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-20T06:11:27.922366",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a48ba6",
+    "callsign": "EJA392",
+    "latitude": 32.1319,
+    "longitude": -110.9579,
+    "altitude_m": 891.54,
+    "velocity_ms": 61.12,
+    "heading": 135.68,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.3664770769041255,
+    "bearing_from_airport": 317.83230230751553,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
