@@ -19243,5 +19243,121 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-20T15:58:44.927659",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a8b920",
+    "callsign": "NDU661",
+    "latitude": 33.2943,
+    "longitude": -111.6454,
+    "altitude_m": 457.2,
+    "velocity_ms": 30.56,
+    "heading": 315,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 1.719921849203061,
+    "bearing_from_airport": 150.60105708440528,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-20T15:58:44.927715",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2b698",
+    "callsign": "AAY643",
+    "latitude": 33.307,
+    "longitude": -111.6661,
+    "altitude_m": null,
+    "velocity_ms": 6.94,
+    "heading": 90,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.0797470286047064,
+    "bearing_from_airport": 265.2857884116074,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-20T15:58:44.927745",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ab3d30",
+    "callsign": "NDU823",
+    "latitude": 33.314,
+    "longitude": -111.6566,
+    "altitude_m": 617.22,
+    "velocity_ms": 39.69,
+    "heading": 312.37,
+    "vertrate": 3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 0.7152411428350484,
+    "bearing_from_airport": 344.1958457916868,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-20T15:58:46.300540",
+    "airport_code": "BRO",
+    "airport_name": "Brownsville South Padre",
+    "icao24": "a08512",
+    "callsign": "Unknown",
+    "latitude": 25.8973,
+    "longitude": -97.376,
+    "altitude_m": 640.08,
+    "velocity_ms": 105.8,
+    "heading": 30.06,
+    "vertrate": 7.48,
+    "on_ground": false,
+    "distance_from_airport_km": 5.092643571500419,
+    "bearing_from_airport": 101.93894711533068,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN",
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
