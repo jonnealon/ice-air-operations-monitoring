@@ -30046,5 +30046,36 @@
       "UNUSUAL_DESTINATION:AFRICA_WEST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-21T11:41:20.375742",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a168ad",
+    "callsign": "FDX1416",
+    "latitude": 29.5021,
+    "longitude": -98.4907,
+    "altitude_m": 411.48,
+    "velocity_ms": 68.97,
+    "heading": 40.46,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 4.046907758126958,
+    "bearing_from_airport": 209.92750730429754,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
