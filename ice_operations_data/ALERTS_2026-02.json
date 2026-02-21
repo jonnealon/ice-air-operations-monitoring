@@ -23485,5 +23485,62 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-21T14:16:53.721131",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a54e87",
+    "callsign": "CXK316",
+    "latitude": 33.3175,
+    "longitude": -111.6612,
+    "altitude_m": 365.76,
+    "velocity_ms": 33.83,
+    "heading": 135.62,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 1.2432167269752197,
+    "bearing_from_airport": 330.00715870257727,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-21T14:16:53.721167",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a1a37a",
+    "callsign": "CXK104",
+    "latitude": 33.2976,
+    "longitude": -111.6374,
+    "altitude_m": 571.5,
+    "velocity_ms": 42.2,
+    "heading": 134.01,
+    "vertrate": 2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.9489067307909194,
+    "bearing_from_airport": 125.51048201634705,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
