@@ -35962,5 +35962,34 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-22T07:52:03.320762",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac14c6",
+    "callsign": "N878HJ",
+    "latitude": 29.4893,
+    "longitude": -98.4873,
+    "altitude_m": 388.62,
+    "velocity_ms": 55.28,
+    "heading": 345.45,
+    "vertrate": -4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 5.210141537131944,
+    "bearing_from_airport": 198.9366193726016,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
