@@ -41583,5 +41583,29 @@
       "UNUSUAL_DESTINATION:SOUTH_ASIA"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-23T08:34:39.533872",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a39630",
+    "callsign": "DAL2135",
+    "latitude": 29.4895,
+    "longitude": -98.5034,
+    "altitude_m": 327.66,
+    "velocity_ms": 68.14,
+    "heading": 41.63,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 5.882245265894565,
+    "bearing_from_airport": 213.494987831241,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
