@@ -41553,5 +41553,35 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-23T07:45:35.649367",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "abb63f",
+    "callsign": "N854AL",
+    "latitude": 31.8344,
+    "longitude": -106.3624,
+    "altitude_m": 1524,
+    "velocity_ms": 54.29,
+    "heading": 102.59,
+    "vertrate": -0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 3.3505054314670986,
+    "bearing_from_airport": 25.68725923804186,
+    "projected_region": "SOUTH_ASIA",
+    "potential_destinations": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:SOUTH_ASIA"
+    ],
+    "is_alert": true
   }
 ]
