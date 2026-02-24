@@ -35607,5 +35607,62 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-24T12:35:33.879648",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a1412e",
+    "callsign": "FDX1499",
+    "latitude": 31.7976,
+    "longitude": -106.3006,
+    "altitude_m": 1455.42,
+    "velocity_ms": 80.36,
+    "heading": 272.94,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 7.359882928577885,
+    "bearing_from_airport": 98.30405455566563,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-24T12:35:35.163140",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a16037",
+    "callsign": "AAL490",
+    "latitude": 32.1215,
+    "longitude": -110.9399,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 160.31,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.6082557806373845,
+    "bearing_from_airport": 9.788377084595197,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
