@@ -40083,5 +40083,93 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-25T12:35:28.795134",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a37337",
+    "callsign": "NDU321",
+    "latitude": 33.2971,
+    "longitude": -111.6488,
+    "altitude_m": 487.68,
+    "velocity_ms": 36.74,
+    "heading": 135.57,
+    "vertrate": 4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 1.3000872712299307,
+    "bearing_from_airport": 155.9983403655301,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-25T12:35:29.992196",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac2173",
+    "callsign": "SWA1654",
+    "latitude": 29.4987,
+    "longitude": -98.4963,
+    "altitude_m": 929.64,
+    "velocity_ms": 87.41,
+    "heading": 222.14,
+    "vertrate": 7.15,
+    "on_ground": false,
+    "distance_from_airport_km": 4.652229119855461,
+    "bearing_from_airport": 213.3865432528824,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-25T12:35:32.505623",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a41f31",
+    "callsign": "Unknown",
+    "latitude": 32.1102,
+    "longitude": -110.9326,
+    "altitude_m": 906.78,
+    "velocity_ms": 88.03,
+    "heading": 135.47,
+    "vertrate": 12.03,
+    "on_ground": false,
+    "distance_from_airport_km": 1.0259372780106264,
+    "bearing_from_airport": 129.6652380236764,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
