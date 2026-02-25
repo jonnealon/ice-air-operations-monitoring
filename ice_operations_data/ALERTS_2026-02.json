@@ -40051,5 +40051,37 @@
       "UNUSUAL_DESTINATION:SOUTH_ASIA"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-25T11:31:48.706571",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a30121",
+    "callsign": "FDX1416",
+    "latitude": 29.5331,
+    "longitude": -98.4568,
+    "altitude_m": null,
+    "velocity_ms": 2.57,
+    "heading": 216.56,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.2572703169861883,
+    "bearing_from_airport": 93.03327456838701,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
