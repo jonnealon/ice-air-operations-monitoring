@@ -3728,8 +3728,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-14T15:50:56.707005",
-    "last_seen": "2026-02-26T22:57:29.132753",
-    "total_detections": 15,
+    "last_seen": "2026-02-26T23:24:00.607721",
+    "total_detections": 16,
     "is_charter": false,
     "operator": null
   },
@@ -7537,8 +7537,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-20T00:01:31.550830",
-    "last_seen": "2026-02-26T21:00:09.506681",
-    "total_detections": 5,
+    "last_seen": "2026-02-26T23:24:00.607711",
+    "total_detections": 6,
     "is_charter": false,
     "operator": null
   },
@@ -7826,21 +7826,22 @@
   "a2f6ba": {
     "icao24": "a2f6ba",
     "callsigns_seen": [
-      "AAY2268",
-      "AAY668",
-      "AAY2271",
-      "AAY681",
-      "AAY753",
       "AAY636",
+      "AAY708",
+      "AAY2271",
+      "AAY753",
+      "AAY2268",
+      "AAY729",
+      "AAY681",
       "AAY646",
-      "AAY729"
+      "AAY668"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-20T14:31:56.112868",
-    "last_seen": "2026-02-25T23:23:27.921135",
-    "total_detections": 8,
+    "last_seen": "2026-02-26T23:24:00.607653",
+    "total_detections": 9,
     "is_charter": false,
     "operator": null
   },
@@ -10236,8 +10237,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-21T20:12:06.892644",
-    "last_seen": "2026-02-26T22:57:29.132736",
-    "total_detections": 9,
+    "last_seen": "2026-02-26T23:24:00.607699",
+    "total_detections": 10,
     "is_charter": false,
     "operator": null
   },
@@ -16376,5 +16377,33 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "ac2bd4": {
+    "icao24": "ac2bd4",
+    "callsigns_seen": [
+      "ASH6264"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-02-26T23:24:01.437847",
+    "last_seen": "2026-02-26T23:24:01.437847",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a0267b": {
+    "icao24": "a0267b",
+    "callsigns_seen": [
+      "DAL730"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-02-26T23:24:03.650524",
+    "last_seen": "2026-02-26T23:24:03.650524",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
