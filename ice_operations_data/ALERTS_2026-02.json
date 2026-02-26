@@ -44245,5 +44245,126 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-26T12:35:31.294371",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a7032e",
+    "callsign": "N551AM",
+    "latitude": 33.3515,
+    "longitude": -111.6364,
+    "altitude_m": 457.2,
+    "velocity_ms": 2.06,
+    "heading": 180,
+    "vertrate": -0.98,
+    "on_ground": false,
+    "distance_from_airport_km": 5.133085608807722,
+    "bearing_from_airport": 19.083890056545442,
+    "projected_region": "SOUTH_ASIA",
+    "potential_destinations": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:SOUTH_ASIA"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-26T12:35:32.228761",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a31ccf",
+    "callsign": "N3YJ",
+    "latitude": 29.4952,
+    "longitude": -98.3828,
+    "altitude_m": 518.16,
+    "velocity_ms": 50.93,
+    "heading": 134.18,
+    "vertrate": -0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 9.426569518605623,
+    "bearing_from_airport": 116.93273997934574,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-26T12:35:32.228791",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "acfdf4",
+    "callsign": "SWA3992",
+    "latitude": 29.5557,
+    "longitude": -98.4376,
+    "altitude_m": 601.98,
+    "velocity_ms": 94.27,
+    "heading": 43.01,
+    "vertrate": 13.33,
+    "on_ground": false,
+    "distance_from_airport_km": 3.9540049679331912,
+    "bearing_from_airport": 51.84782895482971,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-26T12:35:33.969678",
+    "airport_code": "MFE",
+    "airport_name": "McAllen Miller",
+    "icao24": "a4c104",
+    "callsign": "UPS796",
+    "latitude": 26.1857,
+    "longitude": -98.2488,
+    "altitude_m": 129.54,
+    "velocity_ms": 60.67,
+    "heading": 140.51,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 1.4966676096855875,
+    "bearing_from_airport": 317.24575325726175,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
