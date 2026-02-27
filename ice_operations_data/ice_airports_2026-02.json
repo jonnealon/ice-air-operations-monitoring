@@ -63423,5 +63423,29 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-27T07:15:49.725928",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac2dc9",
+    "callsign": "N884ME",
+    "latitude": 29.5203,
+    "longitude": -98.4978,
+    "altitude_m": 396.24,
+    "velocity_ms": 39.62,
+    "heading": 90.74,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 3.0862382197400815,
+    "bearing_from_airport": 241.1959307373353,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
