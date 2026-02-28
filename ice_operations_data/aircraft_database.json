@@ -2233,21 +2233,22 @@
   "a30596": {
     "icao24": "a30596",
     "callsigns_seen": [
+      "AAY3533",
       "AAY663",
+      "AAY3213",
+      "AAY2304",
+      "AAY723",
       "AAY749",
       "AAY1596",
-      "AAY3535",
-      "AAY3213",
-      "AAY723",
-      "AAY3533",
-      "AAY642"
+      "AAY642",
+      "AAY3535"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-12T21:05:32.731696",
-    "last_seen": "2026-02-26T23:50:09.833659",
-    "total_detections": 10,
+    "last_seen": "2026-02-28T06:22:15.747400",
+    "total_detections": 11,
     "is_charter": false,
     "operator": null
   },
@@ -5523,8 +5524,8 @@
       "SAT"
     ],
     "first_seen": "2026-02-16T20:59:23.412557",
-    "last_seen": "2026-02-28T05:24:20.007308",
-    "total_detections": 5,
+    "last_seen": "2026-02-28T06:22:16.777569",
+    "total_detections": 6,
     "is_charter": false,
     "operator": null
   },
@@ -18039,14 +18040,15 @@
   "a2c574": {
     "icao24": "a2c574",
     "callsigns_seen": [
-      "AAY468"
+      "AAY468",
+      "AAY437"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-28T05:24:19.036251",
-    "last_seen": "2026-02-28T05:24:19.036251",
-    "total_detections": 1,
+    "last_seen": "2026-02-28T06:22:15.747438",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -18091,5 +18093,33 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "ad01ab": {
+    "icao24": "ad01ab",
+    "callsigns_seen": [
+      "SWA1483"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-02-28T06:22:16.777608",
+    "last_seen": "2026-02-28T06:22:16.777608",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
+  },
+  "aa1188": {
+    "icao24": "aa1188",
+    "callsigns_seen": [
+      "ASI577"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-02-28T06:22:18.804350",
+    "last_seen": "2026-02-28T06:22:18.804350",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
