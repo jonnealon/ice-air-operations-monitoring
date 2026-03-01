@@ -607,5 +607,33 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-01T09:18:06.139355",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a32fed",
+    "callsign": "JLG304",
+    "latitude": 29.5051,
+    "longitude": -98.4202,
+    "altitude_m": 1005.84,
+    "velocity_ms": 128.45,
+    "heading": 96.67,
+    "vertrate": 13.33,
+    "on_ground": false,
+    "distance_from_airport_km": 5.746689090646947,
+    "bearing_from_airport": 123.51741081541769,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
