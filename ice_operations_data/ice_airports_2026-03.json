@@ -5854,5 +5854,252 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-01T22:46:07.086508",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a0434a",
+    "callsign": "CXK668",
+    "latitude": 33.2953,
+    "longitude": -111.6346,
+    "altitude_m": 510.54,
+    "velocity_ms": 32.23,
+    "heading": 278.26,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 2.3093410296366015,
+    "bearing_from_airport": 126.92126641302411,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-01T22:46:07.086554",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a1b609",
+    "callsign": "CXK116",
+    "latitude": 33.315,
+    "longitude": -111.6549,
+    "altitude_m": 548.64,
+    "velocity_ms": 42.71,
+    "heading": 358.62,
+    "vertrate": 3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 0.8000609566888176,
+    "bearing_from_airport": 357.3419089886939,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-01T22:46:07.905558",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "aaeec5",
+    "callsign": "UAL416",
+    "latitude": 29.5391,
+    "longitude": -98.4543,
+    "altitude_m": 213.36,
+    "velocity_ms": 70.03,
+    "heading": 220.83,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.6124933754393844,
+    "bearing_from_airport": 68.17376668234556,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-01T22:46:07.905599",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a33d68",
+    "callsign": "DAL2680",
+    "latitude": 29.5399,
+    "longitude": -98.4535,
+    "altitude_m": 228.6,
+    "velocity_ms": 72.93,
+    "heading": 221,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 1.7180678611030957,
+    "bearing_from_airport": 66.38175543053683,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-01T22:46:07.905610",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "acb470",
+    "callsign": "AAL2934",
+    "latitude": 29.5429,
+    "longitude": -98.4506,
+    "altitude_m": 251.46,
+    "velocity_ms": 78.79,
+    "heading": 220.76,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.116889311068598,
+    "bearing_from_airport": 61.15150935568647,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-01T22:46:09.873892",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a18b1d",
+    "callsign": "PGR1199",
+    "latitude": 32.1142,
+    "longitude": -110.9372,
+    "altitude_m": null,
+    "velocity_ms": 33.95,
+    "heading": 320.62,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.4148596585068336,
+    "bearing_from_airport": 120.55369242494021,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-01T22:46:09.873931",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a19679",
+    "callsign": "KOW201",
+    "latitude": 32.1133,
+    "longitude": -110.9336,
+    "altitude_m": null,
+    "velocity_ms": 16.98,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.7619709140903195,
+    "bearing_from_airport": 114.07003634162868,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-01T22:46:09.873941",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a5a30a",
+    "callsign": "SWA2282",
+    "latitude": 32.114,
+    "longitude": -110.9369,
+    "altitude_m": null,
+    "velocity_ms": 10.8,
+    "heading": 331.88,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.45045851577116336,
+    "bearing_from_airport": 121.16149803461593,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
