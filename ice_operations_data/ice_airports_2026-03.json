@@ -7198,5 +7198,153 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-02T06:09:19.608117",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2b698",
+    "callsign": "AAY684",
+    "latitude": 33.324,
+    "longitude": -111.5724,
+    "altitude_m": 1219.2,
+    "velocity_ms": 100.95,
+    "heading": 299.96,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 7.825517804103184,
+    "bearing_from_airport": 76.69174995200041,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-02T06:09:19.608160",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2e585",
+    "callsign": "AAY679",
+    "latitude": 33.307,
+    "longitude": -111.6667,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 270,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.1352274981756456,
+    "bearing_from_airport": 265.51698479508326,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-02T06:09:21.664557",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a26b4a",
+    "callsign": "ENY3348",
+    "latitude": 31.797,
+    "longitude": -106.2869,
+    "altitude_m": 1554.48,
+    "velocity_ms": 80.9,
+    "heading": 273.28,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 8.649089012887385,
+    "bearing_from_airport": 97.49746823536827,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-02T06:09:21.664602",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ac8009",
+    "callsign": "SWA777",
+    "latitude": 31.7979,
+    "longitude": -106.3081,
+    "altitude_m": 1455.42,
+    "velocity_ms": 71.55,
+    "heading": 272.06,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 6.655398390472192,
+    "bearing_from_airport": 98.90420305307782,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-02T06:09:23.110816",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a3cfe8",
+    "callsign": "ASI469",
+    "latitude": 32.1048,
+    "longitude": -110.9193,
+    "altitude_m": 982.98,
+    "velocity_ms": 45.89,
+    "heading": 86.14,
+    "vertrate": 3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 2.3948461338911846,
+    "bearing_from_airport": 121.57676350229588,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
