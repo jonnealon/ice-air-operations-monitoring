@@ -16,21 +16,21 @@
   "a209c0": {
     "icao24": "a209c0",
     "callsigns_seen": [
-      "AAY652",
-      "N230NV",
       "AAY742",
       "AAY646",
       "AAY1593",
-      "AAY656",
+      "Unknown",
+      "N230NV",
+      "AAY652",
       "AAY657",
-      "Unknown"
+      "AAY656"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-01-26T14:09:58.453135",
-    "last_seen": "2026-03-01T14:14:33.948489",
-    "total_detections": 8,
+    "last_seen": "2026-03-02T05:10:00.804159",
+    "total_detections": 9,
     "is_charter": false,
     "operator": null
   },
@@ -3533,8 +3533,8 @@
       "ELP"
     ],
     "first_seen": "2026-02-14T00:01:37.961391",
-    "last_seen": "2026-02-14T00:01:37.961391",
-    "total_detections": 1,
+    "last_seen": "2026-03-02T05:10:02.779409",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -3763,8 +3763,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-14T15:50:56.707005",
-    "last_seen": "2026-03-01T19:40:36.056546",
-    "total_detections": 23,
+    "last_seen": "2026-03-02T05:10:00.804147",
+    "total_detections": 24,
     "is_charter": false,
     "operator": null
   },
@@ -9803,19 +9803,20 @@
     "icao24": "a24b40",
     "callsigns_seen": [
       "AAY637",
-      "AAY667",
+      "AAY659",
       "AAY2330",
-      "AAY719",
       "AAY644",
       "AAY578",
-      "AAY659"
+      "AAY667",
+      "AAY663",
+      "AAY719"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-21T16:14:36.676239",
-    "last_seen": "2026-03-01T21:12:20.919392",
-    "total_detections": 7,
+    "last_seen": "2026-03-02T05:10:00.804102",
+    "total_detections": 8,
     "is_charter": false,
     "operator": null
   },
@@ -20584,6 +20585,20 @@
     ],
     "first_seen": "2026-03-02T03:40:09.078294",
     "last_seen": "2026-03-02T03:40:09.078294",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a8dc45": {
+    "icao24": "a8dc45",
+    "callsigns_seen": [
+      "FFT2061"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-03-02T05:10:04.245752",
+    "last_seen": "2026-03-02T05:10:04.245752",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
