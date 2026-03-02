@@ -576,14 +576,15 @@
   "a66e3b": {
     "icao24": "a66e3b",
     "callsigns_seen": [
+      "SKW6505",
       "SKW4973"
     ],
     "airports_visited": [
       "TUS"
     ],
     "first_seen": "2026-02-09T23:09:38.643997",
-    "last_seen": "2026-02-09T23:09:38.643997",
-    "total_detections": 1,
+    "last_seen": "2026-03-02T20:58:02.400243",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -884,8 +885,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-10T19:43:45.906923",
-    "last_seen": "2026-03-02T19:53:58.363660",
-    "total_detections": 13,
+    "last_seen": "2026-03-02T20:57:58.869324",
+    "total_detections": 14,
     "is_charter": false,
     "operator": null
   },
@@ -1881,8 +1882,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-12T15:11:01.325684",
-    "last_seen": "2026-03-02T19:09:02.171326",
-    "total_detections": 27,
+    "last_seen": "2026-03-02T20:57:58.869258",
+    "total_detections": 28,
     "is_charter": false,
     "operator": null
   },
@@ -2020,15 +2021,15 @@
   "a8fe57": {
     "icao24": "a8fe57",
     "callsigns_seen": [
-      "Unknown",
-      "NDU679"
+      "NDU679",
+      "Unknown"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-12T18:11:56.227322",
-    "last_seen": "2026-03-02T13:51:20.210579",
-    "total_detections": 28,
+    "last_seen": "2026-03-02T20:57:58.869345",
+    "total_detections": 29,
     "is_charter": false,
     "operator": null
   },
@@ -2652,20 +2653,21 @@
   "a2de17": {
     "icao24": "a2de17",
     "callsigns_seen": [
-      "AAY1590",
-      "AAY3215",
-      "Unknown",
-      "AAY3235",
-      "AAY1588",
+      "AAY3219",
       "AAY683",
-      "AAY3219"
+      "AAY1590",
+      "Unknown",
+      "AAY3215",
+      "AAY1588",
+      "AAY3235",
+      "AAY644"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-13T05:13:19.491167",
-    "last_seen": "2026-03-01T20:45:39.928944",
-    "total_detections": 9,
+    "last_seen": "2026-03-02T20:57:58.869311",
+    "total_detections": 10,
     "is_charter": false,
     "operator": null
   },
@@ -3950,8 +3952,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-14T17:52:46.241802",
-    "last_seen": "2026-02-28T22:11:42.343078",
-    "total_detections": 5,
+    "last_seen": "2026-03-02T20:57:58.869354",
+    "total_detections": 6,
     "is_charter": false,
     "operator": null
   },
@@ -7595,8 +7597,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-20T00:01:31.550830",
-    "last_seen": "2026-03-01T22:12:14.962282",
-    "total_detections": 13,
+    "last_seen": "2026-03-02T20:57:58.869333",
+    "total_detections": 14,
     "is_charter": false,
     "operator": null
   },
@@ -11417,14 +11419,16 @@
     "callsigns_seen": [
       "SKW6505",
       "SKW6439",
-      "SKW6499"
+      "SKW6499",
+      "SKW6497"
     ],
     "airports_visited": [
+      "SAT",
       "TUS"
     ],
     "first_seen": "2026-02-22T17:47:34.532045",
-    "last_seen": "2026-02-22T22:12:24.201382",
-    "total_detections": 3,
+    "last_seen": "2026-03-02T20:57:59.892857",
+    "total_detections": 4,
     "is_charter": false,
     "operator": null
   },
@@ -12530,14 +12534,16 @@
   "a235b7": {
     "icao24": "a235b7",
     "callsigns_seen": [
+      "SWA2377",
       "SWA1865"
     ],
     "airports_visited": [
+      "SAT",
       "ELP"
     ],
     "first_seen": "2026-02-23T15:36:30.621733",
-    "last_seen": "2026-02-23T15:36:30.621733",
-    "total_detections": 1,
+    "last_seen": "2026-03-02T20:57:59.892794",
+    "total_detections": 2,
     "is_charter": true,
     "operator": "iAero Group"
   },
@@ -21033,5 +21039,19 @@
     "total_detections": 1,
     "is_charter": false,
     "operator": null
+  },
+  "ab628c": {
+    "icao24": "ab628c",
+    "callsigns_seen": [
+      "SWA429"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-03-02T20:57:59.892830",
+    "last_seen": "2026-03-02T20:57:59.892830",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
   }
 }
