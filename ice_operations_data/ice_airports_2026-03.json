@@ -7452,5 +7452,36 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-02T11:49:44.685038",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a31ccf",
+    "callsign": "N3YJ",
+    "latitude": 29.5296,
+    "longitude": -98.4419,
+    "altitude_m": 457.2,
+    "velocity_ms": 33.63,
+    "heading": 83.85,
+    "vertrate": 2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 2.732669880118388,
+    "bearing_from_airport": 99.5796656045934,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
