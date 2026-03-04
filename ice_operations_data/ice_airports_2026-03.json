@@ -19548,5 +19548,29 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-04T11:00:05.978628",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a35af1",
+    "callsign": "N315RX",
+    "latitude": 29.5091,
+    "longitude": -98.5504,
+    "altitude_m": 434.34,
+    "velocity_ms": 50.43,
+    "heading": 71.57,
+    "vertrate": -0.98,
+    "on_ground": false,
+    "distance_from_airport_km": 8.249174670144773,
+    "bearing_from_airport": 250.691647511457,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
