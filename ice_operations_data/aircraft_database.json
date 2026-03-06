@@ -21115,14 +21115,15 @@
   "ab628c": {
     "icao24": "ab628c",
     "callsigns_seen": [
-      "SWA429"
+      "SWA429",
+      "SWA4379"
     ],
     "airports_visited": [
       "SAT"
     ],
     "first_seen": "2026-03-02T20:57:59.892830",
-    "last_seen": "2026-03-02T20:57:59.892830",
-    "total_detections": 1,
+    "last_seen": "2026-03-06T12:28:07.612740",
+    "total_detections": 2,
     "is_charter": true,
     "operator": "iAero Group"
   },
@@ -24222,10 +24223,25 @@
       "FDX1188"
     ],
     "airports_visited": [
+      "ELP",
       "SAT"
     ],
     "first_seen": "2026-03-06T09:59:13.512388",
-    "last_seen": "2026-03-06T09:59:13.512388",
+    "last_seen": "2026-03-06T12:28:08.537574",
+    "total_detections": 2,
+    "is_charter": false,
+    "operator": null
+  },
+  "a82727": {
+    "icao24": "a82727",
+    "callsigns_seen": [
+      "TYSON53"
+    ],
+    "airports_visited": [
+      "AZA"
+    ],
+    "first_seen": "2026-03-06T12:28:06.653232",
+    "last_seen": "2026-03-06T12:28:06.653232",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
