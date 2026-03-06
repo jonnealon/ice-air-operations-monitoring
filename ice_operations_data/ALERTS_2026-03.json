@@ -23876,5 +23876,161 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-06T23:16:50.034383",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a960e3",
+    "callsign": "NDU703",
+    "latitude": 33.2942,
+    "longitude": -111.6455,
+    "altitude_m": 472.44,
+    "velocity_ms": 33.83,
+    "heading": 315.62,
+    "vertrate": -0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 1.7250927393215079,
+    "bearing_from_airport": 151.05048330097947,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-06T23:16:52.061398",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ac3731",
+    "callsign": "SWA3268",
+    "latitude": 31.7969,
+    "longitude": -106.2867,
+    "altitude_m": 1615.44,
+    "velocity_ms": 90.09,
+    "heading": 291.44,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 8.669250053480761,
+    "bearing_from_airport": 97.55381589951912,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-06T23:16:53.555653",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ac5b43",
+    "callsign": "SWA4038",
+    "latitude": 32.1003,
+    "longitude": -110.9208,
+    "altitude_m": 830.58,
+    "velocity_ms": 79.67,
+    "heading": 315.26,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.5850196237841203,
+    "bearing_from_airport": 132.71460106485438,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-06T23:16:53.555670",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a02681",
+    "callsign": "DAL2251",
+    "latitude": 32.1137,
+    "longitude": -110.9365,
+    "altitude_m": null,
+    "velocity_ms": 11.83,
+    "heading": 315,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.49995108757283474,
+    "bearing_from_airport": 122.19682904213425,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-06T23:16:53.555680",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a9f6b9",
+    "callsign": "SKW1013",
+    "latitude": 32.1133,
+    "longitude": -110.9337,
+    "altitude_m": null,
+    "velocity_ms": 9.77,
+    "heading": 140.62,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.7533969054073208,
+    "bearing_from_airport": 114.36169224963601,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
