@@ -1440,8 +1440,8 @@
       "TUS"
     ],
     "first_seen": "2026-02-11T18:10:35.994287",
-    "last_seen": "2026-03-04T17:05:35.679249",
-    "total_detections": 23,
+    "last_seen": "2026-03-06T13:33:40.606573",
+    "total_detections": 24,
     "is_charter": false,
     "operator": null
   },
@@ -7157,14 +7157,16 @@
   "a06a09": {
     "icao24": "a06a09",
     "callsigns_seen": [
-      "AAL1977"
+      "AAL1977",
+      "AAL2447"
     ],
     "airports_visited": [
+      "TUS",
       "SAT"
     ],
     "first_seen": "2026-02-19T15:10:52.236825",
-    "last_seen": "2026-02-19T15:10:52.236825",
-    "total_detections": 1,
+    "last_seen": "2026-03-06T13:33:45.428117",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -8750,27 +8752,28 @@
   "a2b2e1": {
     "icao24": "a2b2e1",
     "callsigns_seen": [
-      "AAY749",
-      "AAY2265",
-      "AAY748",
-      "AAY668",
       "AAY671",
+      "AAY693",
       "AAY2344",
       "N273NV",
-      "AAY709",
       "AAY684",
       "AAY676",
+      "AAY723",
+      "AAY749",
       "AAY667",
-      "AAY693",
+      "AAY748",
+      "AAY709",
+      "AAY2265",
       "AAY2264",
-      "AAY723"
+      "AAY716",
+      "AAY668"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-20T22:13:13.973608",
-    "last_seen": "2026-03-03T22:50:34.307220",
-    "total_detections": 14,
+    "last_seen": "2026-03-06T13:33:40.606611",
+    "total_detections": 15,
     "is_charter": false,
     "operator": null
   },
@@ -24242,6 +24245,20 @@
     ],
     "first_seen": "2026-03-06T12:28:06.653232",
     "last_seen": "2026-03-06T12:28:06.653232",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a641f1": {
+    "icao24": "a641f1",
+    "callsigns_seen": [
+      "LXJ502"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-03-06T13:33:45.428148",
+    "last_seen": "2026-03-06T13:33:45.428148",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
