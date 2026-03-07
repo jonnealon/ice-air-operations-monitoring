@@ -33704,5 +33704,33 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-07T08:16:22.130527",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a3dc4b",
+    "callsign": "N348P",
+    "latitude": 32.1036,
+    "longitude": -110.9231,
+    "altitude_m": 1173.48,
+    "velocity_ms": 51.06,
+    "heading": 130.91,
+    "vertrate": 3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.181086809446954,
+    "bearing_from_airport": 129.49870253814038,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
