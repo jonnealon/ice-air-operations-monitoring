@@ -33852,5 +33852,29 @@
       "HIGH_PRIORITY:Charter+Unusual_Destination"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-07T10:45:42.879721",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a6bb9e",
+    "callsign": "N533AM",
+    "latitude": 31.7791,
+    "longitude": -106.4765,
+    "altitude_m": 1554.48,
+    "velocity_ms": 56.98,
+    "heading": 96.74,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 9.819019759186986,
+    "bearing_from_airport": 251.50721840364548,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
