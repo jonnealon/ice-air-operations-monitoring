@@ -24936,5 +24936,31 @@
       "HIGH_PRIORITY:Charter+Unusual_Destination"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-07T12:21:32.541374",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a9ca37",
+    "callsign": "N73RP",
+    "latitude": 29.5467,
+    "longitude": -98.4906,
+    "altitude_m": 304.8,
+    "velocity_ms": 65.2,
+    "heading": 132.12,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4733700310163713,
+    "bearing_from_airport": 305.69793459078204,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
