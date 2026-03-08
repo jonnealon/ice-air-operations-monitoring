@@ -28769,5 +28769,39 @@
       "HIGH_PRIORITY:Charter+Unusual_Destination"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-08T08:17:21.244451",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ac8009",
+    "callsign": "SWA3945",
+    "latitude": 32.1153,
+    "longitude": -110.9361,
+    "altitude_m": null,
+    "velocity_ms": 5.92,
+    "heading": 357.19,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.46914901159929584,
+    "bearing_from_airport": 100.9093543603268,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
   }
 ]
