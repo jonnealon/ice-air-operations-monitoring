@@ -35488,5 +35488,31 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-10T00:58:14.476840",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a098f6",
+    "callsign": "AAL3058",
+    "latitude": 32.1209,
+    "longitude": -110.9409,
+    "altitude_m": null,
+    "velocity_ms": 5.66,
+    "heading": 0,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.5328829385864616,
+    "bearing_from_airport": 1.0108409643190157,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
