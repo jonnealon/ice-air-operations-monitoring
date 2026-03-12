@@ -44787,5 +44787,63 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-12T11:47:00.540785",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a4cfe0",
+    "callsign": "UPS2791",
+    "latitude": 29.5369,
+    "longitude": -98.4535,
+    "altitude_m": null,
+    "velocity_ms": 3.34,
+    "heading": 227.81,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.6137859137306207,
+    "bearing_from_airport": 77.28067308555734,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-12T11:47:00.540842",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac0dc4",
+    "callsign": "N876MS",
+    "latitude": 29.4971,
+    "longitude": -98.4957,
+    "altitude_m": 327.66,
+    "velocity_ms": 50.72,
+    "heading": 40.48,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 4.770899607602837,
+    "bearing_from_airport": 211.63171410165128,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
