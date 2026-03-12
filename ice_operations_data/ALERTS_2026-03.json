@@ -44699,5 +44699,35 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-12T09:31:41.449786",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a890c7",
+    "callsign": "DAL8838",
+    "latitude": 29.5725,
+    "longitude": -98.4439,
+    "altitude_m": 1524,
+    "velocity_ms": 94.91,
+    "heading": 324.93,
+    "vertrate": 14.31,
+    "on_ground": false,
+    "distance_from_airport_km": 4.980490994453625,
+    "bearing_from_airport": 30.136490847229425,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE"
+    ],
+    "is_alert": true
   }
 ]
