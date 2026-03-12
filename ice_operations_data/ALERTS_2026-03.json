@@ -44845,5 +44845,151 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-12T13:54:09.733805",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a26a71",
+    "callsign": "N255DW",
+    "latitude": 33.3088,
+    "longitude": -111.6647,
+    "altitude_m": null,
+    "velocity_ms": 10.29,
+    "heading": 315,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.9527048837344503,
+    "bearing_from_airport": 276.69358727210437,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-12T13:54:10.695630",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a93711",
+    "callsign": "NKS1645",
+    "latitude": 29.4946,
+    "longitude": -98.3806,
+    "altitude_m": 1684.02,
+    "velocity_ms": 146.93,
+    "heading": 221.17,
+    "vertrate": 0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 9.646215109944352,
+    "bearing_from_airport": 116.71262422016076,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-12T13:54:11.603677",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a2d95e",
+    "callsign": "CSB529",
+    "latitude": 31.797,
+    "longitude": -106.2864,
+    "altitude_m": 1463.04,
+    "velocity_ms": 88.19,
+    "heading": 274.01,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 8.695850718208021,
+    "bearing_from_airport": 97.4566581177171,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-12T13:54:13.226899",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ad495b",
+    "callsign": "AAL607",
+    "latitude": 32.1213,
+    "longitude": -110.9401,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 132.19,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.5833687729026678,
+    "bearing_from_airport": 8.339196742530305,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-12T13:54:13.226954",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a2dd59",
+    "callsign": "FDX1414",
+    "latitude": 32.116,
+    "longitude": -110.9304,
+    "altitude_m": null,
+    "velocity_ms": 3.09,
+    "heading": 84.38,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.9966097376360795,
+    "bearing_from_airport": 90.63534181012369,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
