@@ -73399,5 +73399,88 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-14T05:04:48.155213",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a3fffc",
+    "callsign": "DAL2797",
+    "latitude": 29.5491,
+    "longitude": -98.4937,
+    "altitude_m": 297.18,
+    "velocity_ms": 65.24,
+    "heading": 131.48,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.872250987000976,
+    "bearing_from_airport": 306.5308034590342,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-14T05:04:49.570531",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a835d1",
+    "callsign": "GXA178",
+    "latitude": 26.2243,
+    "longitude": -97.6543,
+    "altitude_m": null,
+    "velocity_ms": 28.29,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.46630632037027187,
+    "bearing_from_airport": 178.77641497322998,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-14T05:04:50.504340",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a6eb93",
+    "callsign": "ASI670",
+    "latitude": 32.1299,
+    "longitude": -110.9556,
+    "altitude_m": 853.44,
+    "velocity_ms": 37.84,
+    "heading": 136.1,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 2.056806327369662,
+    "bearing_from_airport": 318.1433927824338,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
