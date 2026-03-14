@@ -54361,5 +54361,62 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-14T10:16:11.351588",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a3cd6b",
+    "callsign": "DAL1073",
+    "latitude": 29.5598,
+    "longitude": -98.4355,
+    "altitude_m": 693.42,
+    "velocity_ms": 93.22,
+    "heading": 37.38,
+    "vertrate": 8.78,
+    "on_ground": false,
+    "distance_from_airport_km": 4.400740859301629,
+    "bearing_from_airport": 48.81593312454419,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-14T10:16:11.351652",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a24e39",
+    "callsign": "FDX1416",
+    "latitude": 29.5358,
+    "longitude": -98.4766,
+    "altitude_m": 236.22,
+    "velocity_ms": 59.77,
+    "heading": 131.51,
+    "vertrate": -0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 0.696867507422533,
+    "bearing_from_airport": 289.54380931715474,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
