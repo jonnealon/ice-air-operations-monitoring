@@ -73784,5 +73784,61 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-14T09:52:55.707725",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a027fa",
+    "callsign": "Unknown",
+    "latitude": 29.5278,
+    "longitude": -98.4713,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 42.19,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.6707310642918093,
+    "bearing_from_airport": 192.4738796318654,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-14T09:52:56.618769",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a2718b",
+    "callsign": "N257AM",
+    "latitude": 31.7758,
+    "longitude": -106.4809,
+    "altitude_m": 1463.04,
+    "velocity_ms": 67.45,
+    "heading": 97.45,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 10.33118315358524,
+    "bearing_from_airport": 250.31371760523095,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
