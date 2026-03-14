@@ -53874,5 +53874,99 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-14T03:37:21.443580",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a5c4e5",
+    "callsign": "VAR471",
+    "latitude": 33.2723,
+    "longitude": -111.6459,
+    "altitude_m": 784.86,
+    "velocity_ms": 57.14,
+    "heading": 133.18,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 4.020448941953256,
+    "bearing_from_airport": 168.55002297075066,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-14T03:37:21.443592",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a8bcd7",
+    "callsign": "NDU662",
+    "latitude": 33.2944,
+    "longitude": -111.6456,
+    "altitude_m": 457.2,
+    "velocity_ms": 34.95,
+    "heading": 317.39,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 1.701178283705874,
+    "bearing_from_airport": 150.96207912772786,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-14T03:37:24.834457",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "0d0234",
+    "callsign": "Unknown",
+    "latitude": 32.1171,
+    "longitude": -110.9406,
+    "altitude_m": 777.24,
+    "velocity_ms": 21.47,
+    "heading": 314.03,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 0.1171971833801854,
+    "bearing_from_airport": 18.715614530729795,
+    "projected_region": "SOUTH_ASIA",
+    "potential_destinations": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN",
+      "UNUSUAL_DESTINATION:SOUTH_ASIA",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
