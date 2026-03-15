@@ -80275,5 +80275,99 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-15T06:41:46.789498",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a258be",
+    "callsign": "AAY672",
+    "latitude": 33.309,
+    "longitude": -111.6674,
+    "altitude_m": null,
+    "velocity_ms": 7.72,
+    "heading": 180,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.2040757828813378,
+    "bearing_from_airport": 276.35488833009583,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-15T06:41:50.559914",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ad694c",
+    "callsign": "SWA3559",
+    "latitude": 32.1146,
+    "longitude": -110.9352,
+    "altitude_m": null,
+    "velocity_ms": 16.98,
+    "heading": 315,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.5701346782424073,
+    "bearing_from_airport": 106.9782302120359,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-15T06:41:50.559952",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "abef79",
+    "callsign": "SWA2674",
+    "latitude": 32.1146,
+    "longitude": -110.9352,
+    "altitude_m": null,
+    "velocity_ms": 15.43,
+    "heading": 317.81,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.5701346782424073,
+    "bearing_from_airport": 106.9782302120359,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
   }
 ]
