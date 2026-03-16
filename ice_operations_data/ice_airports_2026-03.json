@@ -85833,5 +85833,153 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-16T04:15:04.519493",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a54db3",
+    "callsign": "OXF9750",
+    "latitude": 33.3301,
+    "longitude": -111.6904,
+    "altitude_m": 647.7,
+    "velocity_ms": 54.99,
+    "heading": 62.72,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 4.149467518274223,
+    "bearing_from_airport": 306.6354587671641,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T04:15:04.519540",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a147b5",
+    "callsign": "CXK321",
+    "latitude": 33.3197,
+    "longitude": -111.6474,
+    "altitude_m": 739.14,
+    "velocity_ms": 49.84,
+    "heading": 315.42,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 1.4760029158712373,
+    "bearing_from_airport": 26.498727050493244,
+    "projected_region": "SOUTH_ASIA",
+    "potential_destinations": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:SOUTH_ASIA",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T04:15:05.299106",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a365b7",
+    "callsign": "DAL2686",
+    "latitude": 29.4973,
+    "longitude": -98.4956,
+    "altitude_m": 449.58,
+    "velocity_ms": 66.4,
+    "heading": 40.6,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 4.74693321580574,
+    "bearing_from_airport": 211.6728916173407,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T04:15:07.511633",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "abf025",
+    "callsign": "SWA2991",
+    "latitude": 32.1132,
+    "longitude": -110.9335,
+    "altitude_m": null,
+    "velocity_ms": 6.94,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.7751078590984846,
+    "bearing_from_airport": 114.53568650856494,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T04:15:07.511665",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a7506a",
+    "callsign": "SWA2380",
+    "latitude": 32.1018,
+    "longitude": -110.9226,
+    "altitude_m": 800.1,
+    "velocity_ms": 70.94,
+    "heading": 314.71,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.347749077422007,
+    "bearing_from_airport": 132.5320684825095,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
