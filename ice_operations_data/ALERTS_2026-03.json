@@ -65181,5 +65181,150 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T20:25:51.712302",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2b2e1",
+    "callsign": "AAY2279",
+    "latitude": 33.3087,
+    "longitude": -111.6675,
+    "altitude_m": null,
+    "velocity_ms": 8.75,
+    "heading": 180,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.2100928639233475,
+    "bearing_from_airport": 274.7390734008227,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T20:25:51.712316",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a30985",
+    "callsign": "N295RA",
+    "latitude": 33.3098,
+    "longitude": -111.6265,
+    "altitude_m": 739.14,
+    "velocity_ms": 61.88,
+    "heading": 137.02,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.6069266674794553,
+    "bearing_from_airport": 85.10716026577774,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T20:25:52.639189",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a39fb7",
+    "callsign": "UAL2243",
+    "latitude": 29.554,
+    "longitude": -98.4386,
+    "altitude_m": 495.3,
+    "velocity_ms": 88.03,
+    "heading": 44.53,
+    "vertrate": 10.4,
+    "on_ground": false,
+    "distance_from_airport_km": 3.7625535329418196,
+    "bearing_from_airport": 53.20016787035706,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T20:25:54.859849",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "abdf22",
+    "callsign": "EJA864",
+    "latitude": 32.1254,
+    "longitude": -110.9458,
+    "altitude_m": null,
+    "velocity_ms": 0.9,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.126625572269868,
+    "bearing_from_airport": 336.3899416135751,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T20:25:54.859882",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a54345",
+    "callsign": "N4380Y",
+    "latitude": 32.0981,
+    "longitude": -110.9184,
+    "altitude_m": 853.44,
+    "velocity_ms": 64.39,
+    "heading": 314.68,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.916576664860663,
+    "bearing_from_airport": 133.23069147194974,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
