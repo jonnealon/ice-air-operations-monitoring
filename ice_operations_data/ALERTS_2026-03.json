@@ -63808,5 +63808,62 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T07:20:16.223954",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2c4e0",
+    "callsign": "GXA6275",
+    "latitude": 33.3173,
+    "longitude": -111.6717,
+    "altitude_m": null,
+    "velocity_ms": 9.26,
+    "heading": 92.81,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.9125501377523262,
+    "bearing_from_airport": 303.4663926457365,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T07:20:18.367685",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a6562b",
+    "callsign": "CSB507",
+    "latitude": 26.2327,
+    "longitude": -97.517,
+    "altitude_m": 1882.14,
+    "velocity_ms": 137.55,
+    "heading": 192.53,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 13.689036057917042,
+    "bearing_from_airport": 88.01793297499853,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
