@@ -64083,5 +64083,94 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T15:35:19.913251",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aaf570",
+    "callsign": "N805LF",
+    "latitude": 33.3008,
+    "longitude": -111.6722,
+    "altitude_m": 426.72,
+    "velocity_ms": 9.26,
+    "heading": 90,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 1.8165280969230164,
+    "bearing_from_airport": 244.6815888566165,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T15:35:20.951804",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac53d5",
+    "callsign": "SWA2675",
+    "latitude": 29.507,
+    "longitude": -98.4858,
+    "altitude_m": 259.08,
+    "velocity_ms": 77.55,
+    "heading": 42.58,
+    "vertrate": -5.2,
+    "on_ground": false,
+    "distance_from_airport_km": 3.3423457735659325,
+    "bearing_from_airport": 207.54402936221234,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T15:35:20.951845",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ab4508",
+    "callsign": "SKW6400",
+    "latitude": 29.5062,
+    "longitude": -98.4867,
+    "altitude_m": 266.7,
+    "velocity_ms": 69.69,
+    "heading": 40.51,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 3.4614580124641767,
+    "bearing_from_airport": 208.14059776442326,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
