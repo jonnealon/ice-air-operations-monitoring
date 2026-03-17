@@ -90832,5 +90832,69 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-17T09:42:34.802745",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a73e63",
+    "callsign": "AJT782",
+    "latitude": 29.5339,
+    "longitude": -98.4568,
+    "altitude_m": null,
+    "velocity_ms": 6.94,
+    "heading": 39.38,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.2557013697430488,
+    "bearing_from_airport": 88.98378926833931,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-17T09:42:35.668582",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ac3ac9",
+    "callsign": "SWA2181",
+    "latitude": 31.7976,
+    "longitude": -106.3016,
+    "altitude_m": 1447.8,
+    "velocity_ms": 82.35,
+    "heading": 271.79,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 7.266558974337434,
+    "bearing_from_airport": 98.41200153214334,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
