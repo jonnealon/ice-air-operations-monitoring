@@ -2571,8 +2571,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-12T23:57:59.455678",
-    "last_seen": "2026-03-17T17:54:12.131562",
-    "total_detections": 22,
+    "last_seen": "2026-03-17T21:01:59.649121",
+    "total_detections": 23,
     "is_charter": false,
     "operator": null
   },
@@ -3277,12 +3277,12 @@
       "NDU736"
     ],
     "airports_visited": [
-      "TUS",
-      "AZA"
+      "AZA",
+      "TUS"
     ],
     "first_seen": "2026-02-13T21:53:53.689392",
-    "last_seen": "2026-03-17T14:11:15.604359",
-    "total_detections": 30,
+    "last_seen": "2026-03-17T21:01:59.649170",
+    "total_detections": 31,
     "is_charter": false,
     "operator": null
   },
@@ -30663,8 +30663,8 @@
       "TUS"
     ],
     "first_seen": "2026-03-12T17:40:15.935780",
-    "last_seen": "2026-03-12T17:40:15.935780",
-    "total_detections": 1,
+    "last_seen": "2026-03-17T21:02:02.774068",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -36322,5 +36322,19 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "ae2007": {
+    "icao24": "ae2007",
+    "callsigns_seen": [
+      "COYOTE05"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-03-17T21:02:02.774106",
+    "last_seen": "2026-03-17T21:02:02.774106",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
