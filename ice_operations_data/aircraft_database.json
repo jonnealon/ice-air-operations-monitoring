@@ -809,8 +809,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-10T15:47:36.824837",
-    "last_seen": "2026-03-11T16:37:58.458515",
-    "total_detections": 33,
+    "last_seen": "2026-03-17T18:43:56.052535",
+    "total_detections": 34,
     "is_charter": false,
     "operator": null
   },
@@ -915,8 +915,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-10T19:43:45.906923",
-    "last_seen": "2026-03-15T16:53:23.736891",
-    "total_detections": 34,
+    "last_seen": "2026-03-17T18:43:56.052504",
+    "total_detections": 35,
     "is_charter": false,
     "operator": null
   },
@@ -1501,8 +1501,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-11T18:10:35.994336",
-    "last_seen": "2026-03-17T14:11:15.604347",
-    "total_detections": 47,
+    "last_seen": "2026-03-17T18:43:56.052454",
+    "total_detections": 48,
     "is_charter": false,
     "operator": null
   },
@@ -3798,8 +3798,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-14T15:50:56.706963",
-    "last_seen": "2026-03-15T20:49:37.629289",
-    "total_detections": 36,
+    "last_seen": "2026-03-17T18:43:56.052543",
+    "total_detections": 37,
     "is_charter": false,
     "operator": null
   },
@@ -7216,8 +7216,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-19T15:10:51.191280",
-    "last_seen": "2026-03-16T22:57:10.436346",
-    "total_detections": 41,
+    "last_seen": "2026-03-17T18:43:56.052516",
+    "total_detections": 42,
     "is_charter": false,
     "operator": null
   },
@@ -22366,11 +22366,12 @@
       "OXF8422"
     ],
     "airports_visited": [
+      "TUS",
       "AZA"
     ],
     "first_seen": "2026-03-03T21:22:37.165575",
-    "last_seen": "2026-03-03T21:22:37.165575",
-    "total_detections": 1,
+    "last_seen": "2026-03-17T18:43:59.587258",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -22497,8 +22498,8 @@
       "AZA"
     ],
     "first_seen": "2026-03-03T22:16:55.686644",
-    "last_seen": "2026-03-11T19:34:41.067860",
-    "total_detections": 11,
+    "last_seen": "2026-03-17T18:43:56.052526",
+    "total_detections": 12,
     "is_charter": false,
     "operator": null
   },
@@ -25167,14 +25168,15 @@
   "adaee8": {
     "icao24": "adaee8",
     "callsigns_seen": [
-      "AAL3125"
+      "AAL3125",
+      "AAL2721"
     ],
     "airports_visited": [
       "TUS"
     ],
     "first_seen": "2026-03-06T22:51:47.289288",
-    "last_seen": "2026-03-06T22:51:47.289288",
-    "total_detections": 1,
+    "last_seen": "2026-03-17T18:43:59.587191",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -36189,6 +36191,62 @@
     ],
     "first_seen": "2026-03-17T17:54:14.934694",
     "last_seen": "2026-03-17T17:54:14.934694",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "abfac6": {
+    "icao24": "abfac6",
+    "callsigns_seen": [
+      "SWA2133"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-03-17T18:43:57.174553",
+    "last_seen": "2026-03-17T18:43:57.174553",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
+  },
+  "a4c2f8": {
+    "icao24": "a4c2f8",
+    "callsigns_seen": [
+      "AAL413"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-03-17T18:43:57.174595",
+    "last_seen": "2026-03-17T18:43:57.174595",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "aa8477": {
+    "icao24": "aa8477",
+    "callsigns_seen": [
+      "EJA777"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-03-17T18:43:59.587228",
+    "last_seen": "2026-03-17T18:43:59.587228",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a7da1d": {
+    "icao24": "a7da1d",
+    "callsigns_seen": [
+      "N605D"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-03-17T18:43:59.587240",
+    "last_seen": "2026-03-17T18:43:59.587240",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
