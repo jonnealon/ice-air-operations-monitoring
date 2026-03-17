@@ -67079,5 +67079,101 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-17T06:35:49.261736",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2d446",
+    "callsign": "OXF9864",
+    "latitude": 33.29,
+    "longitude": -111.6098,
+    "altitude_m": 632.46,
+    "velocity_ms": 49.61,
+    "heading": 229.21,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 4.593313530718262,
+    "bearing_from_airport": 115.46234707471547,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-17T06:35:49.261785",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a54db3",
+    "callsign": "OXF9750",
+    "latitude": 33.3186,
+    "longitude": -111.6146,
+    "altitude_m": 739.14,
+    "velocity_ms": 54.3,
+    "heading": 138.46,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 3.890669217226326,
+    "bearing_from_airport": 72.04192584284579,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-17T06:35:49.261798",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a8fe57",
+    "callsign": "NDU679",
+    "latitude": 33.2956,
+    "longitude": -111.647,
+    "altitude_m": 449.58,
+    "velocity_ms": 40.75,
+    "heading": 316.02,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5224723590031424,
+    "bearing_from_airport": 152.80357081233774,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
