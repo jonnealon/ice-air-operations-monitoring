@@ -26320,11 +26320,12 @@
       "N221MT"
     ],
     "airports_visited": [
-      "AZA"
+      "AZA",
+      "TUS"
     ],
     "first_seen": "2026-03-07T23:12:10.345458",
-    "last_seen": "2026-03-11T07:35:50.315534",
-    "total_detections": 2,
+    "last_seen": "2026-03-17T08:37:24.602880",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -35853,5 +35854,19 @@
     "total_detections": 1,
     "is_charter": false,
     "operator": null
+  },
+  "ac696c": {
+    "icao24": "ac696c",
+    "callsigns_seen": [
+      "SWA2913"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-03-17T08:37:22.726255",
+    "last_seen": "2026-03-17T08:37:22.726255",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
   }
 }
