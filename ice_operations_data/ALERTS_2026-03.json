@@ -76280,5 +76280,153 @@
       "HIGH_PRIORITY:Charter+Unusual_Destination"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-19T20:30:09.989696",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aa9748",
+    "callsign": "CXK592",
+    "latitude": 33.2922,
+    "longitude": -111.6362,
+    "altitude_m": 449.58,
+    "velocity_ms": 40.39,
+    "heading": 316.55,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4249463155659945,
+    "bearing_from_airport": 135.56007568781774,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-19T20:30:09.989744",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a960e3",
+    "callsign": "NDU703",
+    "latitude": 33.2936,
+    "longitude": -111.6447,
+    "altitude_m": 457.2,
+    "velocity_ms": 34.2,
+    "heading": 313.78,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.8195843796257816,
+    "bearing_from_airport": 150.02009420032317,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-19T20:30:11.195578",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac52e2",
+    "callsign": "SWA2250",
+    "latitude": 29.5472,
+    "longitude": -98.4464,
+    "altitude_m": 396.24,
+    "velocity_ms": 89.06,
+    "heading": 40.31,
+    "vertrate": 10.08,
+    "on_ground": false,
+    "distance_from_airport_km": 2.711584750937684,
+    "bearing_from_airport": 56.44491867126192,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-19T20:30:11.195628",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a34fae",
+    "callsign": "EJA312",
+    "latitude": 29.5483,
+    "longitude": -98.4927,
+    "altitude_m": 251.46,
+    "velocity_ms": 61.22,
+    "heading": 131.59,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.7418259973453405,
+    "bearing_from_airport": 306.2403051778267,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-19T20:30:12.444150",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ab4989",
+    "callsign": "N8260M",
+    "latitude": 31.7988,
+    "longitude": -106.289,
+    "altitude_m": 1584.96,
+    "velocity_ms": 68.5,
+    "heading": 255.65,
+    "vertrate": -4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 8.428302717140895,
+    "bearing_from_airport": 96.32778891407509,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
