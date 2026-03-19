@@ -74288,5 +74288,36 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-19T06:14:40.893884",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a1ed4b",
+    "callsign": "N223MT",
+    "latitude": 32.0823,
+    "longitude": -110.8512,
+    "altitude_m": 1607.82,
+    "velocity_ms": 53.92,
+    "heading": 119.74,
+    "vertrate": 4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 9.238561485291678,
+    "bearing_from_airport": 113.93241505126815,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
