@@ -37682,11 +37682,12 @@
       "FDX1188"
     ],
     "airports_visited": [
-      "SAT"
+      "SAT",
+      "ELP"
     ],
     "first_seen": "2026-03-19T09:05:59.549000",
-    "last_seen": "2026-03-19T09:05:59.549000",
-    "total_detections": 1,
+    "last_seen": "2026-03-19T11:05:22.960687",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -37703,5 +37704,19 @@
     "total_detections": 1,
     "is_charter": false,
     "operator": null
+  },
+  "ac12be": {
+    "icao24": "ac12be",
+    "callsigns_seen": [
+      "SWA2896"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-03-19T11:05:22.234693",
+    "last_seen": "2026-03-19T11:05:22.234693",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
   }
 }
