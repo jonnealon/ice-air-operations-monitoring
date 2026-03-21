@@ -112298,5 +112298,61 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-21T07:07:17.734708",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "abc4be",
+    "callsign": "SWA2181",
+    "latitude": 31.797,
+    "longitude": -106.2863,
+    "altitude_m": 1546.86,
+    "velocity_ms": 84.96,
+    "heading": 272.43,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 8.70520358192453,
+    "bearing_from_airport": 97.4485485382549,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-21T07:07:17.734765",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ae204a",
+    "callsign": "G72315",
+    "latitude": 31.7631,
+    "longitude": -106.4715,
+    "altitude_m": 1600.2,
+    "velocity_ms": 16.82,
+    "heading": 66.57,
+    "vertrate": 0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 10.103772319143761,
+    "bearing_from_airport": 241.05190958605996,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
