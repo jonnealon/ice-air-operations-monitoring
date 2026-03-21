@@ -82502,5 +82502,148 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-21T03:21:39.376457",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a4566a",
+    "callsign": "NDU379",
+    "latitude": 33.3161,
+    "longitude": -111.6641,
+    "altitude_m": 601.98,
+    "velocity_ms": 39.67,
+    "heading": 316.58,
+    "vertrate": 2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.281360556180317,
+    "bearing_from_airport": 315.9760922273919,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-21T03:21:39.376469",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ad26fd",
+    "callsign": "CXK582",
+    "latitude": 33.3069,
+    "longitude": -111.6485,
+    "altitude_m": 487.68,
+    "velocity_ms": 37.13,
+    "heading": 317.25,
+    "vertrate": 1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 0.5654920460226838,
+    "bearing_from_airport": 100.17359355957421,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-21T03:21:40.267276",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ad4afe",
+    "callsign": "AAL1153",
+    "latitude": 29.5482,
+    "longitude": -98.4924,
+    "altitude_m": 266.7,
+    "velocity_ms": 76.13,
+    "heading": 131.99,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 2.711907024471283,
+    "bearing_from_airport": 306.41286600676784,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-21T03:21:40.649568",
+    "airport_code": "BRO",
+    "airport_name": "Brownsville South Padre",
+    "icao24": "aa883e",
+    "callsign": "ENY3412",
+    "latitude": 25.9172,
+    "longitude": -97.4361,
+    "altitude_m": 0,
+    "velocity_ms": 62.21,
+    "heading": 136.01,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5394219406595229,
+    "bearing_from_airport": 318.5844940262611,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-21T03:21:41.956288",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a047d8",
+    "callsign": "CXK262",
+    "latitude": 32.1167,
+    "longitude": -110.9401,
+    "altitude_m": 922.02,
+    "velocity_ms": 33.1,
+    "heading": 314.37,
+    "vertrate": 2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 0.10767936291874204,
+    "bearing_from_airport": 51.792777513999226,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
