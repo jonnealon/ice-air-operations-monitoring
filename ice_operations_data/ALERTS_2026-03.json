@@ -87679,5 +87679,86 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-22T05:15:11.525187",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aaed67",
+    "callsign": "OXF8087",
+    "latitude": 33.3173,
+    "longitude": -111.661,
+    "altitude_m": 464.82,
+    "velocity_ms": 37.86,
+    "heading": 137.2,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 1.2147248381136293,
+    "bearing_from_airport": 330.24147215282784,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-22T05:15:12.571376",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a7130c",
+    "callsign": "SWA2686",
+    "latitude": 29.5463,
+    "longitude": -98.4901,
+    "altitude_m": 281.94,
+    "velocity_ms": 71.39,
+    "heading": 132.08,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4082605260765937,
+    "bearing_from_airport": 305.5100814717231,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-22T05:15:12.571421",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "abfd23",
+    "callsign": "SWA4376",
+    "latitude": 29.5507,
+    "longitude": -98.4957,
+    "altitude_m": 312.42,
+    "velocity_ms": 75.45,
+    "heading": 131.41,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 3.1332943216086018,
+    "bearing_from_airport": 307.0393057370973,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
