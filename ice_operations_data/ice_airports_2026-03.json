@@ -118852,5 +118852,88 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-22T11:14:09.468355",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aaf570",
+    "callsign": "N805LF",
+    "latitude": 33.314,
+    "longitude": -111.6715,
+    "altitude_m": 487.68,
+    "velocity_ms": 23.29,
+    "heading": 136.79,
+    "vertrate": -0.98,
+    "on_ground": false,
+    "distance_from_airport_km": 1.720649523590435,
+    "bearing_from_airport": 293.581420123536,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-22T11:14:09.955874",
+    "airport_code": "AEX",
+    "airport_name": "Alexandria International",
+    "icao24": "a24014",
+    "callsign": "ENY3978",
+    "latitude": 31.3025,
+    "longitude": -92.5431,
+    "altitude_m": 495.3,
+    "velocity_ms": 74.11,
+    "heading": 241.83,
+    "vertrate": 9.75,
+    "on_ground": false,
+    "distance_from_airport_km": 2.835968802541984,
+    "bearing_from_airport": 167.05212556819993,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-22T11:14:09.955939",
+    "airport_code": "AEX",
+    "airport_name": "Alexandria International",
+    "icao24": "a8d224",
+    "callsign": "EDV5162",
+    "latitude": 31.3034,
+    "longitude": -92.5103,
+    "altitude_m": 510.54,
+    "velocity_ms": 103.42,
+    "heading": 88.86,
+    "vertrate": 6.83,
+    "on_ground": false,
+    "distance_from_airport_km": 4.596091359596109,
+    "bearing_from_airport": 125.41031154528446,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
