@@ -118821,5 +118821,36 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-22T10:50:19.791460",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a02a66",
+    "callsign": "N11FQ",
+    "latitude": 31.8118,
+    "longitude": -106.3009,
+    "altitude_m": 1516.38,
+    "velocity_ms": 55.36,
+    "heading": 232.17,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 7.271981701257067,
+    "bearing_from_airport": 85.95331495826724,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
