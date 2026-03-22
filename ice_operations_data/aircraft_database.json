@@ -15431,8 +15431,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-25T20:58:50.361322",
-    "last_seen": "2026-02-25T20:58:50.361322",
-    "total_detections": 1,
+    "last_seen": "2026-03-22T23:47:29.828373",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -18456,22 +18456,23 @@
   "a2c574": {
     "icao24": "a2c574",
     "callsigns_seen": [
-      "AAY468",
-      "AAY665",
-      "AAY736",
-      "AAY656",
-      "AAY437",
-      "AAY729",
+      "AAY708",
+      "AAY658",
       "AAY752",
+      "AAY437",
+      "AAY665",
       "AAY554",
-      "AAY658"
+      "AAY729",
+      "AAY468",
+      "AAY736",
+      "AAY656"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-28T05:24:19.036251",
-    "last_seen": "2026-03-21T21:14:12.386548",
-    "total_detections": 9,
+    "last_seen": "2026-03-22T23:47:29.828329",
+    "total_detections": 10,
     "is_charter": false,
     "operator": null
   },
@@ -25553,14 +25554,16 @@
   "ac74e4": {
     "icao24": "ac74e4",
     "callsigns_seen": [
-      "SWA1143"
+      "SWA1143",
+      "SWA1188"
     ],
     "airports_visited": [
-      "SAT"
+      "SAT",
+      "TUS"
     ],
     "first_seen": "2026-03-07T06:23:58.459536",
-    "last_seen": "2026-03-07T06:23:58.459536",
-    "total_detections": 1,
+    "last_seen": "2026-03-22T23:47:32.667005",
+    "total_detections": 2,
     "is_charter": true,
     "operator": "iAero Group"
   },
@@ -41720,5 +41723,33 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "a8b5ad": {
+    "icao24": "a8b5ad",
+    "callsigns_seen": [
+      "QXE2003"
+    ],
+    "airports_visited": [
+      "ELP"
+    ],
+    "first_seen": "2026-03-22T23:47:31.481476",
+    "last_seen": "2026-03-22T23:47:31.481476",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a1f503": {
+    "icao24": "a1f503",
+    "callsigns_seen": [
+      "EJA225"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-03-22T23:47:32.666959",
+    "last_seen": "2026-03-22T23:47:32.666959",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
