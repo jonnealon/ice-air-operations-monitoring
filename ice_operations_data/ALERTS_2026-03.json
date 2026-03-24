@@ -97097,5 +97097,63 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-24T15:37:54.410266",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a320c1",
+    "callsign": "Unknown",
+    "latitude": 29.5313,
+    "longitude": -98.4706,
+    "altitude_m": 403.86,
+    "velocity_ms": 84.65,
+    "heading": 130.56,
+    "vertrate": 18.21,
+    "on_ground": false,
+    "distance_from_airport_km": 0.2773776377973651,
+    "bearing_from_airport": 196.17369925167895,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-24T15:37:54.410278",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "0d09ce",
+    "callsign": "VIV7806",
+    "latitude": 29.5466,
+    "longitude": -98.4905,
+    "altitude_m": 236.22,
+    "velocity_ms": 66.31,
+    "heading": 131.86,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4590526898447966,
+    "bearing_from_airport": 305.6191253137993,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
