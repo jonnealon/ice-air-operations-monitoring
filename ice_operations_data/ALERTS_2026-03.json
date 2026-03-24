@@ -96287,5 +96287,149 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-24T01:00:30.501820",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aabcec",
+    "callsign": "NDU791",
+    "latitude": 33.2887,
+    "longitude": -111.6389,
+    "altitude_m": 495.3,
+    "velocity_ms": 39.31,
+    "heading": 317.12,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 2.5669204156372176,
+    "bearing_from_airport": 145.67582418952907,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-24T01:00:30.501869",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a84f35",
+    "callsign": "CXK641",
+    "latitude": 33.2948,
+    "longitude": -111.631,
+    "altitude_m": 579.12,
+    "velocity_ms": 33.36,
+    "heading": 250.17,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 2.614323266281731,
+    "bearing_from_airport": 123.49311502582708,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-24T01:00:30.501881",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a83a0d",
+    "callsign": "N6290J",
+    "latitude": 33.2874,
+    "longitude": -111.6658,
+    "altitude_m": 708.66,
+    "velocity_ms": 54.01,
+    "heading": 130.36,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 2.495266551232032,
+    "bearing_from_airport": 204.84650549939923,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-24T01:00:31.348370",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "0d0e5b",
+    "callsign": "VIV7820",
+    "latitude": 29.5256,
+    "longitude": -98.4695,
+    "altitude_m": null,
+    "velocity_ms": 3.34,
+    "heading": 250.31,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.8995667045995419,
+    "bearing_from_airport": 178.15415369398397,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-24T01:00:33.603859",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a1cbc4",
+    "callsign": "N21470",
+    "latitude": 32.1271,
+    "longitude": -110.9405,
+    "altitude_m": null,
+    "velocity_ms": 5.14,
+    "heading": 312.19,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.2219045199705003,
+    "bearing_from_airport": 2.2044615964899776,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
