@@ -591,8 +591,8 @@
       "TUS"
     ],
     "first_seen": "2026-02-09T23:09:38.643983",
-    "last_seen": "2026-03-24T17:45:38.211188",
-    "total_detections": 44,
+    "last_seen": "2026-03-24T18:44:48.333019",
+    "total_detections": 45,
     "is_charter": false,
     "operator": null
   },
@@ -1957,8 +1957,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-12T15:11:01.325732",
-    "last_seen": "2026-03-24T05:18:14.035469",
-    "total_detections": 29,
+    "last_seen": "2026-03-24T18:44:45.731355",
+    "total_detections": 30,
     "is_charter": false,
     "operator": null
   },
@@ -3458,8 +3458,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-13T23:04:24.644087",
-    "last_seen": "2026-03-24T17:45:35.289527",
-    "total_detections": 24,
+    "last_seen": "2026-03-24T18:44:45.731412",
+    "total_detections": 25,
     "is_charter": false,
     "operator": null
   },
@@ -4410,8 +4410,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-14T22:53:49.850887",
-    "last_seen": "2026-03-22T19:24:21.329891",
-    "total_detections": 40,
+    "last_seen": "2026-03-24T18:44:45.731305",
+    "total_detections": 41,
     "is_charter": false,
     "operator": null
   },
@@ -6716,12 +6716,12 @@
       "NDU362"
     ],
     "airports_visited": [
-      "AZA",
-      "TUS"
+      "TUS",
+      "AZA"
     ],
     "first_seen": "2026-02-18T15:08:59.344113",
-    "last_seen": "2026-03-23T16:43:16.166985",
-    "total_detections": 24,
+    "last_seen": "2026-03-24T18:44:45.731403",
+    "total_detections": 25,
     "is_charter": false,
     "operator": null
   },
@@ -13204,8 +13204,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-23T21:33:13.056081",
-    "last_seen": "2026-03-20T21:49:50.985741",
-    "total_detections": 5,
+    "last_seen": "2026-03-24T18:44:45.731343",
+    "total_detections": 6,
     "is_charter": false,
     "operator": null
   },
@@ -13232,8 +13232,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-23T22:29:31.576382",
-    "last_seen": "2026-03-10T16:43:47.474537",
-    "total_detections": 8,
+    "last_seen": "2026-03-24T18:44:45.731365",
+    "total_detections": 9,
     "is_charter": false,
     "operator": null
   },
@@ -13302,8 +13302,8 @@
       "TUS"
     ],
     "first_seen": "2026-02-23T22:29:34.407894",
-    "last_seen": "2026-03-18T18:42:08.482949",
-    "total_detections": 11,
+    "last_seen": "2026-03-24T18:44:48.332975",
+    "total_detections": 12,
     "is_charter": false,
     "operator": null
   },
@@ -13884,8 +13884,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-24T17:49:01.047030",
-    "last_seen": "2026-03-23T20:26:57.876219",
-    "total_detections": 36,
+    "last_seen": "2026-03-24T18:44:45.731373",
+    "total_detections": 37,
     "is_charter": false,
     "operator": null
   },
@@ -15321,8 +15321,8 @@
       "SAT"
     ],
     "first_seen": "2026-02-25T19:43:22.779934",
-    "last_seen": "2026-03-19T22:16:04.609943",
-    "total_detections": 2,
+    "last_seen": "2026-03-24T18:44:46.405558",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -33248,14 +33248,16 @@
   "a92c25": {
     "icao24": "a92c25",
     "callsigns_seen": [
+      "Unknown",
       "EJA690"
     ],
     "airports_visited": [
-      "TUS"
+      "TUS",
+      "SAT"
     ],
     "first_seen": "2026-03-14T17:16:34.385249",
-    "last_seen": "2026-03-14T17:16:34.385249",
-    "total_detections": 1,
+    "last_seen": "2026-03-24T18:44:46.405538",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -42805,5 +42807,61 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "a9f9fd": {
+    "icao24": "a9f9fd",
+    "callsigns_seen": [
+      "N742AE"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-03-24T18:44:46.405569",
+    "last_seen": "2026-03-24T18:44:46.405569",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a3f133": {
+    "icao24": "a3f133",
+    "callsigns_seen": [
+      "DAL1408"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-03-24T18:44:46.405579",
+    "last_seen": "2026-03-24T18:44:46.405579",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "3cd068": {
+    "icao24": "3cd068",
+    "callsigns_seen": [
+      "KITE55"
+    ],
+    "airports_visited": [
+      "ELP"
+    ],
+    "first_seen": "2026-03-24T18:44:47.179984",
+    "last_seen": "2026-03-24T18:44:47.179984",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "abca00": {
+    "icao24": "abca00",
+    "callsigns_seen": [
+      "Unknown"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-03-24T18:44:48.333007",
+    "last_seen": "2026-03-24T18:44:48.333007",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
