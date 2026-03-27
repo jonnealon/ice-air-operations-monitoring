@@ -108,8 +108,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-09T18:38:27.359175",
-    "last_seen": "2026-03-22T20:13:35.369483",
-    "total_detections": 5,
+    "last_seen": "2026-03-27T18:07:31.810630",
+    "total_detections": 6,
     "is_charter": false,
     "operator": null
   },
@@ -823,8 +823,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-10T15:47:36.824837",
-    "last_seen": "2026-03-27T14:02:12.193630",
-    "total_detections": 40,
+    "last_seen": "2026-03-27T18:07:31.810621",
+    "total_detections": 41,
     "is_charter": false,
     "operator": null
   },
@@ -1487,12 +1487,12 @@
       "NDU833"
     ],
     "airports_visited": [
-      "TUS",
-      "AZA"
+      "AZA",
+      "TUS"
     ],
     "first_seen": "2026-02-11T18:10:35.994287",
-    "last_seen": "2026-03-27T04:07:55.996679",
-    "total_detections": 42,
+    "last_seen": "2026-03-27T18:07:31.810605",
+    "total_detections": 43,
     "is_charter": false,
     "operator": null
   },
@@ -1556,14 +1556,15 @@
     "icao24": "a66316",
     "callsigns_seen": [
       "SKW6499",
+      "SKW6514",
       "SKW6508"
     ],
     "airports_visited": [
       "TUS"
     ],
     "first_seen": "2026-02-11T18:10:42.991901",
-    "last_seen": "2026-02-26T03:43:55.479832",
-    "total_detections": 2,
+    "last_seen": "2026-03-27T18:07:34.526426",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -3829,8 +3830,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-14T15:50:56.706963",
-    "last_seen": "2026-03-26T04:07:04.615678",
-    "total_detections": 45,
+    "last_seen": "2026-03-27T18:07:31.810592",
+    "total_detections": 46,
     "is_charter": false,
     "operator": null
   },
@@ -10257,12 +10258,12 @@
       "N3742J"
     ],
     "airports_visited": [
-      "TUS",
-      "AZA"
+      "AZA",
+      "TUS"
     ],
     "first_seen": "2026-02-21T17:47:02.224251",
-    "last_seen": "2026-03-15T16:53:23.736908",
-    "total_detections": 6,
+    "last_seen": "2026-03-27T18:07:31.810614",
+    "total_detections": 7,
     "is_charter": false,
     "operator": null
   },
@@ -12333,17 +12334,17 @@
   "a027fa": {
     "icao24": "a027fa",
     "callsigns_seen": [
-      "Unknown",
       "AAL2721",
-      "AAL1107"
+      "AAL1107",
+      "Unknown"
     ],
     "airports_visited": [
       "TUS",
       "SAT"
     ],
     "first_seen": "2026-02-22T23:14:24.460396",
-    "last_seen": "2026-03-25T21:37:47.026220",
-    "total_detections": 5,
+    "last_seen": "2026-03-27T18:07:34.526408",
+    "total_detections": 6,
     "is_charter": false,
     "operator": null
   },
@@ -13501,8 +13502,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-24T01:02:23.018826",
-    "last_seen": "2026-02-24T01:02:23.018826",
-    "total_detections": 1,
+    "last_seen": "2026-03-27T18:07:31.810552",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -27947,8 +27948,8 @@
       "TUS"
     ],
     "first_seen": "2026-03-09T18:35:32.915115",
-    "last_seen": "2026-03-09T18:35:32.915115",
-    "total_detections": 1,
+    "last_seen": "2026-03-27T18:07:34.526418",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -35368,8 +35369,8 @@
       "TUS"
     ],
     "first_seen": "2026-03-16T16:50:21.593746",
-    "last_seen": "2026-03-16T16:50:21.593746",
-    "total_detections": 1,
+    "last_seen": "2026-03-27T18:07:34.526356",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -36855,8 +36856,8 @@
       "TUS"
     ],
     "first_seen": "2026-03-17T23:32:39.544731",
-    "last_seen": "2026-03-17T23:32:39.544731",
-    "total_detections": 1,
+    "last_seen": "2026-03-27T18:07:34.526396",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -45392,6 +45393,20 @@
     ],
     "first_seen": "2026-03-27T17:13:57.064493",
     "last_seen": "2026-03-27T17:13:57.064493",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "0d0e22": {
+    "icao24": "0d0e22",
+    "callsigns_seen": [
+      "VIV003"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-03-27T18:07:32.672706",
+    "last_seen": "2026-03-27T18:07:32.672706",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
