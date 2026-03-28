@@ -10050,30 +10050,31 @@
   "a24b40": {
     "icao24": "a24b40",
     "callsigns_seen": [
-      "AAY639",
-      "AAY681",
-      "AAY1597",
-      "AAY644",
-      "AAY642",
-      "AAY659",
-      "AAY637",
+      "AAY667",
+      "AAY578",
+      "Unknown",
       "AAY759",
+      "AAY644",
       "AAY663",
-      "AAY719",
+      "AAY656",
       "AAY648",
+      "AAY719",
+      "AAY642",
+      "AAY639",
+      "AAY637",
+      "AAY681",
       "AAY746",
       "AAY2330",
-      "AAY667",
-      "Unknown",
       "AAY1590",
-      "AAY578"
+      "AAY659",
+      "AAY1597"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-21T16:14:36.676239",
-    "last_seen": "2026-03-27T21:01:17.305396",
-    "total_detections": 17,
+    "last_seen": "2026-03-28T06:14:03.385813",
+    "total_detections": 18,
     "is_charter": false,
     "operator": null
   },
@@ -32931,8 +32932,8 @@
       "AZA"
     ],
     "first_seen": "2026-03-14T07:52:03.364279",
-    "last_seen": "2026-03-25T06:36:02.407797",
-    "total_detections": 6,
+    "last_seen": "2026-03-28T06:14:03.385759",
+    "total_detections": 7,
     "is_charter": false,
     "operator": null
   },
@@ -45916,6 +45917,34 @@
     ],
     "first_seen": "2026-03-28T05:16:29.671231",
     "last_seen": "2026-03-28T05:16:29.671231",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
+  },
+  "ac52ff": {
+    "icao24": "ac52ff",
+    "callsigns_seen": [
+      "SWA3427"
+    ],
+    "airports_visited": [
+      "ELP"
+    ],
+    "first_seen": "2026-03-28T06:14:05.325526",
+    "last_seen": "2026-03-28T06:14:05.325526",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
+  },
+  "a1b1bc": {
+    "icao24": "a1b1bc",
+    "callsigns_seen": [
+      "SWA3736"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-03-28T06:14:06.897529",
+    "last_seen": "2026-03-28T06:14:06.897529",
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
