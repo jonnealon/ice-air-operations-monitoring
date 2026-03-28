@@ -150405,5 +150405,65 @@
       "UNUSUAL_DESTINATION:AFRICA_WEST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-28T13:31:10.399325",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "acba1b",
+    "callsign": "SWA1427",
+    "latitude": 31.798,
+    "longitude": -106.3089,
+    "altitude_m": 1318.26,
+    "velocity_ms": 79.36,
+    "heading": 273.34,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 6.5791254510871,
+    "bearing_from_airport": 98.91085782914831,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-28T13:31:11.402514",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "aafc36",
+    "callsign": "DAL886",
+    "latitude": 32.1014,
+    "longitude": -110.9228,
+    "altitude_m": 998.22,
+    "velocity_ms": 81.16,
+    "heading": 136.8,
+    "vertrate": 21.13,
+    "on_ground": false,
+    "distance_from_airport_km": 2.3643499328652116,
+    "bearing_from_airport": 133.63296400358013,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
