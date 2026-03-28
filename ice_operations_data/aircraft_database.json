@@ -28967,14 +28967,15 @@
   "ac86af": {
     "icao24": "ac86af",
     "callsigns_seen": [
-      "AAL2721"
+      "AAL2721",
+      "AAL3125"
     ],
     "airports_visited": [
       "TUS"
     ],
     "first_seen": "2026-03-10T17:37:34.288884",
-    "last_seen": "2026-03-10T17:37:34.288884",
-    "total_detections": 1,
+    "last_seen": "2026-03-28T21:50:01.201201",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -42093,17 +42094,18 @@
   "a2e1ce": {
     "icao24": "a2e1ce",
     "callsigns_seen": [
-      "AAY664",
       "AAY2268",
-      "AAY2317",
-      "Unknown"
+      "AAY664",
+      "Unknown",
+      "AAY642",
+      "AAY2317"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-03-23T14:06:00.389225",
-    "last_seen": "2026-03-27T23:49:51.764547",
-    "total_detections": 4,
+    "last_seen": "2026-03-28T21:49:57.706034",
+    "total_detections": 5,
     "is_charter": false,
     "operator": null
   },
@@ -46449,6 +46451,48 @@
     ],
     "first_seen": "2026-03-28T21:19:19.739471",
     "last_seen": "2026-03-28T21:19:19.739471",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a3e68f": {
+    "icao24": "a3e68f",
+    "callsigns_seen": [
+      "N350U"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-03-28T21:49:58.664004",
+    "last_seen": "2026-03-28T21:49:58.664004",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "ad5d52": {
+    "icao24": "ad5d52",
+    "callsigns_seen": [
+      "N960N"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-03-28T21:49:58.664041",
+    "last_seen": "2026-03-28T21:49:58.664041",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a59de5": {
+    "icao24": "a59de5",
+    "callsigns_seen": [
+      "LXJ461"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-03-28T21:50:01.201256",
+    "last_seen": "2026-03-28T21:50:01.201256",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
