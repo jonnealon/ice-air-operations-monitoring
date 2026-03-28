@@ -8790,8 +8790,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-20T21:13:38.641883",
-    "last_seen": "2026-03-17T20:26:47.603426",
-    "total_detections": 11,
+    "last_seen": "2026-03-28T15:19:16.271210",
+    "total_detections": 12,
     "is_charter": false,
     "operator": null
   },
@@ -9568,19 +9568,21 @@
     "icao24": "a64305",
     "callsigns_seen": [
       "SKW6431",
-      "SKW6514",
-      "Unknown",
-      "SKW6505",
       "SKW4903",
+      "SKW240Y",
+      "Unknown",
+      "SKW6393",
+      "SKW6514",
       "SKW6271",
-      "SKW6393"
+      "SKW6505"
     ],
     "airports_visited": [
+      "ELP",
       "TUS"
     ],
     "first_seen": "2026-02-21T03:23:20.974280",
-    "last_seen": "2026-03-20T19:55:17.688003",
-    "total_detections": 8,
+    "last_seen": "2026-03-28T15:19:17.859578",
+    "total_detections": 9,
     "is_charter": false,
     "operator": null
   },
@@ -19669,14 +19671,15 @@
   "a27dd4": {
     "icao24": "a27dd4",
     "callsigns_seen": [
+      "Unknown",
       "N26ND"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-28T23:41:03.280836",
-    "last_seen": "2026-03-27T14:02:12.193538",
-    "total_detections": 7,
+    "last_seen": "2026-03-28T15:19:16.271171",
+    "total_detections": 8,
     "is_charter": false,
     "operator": null
   },
@@ -46048,6 +46051,34 @@
     ],
     "first_seen": "2026-03-28T14:55:05.528855",
     "last_seen": "2026-03-28T14:55:05.528855",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a562c4": {
+    "icao24": "a562c4",
+    "callsigns_seen": [
+      "N446VB"
+    ],
+    "airports_visited": [
+      "AZA"
+    ],
+    "first_seen": "2026-03-28T15:19:16.271225",
+    "last_seen": "2026-03-28T15:19:16.271225",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a63589": {
+    "icao24": "a63589",
+    "callsigns_seen": [
+      "N5D"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-03-28T15:19:17.011424",
+    "last_seen": "2026-03-28T15:19:17.011424",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
