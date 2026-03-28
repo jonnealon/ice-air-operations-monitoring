@@ -113456,5 +113456,83 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-28T20:52:36.091081",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a5fef7",
+    "callsign": "VAR486",
+    "latitude": 33.3259,
+    "longitude": -111.6756,
+    "altitude_m": 480.06,
+    "velocity_ms": 36.03,
+    "heading": 133.26,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 2.804955897120028,
+    "bearing_from_airport": 315.75597564764934,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-28T20:52:38.781077",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a8c389",
+    "callsign": "ERU64",
+    "latitude": 32.1218,
+    "longitude": -110.9461,
+    "altitude_m": 754.38,
+    "velocity_ms": 31.28,
+    "heading": 135,
+    "vertrate": -0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 0.7938525634444813,
+    "bearing_from_airport": 322.84672890594794,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-28T20:52:38.781129",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a4433a",
+    "callsign": "LXJ374",
+    "latitude": 32.1265,
+    "longitude": -110.9456,
+    "altitude_m": null,
+    "velocity_ms": 7.72,
+    "heading": 36.56,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.2327467856507792,
+    "bearing_from_airport": 339.4652158993145,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
