@@ -114510,5 +114510,88 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-29T04:13:14.108992",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a649fc",
+    "callsign": "NDU504",
+    "latitude": 33.3186,
+    "longitude": -111.667,
+    "altitude_m": 426.72,
+    "velocity_ms": 31.65,
+    "heading": 135.66,
+    "vertrate": -0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 1.6678563773182438,
+    "bearing_from_airport": 315.95797485137,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-29T04:13:16.948715",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "abbd0a",
+    "callsign": "SWA2991",
+    "latitude": 32.0999,
+    "longitude": -110.9195,
+    "altitude_m": 1188.72,
+    "velocity_ms": 83.53,
+    "heading": 130.75,
+    "vertrate": 8.45,
+    "on_ground": false,
+    "distance_from_airport_km": 2.705397761186316,
+    "bearing_from_airport": 131.6488676827081,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-29T04:13:16.948751",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ab6032",
+    "callsign": "VAR832",
+    "latitude": 32.1243,
+    "longitude": -110.949,
+    "altitude_m": 777.24,
+    "velocity_ms": 39.29,
+    "heading": 135,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 1.1807353458432222,
+    "bearing_from_airport": 320.4359675241174,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
