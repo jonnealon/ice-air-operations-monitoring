@@ -123030,5 +123030,99 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-31T05:57:44.218495",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a638b0",
+    "callsign": "OXF8128",
+    "latitude": 33.2983,
+    "longitude": -111.6383,
+    "altitude_m": 495.3,
+    "velocity_ms": 47.31,
+    "heading": 133.24,
+    "vertrate": 2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 1.8358707251866582,
+    "bearing_from_airport": 125.05078912169591,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-31T05:57:46.285814",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ac0143",
+    "callsign": "SWA2181",
+    "latitude": 31.801,
+    "longitude": -106.3684,
+    "altitude_m": 1165.86,
+    "velocity_ms": 73.17,
+    "heading": 273.22,
+    "vertrate": -5.2,
+    "on_ground": false,
+    "distance_from_airport_km": 1.1224401884739523,
+    "bearing_from_airport": 127.812646578569,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-31T05:57:46.285827",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a5b954",
+    "callsign": "SWA1784",
+    "latitude": 31.7966,
+    "longitude": -106.2863,
+    "altitude_m": 1562.1,
+    "velocity_ms": 72.05,
+    "heading": 271.64,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 8.711089491145836,
+    "bearing_from_airport": 97.73807112976397,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
