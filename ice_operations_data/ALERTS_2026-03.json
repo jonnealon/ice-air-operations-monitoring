@@ -123124,5 +123124,31 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-31T07:06:38.468344",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a0fea6",
+    "callsign": "AAL1048",
+    "latitude": 32.1216,
+    "longitude": -110.9459,
+    "altitude_m": 754.38,
+    "velocity_ms": 61.48,
+    "heading": 135.34,
+    "vertrate": 0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 0.7648042920139565,
+    "bearing_from_airport": 322.9648205576551,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
