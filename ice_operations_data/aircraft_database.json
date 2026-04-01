@@ -596,8 +596,8 @@
       "TUS"
     ],
     "first_seen": "2026-02-09T23:09:38.643983",
-    "last_seen": "2026-03-31T23:54:02.503025",
-    "total_detections": 50,
+    "last_seen": "2026-04-01T01:19:01.774355",
+    "total_detections": 51,
     "is_charter": false,
     "operator": null
   },
@@ -2628,8 +2628,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-12T23:57:59.455722",
-    "last_seen": "2026-03-31T19:45:19.309246",
-    "total_detections": 27,
+    "last_seen": "2026-04-01T01:18:58.425999",
+    "total_detections": 28,
     "is_charter": false,
     "operator": null
   },
@@ -5234,8 +5234,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-15T22:55:45.384751",
-    "last_seen": "2026-03-31T23:53:58.981256",
-    "total_detections": 13,
+    "last_seen": "2026-04-01T01:18:58.425956",
+    "total_detections": 14,
     "is_charter": false,
     "operator": null
   },
@@ -40627,8 +40627,8 @@
       "SAT"
     ],
     "first_seen": "2026-03-21T19:42:19.348498",
-    "last_seen": "2026-03-22T18:20:06.571087",
-    "total_detections": 2,
+    "last_seen": "2026-04-01T01:18:59.357798",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -44511,16 +44511,18 @@
   "ad3098": {
     "icao24": "ad3098",
     "callsigns_seen": [
-      "SWA874",
-      "SWA1188"
+      "SWA9004",
+      "SWA1188",
+      "SWA874"
     ],
     "airports_visited": [
+      "TUS",
       "SAT",
-      "TUS"
+      "ELP"
     ],
     "first_seen": "2026-03-26T16:51:16.123771",
-    "last_seen": "2026-03-29T23:53:14.920830",
-    "total_detections": 2,
+    "last_seen": "2026-04-01T01:19:00.329130",
+    "total_detections": 3,
     "is_charter": true,
     "operator": "iAero Group"
   },
@@ -49036,6 +49038,20 @@
     ],
     "first_seen": "2026-03-31T23:54:02.503033",
     "last_seen": "2026-03-31T23:54:02.503033",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a83cab": {
+    "icao24": "a83cab",
+    "callsigns_seen": [
+      "N63PC"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-04-01T01:19:01.774315",
+    "last_seen": "2026-04-01T01:19:01.774315",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
