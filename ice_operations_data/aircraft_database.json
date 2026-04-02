@@ -50,12 +50,12 @@
       "CXK582"
     ],
     "airports_visited": [
-      "AZA",
-      "TUS"
+      "TUS",
+      "AZA"
     ],
     "first_seen": "2026-01-26T14:09:58.453146",
-    "last_seen": "2026-03-25T19:37:36.967175",
-    "total_detections": 59,
+    "last_seen": "2026-04-02T17:39:53.115985",
+    "total_detections": 60,
     "is_charter": false,
     "operator": null
   },
@@ -1591,8 +1591,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-11T20:03:53.652143",
-    "last_seen": "2026-04-02T15:31:12.397862",
-    "total_detections": 25,
+    "last_seen": "2026-04-02T17:39:53.115904",
+    "total_detections": 26,
     "is_charter": false,
     "operator": null
   },
@@ -9043,14 +9043,15 @@
     "icao24": "a67960",
     "callsigns_seen": [
       "SKW6508",
-      "SKW6439"
+      "SKW6439",
+      "SKW6514"
     ],
     "airports_visited": [
       "TUS"
     ],
     "first_seen": "2026-02-20T22:13:16.806899",
-    "last_seen": "2026-02-23T03:58:17.217139",
-    "total_detections": 3,
+    "last_seen": "2026-04-02T17:39:55.646991",
+    "total_detections": 4,
     "is_charter": false,
     "operator": null
   },
@@ -13936,8 +13937,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-24T16:33:12.099079",
-    "last_seen": "2026-03-12T19:34:15.248246",
-    "total_detections": 3,
+    "last_seen": "2026-04-02T17:39:53.115956",
+    "total_detections": 4,
     "is_charter": false,
     "operator": null
   },
@@ -24082,14 +24083,15 @@
   "aa3c80": {
     "icao24": "aa3c80",
     "callsigns_seen": [
+      "Unknown",
       "N759LP"
     ],
     "airports_visited": [
       "ELP"
     ],
     "first_seen": "2026-03-05T01:03:00.224128",
-    "last_seen": "2026-03-05T01:03:00.224128",
-    "total_detections": 1,
+    "last_seen": "2026-04-02T17:39:54.592452",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -29399,15 +29401,16 @@
   "ae1e54": {
     "icao24": "ae1e54",
     "callsigns_seen": [
+      "STAN67",
       "GOAT05",
-      "STAN67"
+      "GOAT78"
     ],
     "airports_visited": [
       "SAT"
     ],
     "first_seen": "2026-03-10T22:15:36.245532",
-    "last_seen": "2026-03-17T15:34:43.369407",
-    "total_detections": 2,
+    "last_seen": "2026-04-02T17:39:53.871270",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -30007,8 +30010,8 @@
       "AZA"
     ],
     "first_seen": "2026-03-11T18:38:05.552196",
-    "last_seen": "2026-03-30T23:36:25.331121",
-    "total_detections": 6,
+    "last_seen": "2026-04-02T17:39:53.115977",
+    "total_detections": 7,
     "is_charter": false,
     "operator": null
   },
@@ -32503,8 +32506,8 @@
       "AZA"
     ],
     "first_seen": "2026-03-13T20:20:09.507220",
-    "last_seen": "2026-03-29T20:54:09.191982",
-    "total_detections": 9,
+    "last_seen": "2026-04-02T17:39:53.115968",
+    "total_detections": 10,
     "is_charter": false,
     "operator": null
   },
@@ -49859,6 +49862,48 @@
     ],
     "first_seen": "2026-04-02T16:43:00.936475",
     "last_seen": "2026-04-02T16:43:00.936475",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "aaa590": {
+    "icao24": "aaa590",
+    "callsigns_seen": [
+      "UAL2625"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-04-02T17:39:53.871314",
+    "last_seen": "2026-04-02T17:39:53.871314",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "ae5f09": {
+    "icao24": "ae5f09",
+    "callsigns_seen": [
+      "ROPER91"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-04-02T17:39:53.871329",
+    "last_seen": "2026-04-02T17:39:53.871329",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a03005": {
+    "icao24": "a03005",
+    "callsigns_seen": [
+      "N111BB"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-04-02T17:39:55.646939",
+    "last_seen": "2026-04-02T17:39:55.646939",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
