@@ -4123,5 +4123,94 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-02T11:36:53.298059",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a4f3a8",
+    "callsign": "UPS2791",
+    "latitude": 29.5368,
+    "longitude": -98.4533,
+    "altitude_m": null,
+    "velocity_ms": 0.64,
+    "heading": 163.12,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.6302542848730492,
+    "bearing_from_airport": 77.81060753510906,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-02T11:36:54.287481",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a295c9",
+    "callsign": "FDX1188",
+    "latitude": 31.7976,
+    "longitude": -106.301,
+    "altitude_m": 1524,
+    "velocity_ms": 68,
+    "heading": 273.04,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 7.32255025078589,
+    "bearing_from_airport": 98.34690396724233,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-02T11:36:55.763017",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a6e89f",
+    "callsign": "AAL490",
+    "latitude": 32.1215,
+    "longitude": -110.9399,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 160.31,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.6082557806373845,
+    "bearing_from_airport": 9.788377084595197,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
