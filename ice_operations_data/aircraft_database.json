@@ -6762,12 +6762,12 @@
       "NDU362"
     ],
     "airports_visited": [
-      "AZA",
-      "TUS"
+      "TUS",
+      "AZA"
     ],
     "first_seen": "2026-02-18T15:08:59.344113",
-    "last_seen": "2026-03-30T22:22:42.035405",
-    "total_detections": 36,
+    "last_seen": "2026-04-02T05:53:38.774269",
+    "total_detections": 37,
     "is_charter": false,
     "operator": null
   },
@@ -32141,8 +32141,8 @@
       "TUS"
     ],
     "first_seen": "2026-03-13T17:03:27.628993",
-    "last_seen": "2026-03-29T05:55:15.216328",
-    "total_detections": 3,
+    "last_seen": "2026-04-02T05:53:42.001666",
+    "total_detections": 4,
     "is_charter": false,
     "operator": null
   },
@@ -34506,8 +34506,8 @@
       "AZA"
     ],
     "first_seen": "2026-03-15T17:17:27.433098",
-    "last_seen": "2026-03-15T17:17:27.433098",
-    "total_detections": 1,
+    "last_seen": "2026-04-02T05:53:38.774219",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -49642,5 +49642,47 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "ac2bd9": {
+    "icao24": "ac2bd9",
+    "callsigns_seen": [
+      "ASH4009"
+    ],
+    "airports_visited": [
+      "ELP"
+    ],
+    "first_seen": "2026-04-02T05:53:40.648044",
+    "last_seen": "2026-04-02T05:53:40.648044",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a0cf8d": {
+    "icao24": "a0cf8d",
+    "callsigns_seen": [
+      "SKW5572"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-04-02T05:53:42.001616",
+    "last_seen": "2026-04-02T05:53:42.001616",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a1a63d": {
+    "icao24": "a1a63d",
+    "callsigns_seen": [
+      "SKW5688"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-04-02T05:53:42.001653",
+    "last_seen": "2026-04-02T05:53:42.001653",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
