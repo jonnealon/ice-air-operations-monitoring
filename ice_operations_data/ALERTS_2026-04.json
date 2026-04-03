@@ -7045,5 +7045,151 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-03T14:09:38.890375",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a258be",
+    "callsign": "AAY3215",
+    "latitude": 33.3002,
+    "longitude": -111.6561,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 315,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.8565578034745728,
+    "bearing_from_airport": 189.97956622619097,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-03T14:09:38.890419",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aabcec",
+    "callsign": "NDU791",
+    "latitude": 33.3208,
+    "longitude": -111.6981,
+    "altitude_m": 685.8,
+    "velocity_ms": 53.62,
+    "heading": 28.04,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 4.294313866461204,
+    "bearing_from_airport": 289.6482490491079,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-03T14:09:38.890432",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a9f771",
+    "callsign": "NDU741",
+    "latitude": 33.3067,
+    "longitude": -111.6485,
+    "altitude_m": 472.44,
+    "velocity_ms": 37.84,
+    "heading": 133.9,
+    "vertrate": 4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 0.56983300546293,
+    "bearing_from_airport": 102.37117403354523,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-03T14:09:38.890451",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a916fa",
+    "callsign": "NDU685",
+    "latitude": 33.3179,
+    "longitude": -111.6662,
+    "altitude_m": 426.72,
+    "velocity_ms": 30.92,
+    "heading": 134.33,
+    "vertrate": -0.98,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5604116254206946,
+    "bearing_from_airport": 315.9327040245996,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-03T14:09:40.982258",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a11111",
+    "callsign": "XBAMB",
+    "latitude": 31.8151,
+    "longitude": -106.2917,
+    "altitude_m": 1638.3,
+    "velocity_ms": 61.25,
+    "heading": 91.93,
+    "vertrate": 1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 8.169077790748837,
+    "bearing_from_airport": 83.81482628002118,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
