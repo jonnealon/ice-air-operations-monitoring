@@ -32357,14 +32357,16 @@
     "icao24": "a05cf3",
     "callsigns_seen": [
       "AAL1014",
-      "AAL2721"
+      "AAL2721",
+      "AAL1961"
     ],
     "airports_visited": [
-      "TUS"
+      "TUS",
+      "SAT"
     ],
     "first_seen": "2026-03-13T17:55:24.122824",
-    "last_seen": "2026-03-26T16:51:18.618527",
-    "total_detections": 4,
+    "last_seen": "2026-04-04T20:53:29.655680",
+    "total_detections": 5,
     "is_charter": false,
     "operator": null
   },
@@ -51552,6 +51554,20 @@
     ],
     "first_seen": "2026-04-04T20:16:50.024344",
     "last_seen": "2026-04-04T20:16:50.024344",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a5b164": {
+    "icao24": "a5b164",
+    "callsigns_seen": [
+      "N466RH"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-04-04T20:53:31.838719",
+    "last_seen": "2026-04-04T20:53:31.838719",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
