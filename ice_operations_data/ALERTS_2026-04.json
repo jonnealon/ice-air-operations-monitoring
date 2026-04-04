@@ -13872,5 +13872,113 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-04T22:16:21.482604",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a107b4",
+    "callsign": "CXK556",
+    "latitude": 33.2952,
+    "longitude": -111.6352,
+    "altitude_m": 480.06,
+    "velocity_ms": 39.69,
+    "heading": 317.63,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 2.271910698437857,
+    "bearing_from_airport": 127.98860052647103,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-04T22:16:21.482614",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2e1ce",
+    "callsign": "AAY2293",
+    "latitude": 33.3076,
+    "longitude": -111.6675,
+    "altitude_m": null,
+    "velocity_ms": 6.43,
+    "heading": 180,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.2061664766184537,
+    "bearing_from_airport": 268.94895818502135,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-04T22:16:21.482624",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a9bcf9",
+    "callsign": "CXK527",
+    "latitude": 33.3468,
+    "longitude": -111.6676,
+    "altitude_m": 762,
+    "velocity_ms": 54.48,
+    "heading": 129.25,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 4.496336989096288,
+    "bearing_from_airport": 344.326416769752,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-04T22:16:24.456347",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "4d2393",
+    "callsign": "MLH9935",
+    "latitude": 32.1295,
+    "longitude": -110.9526,
+    "altitude_m": null,
+    "velocity_ms": 7.2,
+    "heading": 312.19,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.8443654641459875,
+    "bearing_from_airport": 323.7562150761103,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
