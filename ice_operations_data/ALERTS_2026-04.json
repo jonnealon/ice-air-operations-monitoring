@@ -10687,5 +10687,121 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-04T11:48:48.560771",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a3defb",
+    "callsign": "AJT782",
+    "latitude": 29.5358,
+    "longitude": -98.4539,
+    "altitude_m": null,
+    "velocity_ms": 2.57,
+    "heading": 129.38,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.5531707865228253,
+    "bearing_from_airport": 81.3644253296855,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-04T11:48:48.560819",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a0aaa0",
+    "callsign": "FDX434",
+    "latitude": 29.5332,
+    "longitude": -98.4568,
+    "altitude_m": null,
+    "velocity_ms": 1.03,
+    "heading": 253.12,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.2567312123021999,
+    "bearing_from_airport": 92.52791986692489,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-04T11:48:48.560829",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a6dd12",
+    "callsign": "EJA541",
+    "latitude": 29.5441,
+    "longitude": -98.4873,
+    "altitude_m": 266.7,
+    "velocity_ms": 55.37,
+    "heading": 131.99,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 2.046726077653839,
+    "bearing_from_airport": 304.3401403198083,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-04T11:48:50.895274",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a082ac",
+    "callsign": "AAL490",
+    "latitude": 32.1216,
+    "longitude": -110.9399,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 160.31,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.6191970483450566,
+    "bearing_from_airport": 9.613747867775203,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
