@@ -22536,5 +22536,55 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-06T01:14:44.434432",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "0d09b3",
+    "callsign": "ACW2524",
+    "latitude": 31.7632,
+    "longitude": -106.4633,
+    "altitude_m": 1562.1,
+    "velocity_ms": 84.16,
+    "heading": 10.21,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 9.428794546406747,
+    "bearing_from_airport": 238.83119618914273,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-06T01:14:45.944388",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a03bb5",
+    "callsign": "N114GR",
+    "latitude": 32.1296,
+    "longitude": -110.9426,
+    "altitude_m": 800.1,
+    "velocity_ms": 13.67,
+    "heading": 199.8,
+    "vertrate": -0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5060309182341078,
+    "bearing_from_airport": 354.2685876380817,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
