@@ -28443,5 +28443,55 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-08T07:56:01.878330",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ae1f72",
+    "callsign": "G72099",
+    "latitude": 32.0767,
+    "longitude": -110.9781,
+    "altitude_m": 1226.82,
+    "velocity_ms": 47.38,
+    "heading": 228.52,
+    "vertrate": 1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 5.593942939430605,
+    "bearing_from_airport": 218.5892950227976,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-08T07:56:01.878403",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ac5cd7",
+    "callsign": "AAL639",
+    "latitude": 32.1205,
+    "longitude": -110.9407,
+    "altitude_m": null,
+    "velocity_ms": 3.09,
+    "heading": 45,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.4892136916857622,
+    "bearing_from_airport": 3.3048941756097747,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
