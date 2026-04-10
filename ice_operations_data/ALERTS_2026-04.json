@@ -25907,5 +25907,95 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-10T21:25:10.898974",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "0d0dc6",
+    "callsign": "XAAKC",
+    "latitude": 29.5463,
+    "longitude": -98.4902,
+    "altitude_m": 243.84,
+    "velocity_ms": 55.41,
+    "heading": 131.24,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.416129213455269,
+    "bearing_from_airport": 305.377098378911,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-10T21:25:12.038237",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a615d0",
+    "callsign": "SWA1655",
+    "latitude": 31.798,
+    "longitude": -106.2739,
+    "altitude_m": 1600.2,
+    "velocity_ms": 84.21,
+    "heading": 234.95,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 9.854021419836695,
+    "bearing_from_airport": 95.92073000738787,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-10T21:25:13.489263",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "adc6c7",
+    "callsign": "N987ST",
+    "latitude": 32.1144,
+    "longitude": -110.9374,
+    "altitude_m": null,
+    "velocity_ms": 30.87,
+    "heading": 315,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.38750000410024793,
+    "bearing_from_airport": 119.14028994356022,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
