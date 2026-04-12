@@ -3694,8 +3694,8 @@
       "ELP"
     ],
     "first_seen": "2026-02-14T00:01:37.961391",
-    "last_seen": "2026-03-26T10:41:01.806047",
-    "total_detections": 6,
+    "last_seen": "2026-04-12T12:33:53.180427",
+    "total_detections": 7,
     "is_charter": false,
     "operator": null
   },
@@ -41359,14 +41359,16 @@
   "abec6c": {
     "icao24": "abec6c",
     "callsigns_seen": [
-      "SWA1085"
+      "SWA1085",
+      "SWA771"
     ],
     "airports_visited": [
-      "TUS"
+      "TUS",
+      "SAT"
     ],
     "first_seen": "2026-03-22T14:21:12.290853",
-    "last_seen": "2026-03-22T14:21:12.290853",
-    "total_detections": 1,
+    "last_seen": "2026-04-12T12:33:52.350396",
+    "total_detections": 2,
     "is_charter": true,
     "operator": "iAero Group"
   },
@@ -55061,5 +55063,19 @@
     "total_detections": 1,
     "is_charter": false,
     "operator": null
+  },
+  "abc4d8": {
+    "icao24": "abc4d8",
+    "callsigns_seen": [
+      "SWA349"
+    ],
+    "airports_visited": [
+      "ELP"
+    ],
+    "first_seen": "2026-04-12T12:33:53.180472",
+    "last_seen": "2026-04-12T12:33:53.180472",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
   }
 }
