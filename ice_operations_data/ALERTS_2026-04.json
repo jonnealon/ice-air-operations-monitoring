@@ -33137,5 +33137,151 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-14T14:45:13.394373",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a75013",
+    "callsign": "GXA6211",
+    "latitude": 33.307,
+    "longitude": -111.6666,
+    "altitude_m": null,
+    "velocity_ms": 5.92,
+    "heading": 270,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.1259795240747845,
+    "bearing_from_airport": 265.4800331809872,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-14T14:45:13.394384",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a7e270",
+    "callsign": "NDU607",
+    "latitude": 33.2973,
+    "longitude": -111.6178,
+    "altitude_m": 777.24,
+    "velocity_ms": 48.38,
+    "heading": 44.57,
+    "vertrate": 2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 3.598496007924653,
+    "bearing_from_airport": 108.8869227890105,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-14T14:45:13.394394",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a23a71",
+    "callsign": "CXK188",
+    "latitude": 33.3182,
+    "longitude": -111.6666,
+    "altitude_m": 403.86,
+    "velocity_ms": 36.38,
+    "heading": 136.15,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.6101502441185314,
+    "bearing_from_airport": 315.8084100149624,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-14T14:45:14.957831",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a1cdd4",
+    "callsign": "N215TX",
+    "latitude": 31.8014,
+    "longitude": -106.3108,
+    "altitude_m": 1562.1,
+    "velocity_ms": 46.61,
+    "heading": 259.19,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 6.352865001736793,
+    "bearing_from_airport": 95.79850770788318,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-14T14:45:14.957875",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a86df1",
+    "callsign": "N642PC",
+    "latitude": 31.7983,
+    "longitude": -106.3086,
+    "altitude_m": 1463.04,
+    "velocity_ms": 86.43,
+    "heading": 270,
+    "vertrate": 1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 6.602018232874391,
+    "bearing_from_airport": 98.58719292339424,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
