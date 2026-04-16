@@ -47819,5 +47819,152 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-16T00:03:00.458430",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a1a5d6",
+    "callsign": "AAY1590",
+    "latitude": 33.3274,
+    "longitude": -111.6143,
+    "altitude_m": 1112.52,
+    "velocity_ms": 113.5,
+    "heading": 130.4,
+    "vertrate": 10.08,
+    "on_ground": false,
+    "distance_from_airport_km": 4.3174313206250226,
+    "bearing_from_airport": 59.72708593861063,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-16T00:03:00.458474",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a1b609",
+    "callsign": "CXK116",
+    "latitude": 33.2894,
+    "longitude": -111.6438,
+    "altitude_m": 518.16,
+    "velocity_ms": 38.67,
+    "heading": 3.81,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.2708262311736425,
+    "bearing_from_airport": 154.07508833850954,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-16T00:03:01.284384",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac6340",
+    "callsign": "N898CB",
+    "latitude": 29.5465,
+    "longitude": -98.4903,
+    "altitude_m": 304.8,
+    "velocity_ms": 61.22,
+    "heading": 131.59,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.43688719770267,
+    "bearing_from_airport": 305.6713378962867,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-16T00:03:02.033948",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a28f12",
+    "callsign": "ENY4124",
+    "latitude": 31.7969,
+    "longitude": -106.2863,
+    "altitude_m": 1577.34,
+    "velocity_ms": 89.18,
+    "heading": 273.64,
+    "vertrate": -4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 8.706654205419646,
+    "bearing_from_airport": 97.52096588024006,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-16T00:03:03.325521",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a8aaa7",
+    "callsign": "N658CC",
+    "latitude": 32.1003,
+    "longitude": -110.9209,
+    "altitude_m": 845.82,
+    "velocity_ms": 38.94,
+    "heading": 313.39,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 2.5781207888361113,
+    "bearing_from_airport": 132.85637842605183,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
