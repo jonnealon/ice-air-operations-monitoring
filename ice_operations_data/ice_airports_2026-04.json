@@ -53984,5 +53984,36 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-18T08:35:04.128890",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a19ab1",
+    "callsign": "AAY3537",
+    "latitude": 33.3083,
+    "longitude": -111.5397,
+    "altitude_m": 1379.22,
+    "velocity_ms": 89.96,
+    "heading": 296.13,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 10.649718146035278,
+    "bearing_from_airport": 89.66988569296757,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
