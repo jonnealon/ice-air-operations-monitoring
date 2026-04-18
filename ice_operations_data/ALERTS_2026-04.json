@@ -40708,5 +40708,36 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-18T06:05:44.957274",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "aabff1",
+    "callsign": "ASI67",
+    "latitude": 31.823,
+    "longitude": -106.3563,
+    "altitude_m": 1531.62,
+    "velocity_ms": 53.08,
+    "heading": 93.33,
+    "vertrate": -0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 2.681240033116817,
+    "bearing_from_airport": 49.140441067575125,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
   }
 ]
