@@ -41933,5 +41933,152 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-18T20:59:20.552937",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a3b1de",
+    "callsign": "N337XA",
+    "latitude": 33.2851,
+    "longitude": -111.6364,
+    "altitude_m": 510.54,
+    "velocity_ms": 45.7,
+    "heading": 328.82,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 3.0278978627668205,
+    "bearing_from_airport": 146.31301046579222,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-18T20:59:20.552991",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a81b45",
+    "callsign": "CXK563",
+    "latitude": 33.2927,
+    "longitude": -111.6327,
+    "altitude_m": 502.92,
+    "velocity_ms": 41.3,
+    "heading": 309.44,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 2.6266008177717444,
+    "bearing_from_airport": 129.64373535014,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-18T20:59:20.553000",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2e1ce",
+    "callsign": "AAY2304",
+    "latitude": 33.2961,
+    "longitude": -111.6408,
+    "altitude_m": 441.96,
+    "velocity_ms": 76.03,
+    "heading": 315.27,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 1.817086926526254,
+    "bearing_from_airport": 135.614197123469,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-18T20:59:20.553008",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ad26fd",
+    "callsign": "CXK582",
+    "latitude": 33.2945,
+    "longitude": -111.6458,
+    "altitude_m": 457.2,
+    "velocity_ms": 39.65,
+    "heading": 315.53,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 1.6825037312744695,
+    "bearing_from_airport": 151.33112879865934,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-18T20:59:21.452736",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac138c",
+    "callsign": "SWA1669",
+    "latitude": 29.5155,
+    "longitude": -98.4775,
+    "altitude_m": 266.7,
+    "velocity_ms": 66.4,
+    "heading": 40.6,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.152723025941176,
+    "bearing_from_airport": 200.21247235097482,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
