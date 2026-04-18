@@ -40584,5 +40584,36 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-18T02:25:50.640862",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "aa457b",
+    "callsign": "CSB129",
+    "latitude": 31.797,
+    "longitude": -106.2868,
+    "altitude_m": 1600.2,
+    "velocity_ms": 64.92,
+    "heading": 273.18,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 8.658441003635224,
+    "bearing_from_airport": 97.48927106139331,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
