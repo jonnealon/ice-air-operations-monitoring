@@ -54015,5 +54015,29 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-18T10:29:49.400890",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ae200d",
+    "callsign": "G72254",
+    "latitude": 31.7634,
+    "longitude": -106.4843,
+    "altitude_m": 1958.34,
+    "velocity_ms": 29.91,
+    "heading": 63.43,
+    "vertrate": 0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 11.160811236912794,
+    "bearing_from_airport": 244.20904093883613,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
