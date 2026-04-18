@@ -609,8 +609,8 @@
       "TUS"
     ],
     "first_seen": "2026-02-09T23:09:38.643983",
-    "last_seen": "2026-04-17T18:40:02.875427",
-    "total_detections": 63,
+    "last_seen": "2026-04-18T17:27:10.266106",
+    "total_detections": 64,
     "is_charter": false,
     "operator": null
   },
@@ -1355,8 +1355,8 @@
       "TUS"
     ],
     "first_seen": "2026-02-11T05:49:02.135205",
-    "last_seen": "2026-04-18T15:27:03.981927",
-    "total_detections": 39,
+    "last_seen": "2026-04-18T17:27:06.651093",
+    "total_detections": 40,
     "is_charter": false,
     "operator": null
   },
@@ -2724,8 +2724,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-12T23:57:59.455816",
-    "last_seen": "2026-04-07T15:50:25.179519",
-    "total_detections": 44,
+    "last_seen": "2026-04-18T17:27:06.651105",
+    "total_detections": 45,
     "is_charter": false,
     "operator": null
   },
@@ -8496,11 +8496,12 @@
     ],
     "airports_visited": [
       "TUS",
-      "AZA"
+      "AZA",
+      "ELP"
     ],
     "first_seen": "2026-02-20T17:28:28.134630",
-    "last_seen": "2026-02-21T17:16:07.043280",
-    "total_detections": 2,
+    "last_seen": "2026-04-18T17:27:08.765615",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -28654,17 +28655,19 @@
   "a2439c": {
     "icao24": "a2439c",
     "callsigns_seen": [
-      "SKW6264",
+      "SKW6367",
       "SKW9922",
-      "SKW1000"
+      "SKW1000",
+      "SKW6264"
     ],
     "airports_visited": [
       "TUS",
+      "SAT",
       "ELP"
     ],
     "first_seen": "2026-03-09T22:51:11.866292",
-    "last_seen": "2026-03-27T20:24:07.016970",
-    "total_detections": 4,
+    "last_seen": "2026-04-18T17:27:07.707374",
+    "total_detections": 5,
     "is_charter": false,
     "operator": null
   },
@@ -57410,6 +57413,20 @@
     ],
     "first_seen": "2026-04-18T15:27:04.903785",
     "last_seen": "2026-04-18T15:27:04.903785",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a96411": {
+    "icao24": "a96411",
+    "callsigns_seen": [
+      "N704GS"
+    ],
+    "airports_visited": [
+      "AZA"
+    ],
+    "first_seen": "2026-04-18T17:27:06.651039",
+    "last_seen": "2026-04-18T17:27:06.651039",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
