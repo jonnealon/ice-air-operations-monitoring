@@ -42896,5 +42896,64 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-19T10:28:40.921165",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "abe7c5",
+    "callsign": "SWA1575",
+    "latitude": 29.5667,
+    "longitude": -98.4288,
+    "altitude_m": 1013.46,
+    "velocity_ms": 89.83,
+    "heading": 37.79,
+    "vertrate": 6.18,
+    "on_ground": false,
+    "distance_from_airport_km": 5.3941222916539315,
+    "bearing_from_airport": 47.2140240329756,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-19T10:28:43.413730",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a3a4de",
+    "callsign": "N334CA",
+    "latitude": 32.1266,
+    "longitude": -110.9517,
+    "altitude_m": 838.2,
+    "velocity_ms": 58.21,
+    "heading": 135.72,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5395857487119504,
+    "bearing_from_airport": 319.20682129646156,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
