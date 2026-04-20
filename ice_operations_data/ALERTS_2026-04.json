@@ -44363,5 +44363,63 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-20T01:21:24.314720",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "aad696",
+    "callsign": "Unknown",
+    "latitude": 32.1075,
+    "longitude": -110.929,
+    "altitude_m": 952.5,
+    "velocity_ms": 91.43,
+    "heading": 132.04,
+    "vertrate": 13,
+    "on_ground": false,
+    "distance_from_airport_km": 1.477844028672143,
+    "bearing_from_airport": 130.23174223465594,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-20T01:21:24.314763",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ac3f2f",
+    "callsign": "SWA1508",
+    "latitude": 32.1345,
+    "longitude": -110.961,
+    "altitude_m": 891.54,
+    "velocity_ms": 80.4,
+    "heading": 135.78,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 2.7761208980843297,
+    "bearing_from_airport": 317.3748330364244,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
