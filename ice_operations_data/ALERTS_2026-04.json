@@ -48278,5 +48278,99 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-22T20:53:04.014989",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a7eeca",
+    "callsign": "N610AM",
+    "latitude": 33.3196,
+    "longitude": -111.6394,
+    "altitude_m": 792.48,
+    "velocity_ms": 45.16,
+    "heading": 137.77,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 1.9177425901208,
+    "bearing_from_airport": 46.91614258752145,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-22T20:53:07.478450",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a7cc70",
+    "callsign": "N601RC",
+    "latitude": 32.1002,
+    "longitude": -110.9209,
+    "altitude_m": 822.96,
+    "velocity_ms": 73.48,
+    "heading": 315,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 2.5856845074036903,
+    "bearing_from_airport": 133.03664513962792,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-22T20:53:07.478526",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ad3e16",
+    "callsign": "SWA3900",
+    "latitude": 32.0972,
+    "longitude": -110.9172,
+    "altitude_m": 838.2,
+    "velocity_ms": 77.12,
+    "heading": 314.46,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 3.0672030287772025,
+    "bearing_from_airport": 133.1460166003542,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
