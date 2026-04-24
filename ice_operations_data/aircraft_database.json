@@ -19228,31 +19228,32 @@
   "a258be": {
     "icao24": "a258be",
     "callsigns_seen": [
+      "AAY3215",
+      "AAY3248",
+      "AAY1601",
+      "AAY3225",
       "AAY672",
       "AAY732",
-      "AAY729",
-      "AAY1601",
-      "AAY663",
-      "AAY3215",
-      "AAY2271",
       "AAY424",
-      "Unknown",
-      "AAY644",
-      "AAY1590",
       "AAY3235",
+      "AAY1600",
+      "AAY2271",
+      "AAY729",
+      "AAY644",
       "AAY648",
       "AAY1603",
-      "AAY3248",
-      "AAY2269",
-      "AAY3225",
-      "AAY1600"
+      "Unknown",
+      "AAY1590",
+      "AAY2261",
+      "AAY663",
+      "AAY2269"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-28T17:41:14.573467",
-    "last_seen": "2026-04-16T21:33:01.967112",
-    "total_detections": 21,
+    "last_seen": "2026-04-24T06:25:47.710993",
+    "total_detections": 22,
     "is_charter": false,
     "operator": null
   },
@@ -20103,8 +20104,8 @@
       "ELP"
     ],
     "first_seen": "2026-03-01T08:51:21.701875",
-    "last_seen": "2026-04-20T17:47:44.798541",
-    "total_detections": 10,
+    "last_seen": "2026-04-24T06:25:49.511602",
+    "total_detections": 11,
     "is_charter": false,
     "operator": null
   },
@@ -29212,19 +29213,19 @@
   "aa6db4": {
     "icao24": "aa6db4",
     "callsigns_seen": [
-      "2DN771K",
-      "EAL8282",
-      "EAL9172",
-      "2DN771KW",
       "EAL8280",
-      "EAL8279"
+      "EAL8279",
+      "EAL9172",
+      "2DN771K",
+      "2DN771KW",
+      "EAL8282"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-03-10T17:37:31.200973",
-    "last_seen": "2026-04-24T04:29:51.038995",
-    "total_detections": 11,
+    "last_seen": "2026-04-24T06:25:47.711031",
+    "total_detections": 12,
     "is_charter": false,
     "operator": null
   },
@@ -59112,5 +59113,19 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "ae6c1d": {
+    "icao24": "ae6c1d",
+    "callsigns_seen": [
+      "HRCLS10"
+    ],
+    "airports_visited": [
+      "AZA"
+    ],
+    "first_seen": "2026-04-24T06:25:47.711045",
+    "last_seen": "2026-04-24T06:25:47.711045",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
