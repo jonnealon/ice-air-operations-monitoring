@@ -53509,5 +53509,153 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-25T22:29:08.365159",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a9e88d",
+    "callsign": "Unknown",
+    "latitude": 33.3104,
+    "longitude": -111.6683,
+    "altitude_m": null,
+    "velocity_ms": 1.29,
+    "heading": 210.94,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.312302762844194,
+    "bearing_from_airport": 282.7082339611799,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-25T22:29:08.365170",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "abe533",
+    "callsign": "CXK1085",
+    "latitude": 33.3095,
+    "longitude": -111.6519,
+    "altitude_m": 541.02,
+    "velocity_ms": 46.2,
+    "heading": 314.55,
+    "vertrate": 5.2,
+    "on_ground": false,
+    "distance_from_airport_km": 0.3062376188072098,
+    "bearing_from_airport": 51.9607089077233,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-25T22:29:09.271185",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a35a98",
+    "callsign": "ENY4186",
+    "latitude": 29.5347,
+    "longitude": -98.474,
+    "altitude_m": 868.68,
+    "velocity_ms": 110.78,
+    "heading": 131.61,
+    "vertrate": 6.5,
+    "on_ground": false,
+    "distance_from_airport_km": 0.42053825123532207,
+    "bearing_from_airport": 285.3055269190892,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-25T22:29:10.069756",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "aaa929",
+    "callsign": "SWA349",
+    "latitude": 31.796,
+    "longitude": -106.2785,
+    "altitude_m": 1676.4,
+    "velocity_ms": 74.85,
+    "heading": 274.73,
+    "vertrate": -4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 9.449181291933053,
+    "bearing_from_airport": 97.53353064476289,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-25T22:29:10.421662",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a0a9b2",
+    "callsign": "UCA4870",
+    "latitude": 26.2699,
+    "longitude": -97.6076,
+    "altitude_m": 1821.18,
+    "velocity_ms": 119.13,
+    "heading": 6.7,
+    "vertrate": 13.33,
+    "on_ground": false,
+    "distance_from_airport_km": 6.5446701973084345,
+    "bearing_from_airport": 45.3840620425521,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
   }
 ]
