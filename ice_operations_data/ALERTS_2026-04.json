@@ -54624,5 +54624,61 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-26T19:24:49.869015",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a1409a",
+    "callsign": "N18ZH",
+    "latitude": 29.5491,
+    "longitude": -98.4937,
+    "altitude_m": 358.14,
+    "velocity_ms": 56.82,
+    "heading": 132.06,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.872250987000976,
+    "bearing_from_airport": 306.5308034590342,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-26T19:24:51.969248",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a44540",
+    "callsign": "UAL1584",
+    "latitude": 32.0976,
+    "longitude": -110.9179,
+    "altitude_m": 861.06,
+    "velocity_ms": 83.67,
+    "heading": 315,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 2.9888526634147543,
+    "bearing_from_airport": 133.3882363103836,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
