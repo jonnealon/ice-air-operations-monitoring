@@ -55247,5 +55247,31 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-27T00:02:42.863809",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a2bd72",
+    "callsign": "Unknown",
+    "latitude": 26.2475,
+    "longitude": -97.7046,
+    "altitude_m": 1379.22,
+    "velocity_ms": 111.61,
+    "heading": 7.68,
+    "vertrate": 6.83,
+    "on_ground": false,
+    "distance_from_airport_km": 5.425188541480846,
+    "bearing_from_airport": 292.8890332368565,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN"
+    ],
+    "is_alert": true
   }
 ]
