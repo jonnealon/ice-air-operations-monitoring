@@ -56145,5 +56145,144 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-27T21:43:25.485164",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aaabb7",
+    "callsign": "NDU787",
+    "latitude": 33.328,
+    "longitude": -111.6381,
+    "altitude_m": 822.96,
+    "velocity_ms": 49.18,
+    "heading": 127.35,
+    "vertrate": 4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 2.70961627488934,
+    "bearing_from_airport": 34.149915992823594,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-27T21:43:25.485237",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a19ab1",
+    "callsign": "AAY711",
+    "latitude": 33.3028,
+    "longitude": -111.6591,
+    "altitude_m": null,
+    "velocity_ms": 9.26,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.7000851996854779,
+    "bearing_from_airport": 217.55780426134802,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-27T21:43:25.485259",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a17490",
+    "callsign": "AAY638",
+    "latitude": 33.2905,
+    "longitude": -111.6342,
+    "altitude_m": 502.92,
+    "velocity_ms": 69.84,
+    "heading": 315,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 2.6895779818029504,
+    "bearing_from_airport": 135.55110631406308,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-27T21:43:26.477944",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a29cbf",
+    "callsign": "ASA494",
+    "latitude": 29.547,
+    "longitude": -98.4911,
+    "altitude_m": 327.66,
+    "velocity_ms": 79.46,
+    "heading": 131.33,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.532016804490785,
+    "bearing_from_airport": 305.67259770244596,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-27T21:43:26.477955",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ae01eb",
+    "callsign": "GOAT90",
+    "latitude": 29.5457,
+    "longitude": -98.3409,
+    "altitude_m": 579.12,
+    "velocity_ms": 110.38,
+    "heading": 328.53,
+    "vertrate": -0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 12.519874039353512,
+    "bearing_from_airport": 83.86056223668947,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
