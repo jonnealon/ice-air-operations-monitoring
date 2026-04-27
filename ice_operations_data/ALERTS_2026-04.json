@@ -55387,5 +55387,36 @@
       "CHARTER_OPERATOR:iAero Group"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-27T06:43:37.193559",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a462dd",
+    "callsign": "N382BM",
+    "latitude": 29.5531,
+    "longitude": -98.432,
+    "altitude_m": 624.84,
+    "velocity_ms": 35.82,
+    "heading": 12.44,
+    "vertrate": 0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 4.238416761119081,
+    "bearing_from_airport": 59.45311231569258,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
   }
 ]
