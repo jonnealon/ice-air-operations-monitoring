@@ -82513,5 +82513,151 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-30T20:48:07.510033",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a131e1",
+    "callsign": "CXK176",
+    "latitude": 33.3193,
+    "longitude": -111.6634,
+    "altitude_m": 487.68,
+    "velocity_ms": 33.83,
+    "heading": 135.62,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5202305887439718,
+    "bearing_from_airport": 327.11000973197224,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-30T20:48:07.510081",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a1a5d6",
+    "callsign": "AAY667",
+    "latitude": 33.3179,
+    "longitude": -111.6662,
+    "altitude_m": 472.44,
+    "velocity_ms": 72.39,
+    "heading": 135.29,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5604116254206946,
+    "bearing_from_airport": 315.9327040245996,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-30T20:48:07.510096",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a96c08",
+    "callsign": "NDU706",
+    "latitude": 33.3452,
+    "longitude": -111.6364,
+    "altitude_m": 822.96,
+    "velocity_ms": 53.19,
+    "heading": 131.86,
+    "vertrate": -0.98,
+    "on_ground": false,
+    "distance_from_airport_km": 4.478102202646331,
+    "bearing_from_airport": 22.012061130149448,
+    "projected_region": "SOUTH_ASIA",
+    "potential_destinations": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:SOUTH_ASIA"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-30T20:48:08.523475",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ab2fe4",
+    "callsign": "N82QD",
+    "latitude": 29.548,
+    "longitude": -98.4456,
+    "altitude_m": 563.88,
+    "velocity_ms": 104.14,
+    "heading": 39.59,
+    "vertrate": 12.03,
+    "on_ground": false,
+    "distance_from_airport_km": 2.8252238568922325,
+    "bearing_from_airport": 55.80959262151782,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-30T20:48:09.507460",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a1cdd4",
+    "callsign": "N215TX",
+    "latitude": 31.8123,
+    "longitude": -106.2662,
+    "altitude_m": 1729.74,
+    "velocity_ms": 61.85,
+    "heading": 258.97,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 10.542520205093673,
+    "bearing_from_airport": 86.89242135586585,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
