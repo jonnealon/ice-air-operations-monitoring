@@ -59764,5 +59764,36 @@
       "CHARTER_OPERATOR:iAero Group"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-30T05:19:34.686214",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a55e60",
+    "callsign": "NDU445",
+    "latitude": 33.2954,
+    "longitude": -111.6468,
+    "altitude_m": 464.82,
+    "velocity_ms": 34.56,
+    "heading": 314.4,
+    "vertrate": -1.3,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5507102881830586,
+    "bearing_from_airport": 152.5685785051478,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
