@@ -2144,5 +2144,36 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-02T19:30:59.197738",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a418b2",
+    "callsign": "DAL1701",
+    "latitude": 26.231,
+    "longitude": -97.5374,
+    "altitude_m": 1600.2,
+    "velocity_ms": 151.29,
+    "heading": 186.84,
+    "vertrate": -9.1,
+    "on_ground": false,
+    "distance_from_airport_km": 11.65314545293005,
+    "bearing_from_airport": 88.6095991454207,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]

@@ -3285,5 +3285,88 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-02T19:30:56.872791",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ac631e",
+    "callsign": "CXK1123",
+    "latitude": 33.3051,
+    "longitude": -111.7014,
+    "altitude_m": 746.76,
+    "velocity_ms": 51.84,
+    "heading": 310.17,
+    "vertrate": -0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 4.361050580000837,
+    "bearing_from_airport": 266.07235294834334,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-05-02T19:30:59.197738",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a418b2",
+    "callsign": "DAL1701",
+    "latitude": 26.231,
+    "longitude": -97.5374,
+    "altitude_m": 1600.2,
+    "velocity_ms": 151.29,
+    "heading": 186.84,
+    "vertrate": -9.1,
+    "on_ground": false,
+    "distance_from_airport_km": 11.65314545293005,
+    "bearing_from_airport": 88.6095991454207,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-02T19:30:59.998503",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a1e9f8",
+    "callsign": "N222RT",
+    "latitude": 32.0942,
+    "longitude": -110.9142,
+    "altitude_m": 1021.08,
+    "velocity_ms": 60.46,
+    "heading": 132.24,
+    "vertrate": 2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 3.5010752487910857,
+    "bearing_from_airport": 133.96325889310776,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
