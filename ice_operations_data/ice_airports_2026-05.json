@@ -4559,5 +4559,155 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-03T20:29:59.935527",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2c1bd",
+    "callsign": "AAY642",
+    "latitude": 33.3178,
+    "longitude": -111.6661,
+    "altitude_m": 457.2,
+    "velocity_ms": 69.12,
+    "heading": 135.6,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5459845425424663,
+    "bearing_from_airport": 315.89353005148087,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-03T20:30:00.808278",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ae14a3",
+    "callsign": "MNTNA44",
+    "latitude": 29.5421,
+    "longitude": -98.4513,
+    "altitude_m": 190.5,
+    "velocity_ms": 53.92,
+    "heading": 221.91,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.0153402806098373,
+    "bearing_from_airport": 62.43613370451504,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-03T20:30:00.808318",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a1fed3",
+    "callsign": "TWY228",
+    "latitude": 29.5429,
+    "longitude": -98.4506,
+    "altitude_m": 205.74,
+    "velocity_ms": 66.07,
+    "heading": 220.26,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 2.116889311068598,
+    "bearing_from_airport": 61.15150935568647,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-03T20:30:00.808329",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a8062b",
+    "callsign": "N616MR",
+    "latitude": 29.5403,
+    "longitude": -98.4531,
+    "altitude_m": 182.88,
+    "velocity_ms": 54.01,
+    "heading": 220.36,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 1.77142864535315,
+    "bearing_from_airport": 65.56623107478538,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-03T20:30:02.973242",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "aaad6d",
+    "callsign": "SWA263",
+    "latitude": 32.1517,
+    "longitude": -110.9811,
+    "altitude_m": 1021.08,
+    "velocity_ms": 74.94,
+    "heading": 134.44,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 5.46147762597023,
+    "bearing_from_airport": 316.363810965811,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group"
+    ],
+    "is_alert": true
   }
 ]
