@@ -3951,5 +3951,62 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-03T11:33:29.923758",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ad694c",
+    "callsign": "SWA3118",
+    "latitude": 29.5548,
+    "longitude": -98.4386,
+    "altitude_m": 518.16,
+    "velocity_ms": 89.29,
+    "heading": 41.5,
+    "vertrate": 13,
+    "on_ground": false,
+    "distance_from_airport_km": 3.816396285536111,
+    "bearing_from_airport": 52.13231711021331,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-03T11:33:29.923807",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a3c4c1",
+    "callsign": "N342AE",
+    "latitude": 29.5174,
+    "longitude": -98.4929,
+    "altitude_m": 335.28,
+    "velocity_ms": 50.81,
+    "heading": 74.13,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 2.872393073337205,
+    "bearing_from_airport": 230.96572973916875,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
