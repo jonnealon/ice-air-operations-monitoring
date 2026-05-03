@@ -3869,5 +3869,55 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-03T06:44:15.593704",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a6428e",
+    "callsign": "NDU502",
+    "latitude": 33.3184,
+    "longitude": -111.6668,
+    "altitude_m": 449.58,
+    "velocity_ms": 31.65,
+    "heading": 135.66,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 1.6390019183609985,
+    "bearing_from_airport": 315.88450736929076,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-03T06:44:17.482667",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a053be",
+    "callsign": "N120AM",
+    "latitude": 31.7764,
+    "longitude": -106.5035,
+    "altitude_m": 1226.82,
+    "velocity_ms": 22.15,
+    "heading": 149.26,
+    "vertrate": -1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 12.34040135547783,
+    "bearing_from_airport": 253.95196407246772,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
