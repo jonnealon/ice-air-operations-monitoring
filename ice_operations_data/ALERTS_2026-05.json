@@ -3828,5 +3828,115 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-04T13:07:10.353861",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aa265e",
+    "callsign": "NDU753",
+    "latitude": 33.3142,
+    "longitude": -111.657,
+    "altitude_m": 563.88,
+    "velocity_ms": 47.31,
+    "heading": 133.24,
+    "vertrate": 3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 0.7472971953742215,
+    "bearing_from_airport": 341.9216183605851,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-04T13:07:11.090859",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a6358a",
+    "callsign": "N5DA",
+    "latitude": 29.5481,
+    "longitude": -98.4925,
+    "altitude_m": 297.18,
+    "velocity_ms": 59.38,
+    "heading": 131.84,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.7131317947958014,
+    "bearing_from_airport": 306.1031634405077,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-04T13:07:11.090904",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac5723",
+    "callsign": "SWA1668",
+    "latitude": 29.5491,
+    "longitude": -98.4938,
+    "altitude_m": 297.18,
+    "velocity_ms": 74,
+    "heading": 131.34,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.88001786716145,
+    "bearing_from_airport": 306.41647870884356,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-04T13:07:11.892400",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "abc12a",
+    "callsign": "SWA8505",
+    "latitude": 31.8481,
+    "longitude": -106.3349,
+    "altitude_m": 1447.8,
+    "velocity_ms": 69.03,
+    "heading": 230.14,
+    "vertrate": -0.98,
+    "on_ground": false,
+    "distance_from_airport_km": 6.081709497827359,
+    "bearing_from_airport": 41.695648995911085,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE"
+    ],
+    "is_alert": true
   }
 ]
