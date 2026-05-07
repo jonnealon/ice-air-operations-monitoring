@@ -8669,5 +8669,119 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-07T22:49:26.691360",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aaabb7",
+    "callsign": "NDU787",
+    "latitude": 33.3141,
+    "longitude": -111.6567,
+    "altitude_m": 624.84,
+    "velocity_ms": 40.46,
+    "heading": 318.61,
+    "vertrate": 4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 0.7284720627133027,
+    "bearing_from_airport": 343.73163832661197,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-07T22:49:26.691371",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a1b609",
+    "callsign": "CXK116",
+    "latitude": 33.2851,
+    "longitude": -111.6279,
+    "altitude_m": 579.12,
+    "velocity_ms": 40.74,
+    "heading": 315,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 3.5267349533635928,
+    "bearing_from_airport": 135.58767569518238,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-07T22:49:27.331517",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a02ccd",
+    "callsign": "N110GD",
+    "latitude": 29.5071,
+    "longitude": -98.4859,
+    "altitude_m": 358.14,
+    "velocity_ms": 60.21,
+    "heading": 40.5,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 3.3369963412635975,
+    "bearing_from_airport": 207.7792087764873,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-07T22:49:27.331545",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ab9ee2",
+    "callsign": "N848PM",
+    "latitude": 29.4979,
+    "longitude": -98.3591,
+    "altitude_m": 1203.96,
+    "velocity_ms": 77.49,
+    "heading": 225.81,
+    "vertrate": -0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 11.405739631755333,
+    "bearing_from_airport": 110.35911369928408,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
