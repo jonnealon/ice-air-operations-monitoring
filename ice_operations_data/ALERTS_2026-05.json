@@ -12128,5 +12128,37 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-10T10:42:04.361725",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "abad94",
+    "callsign": "SWA859",
+    "latitude": 29.5707,
+    "longitude": -98.4258,
+    "altitude_m": 739.14,
+    "velocity_ms": 106.46,
+    "heading": 38.92,
+    "vertrate": 6.18,
+    "on_ground": false,
+    "distance_from_airport_km": 5.90972636416843,
+    "bearing_from_airport": 45.96019777239917,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
   }
 ]
