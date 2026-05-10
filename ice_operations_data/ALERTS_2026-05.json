@@ -12160,5 +12160,38 @@
       "UNUSUAL_DESTINATION:AFRICA_WEST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-10T11:39:48.444688",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a5669f",
+    "callsign": "SWA1700",
+    "latitude": 29.5598,
+    "longitude": -98.4348,
+    "altitude_m": 723.9,
+    "velocity_ms": 100.54,
+    "heading": 26.43,
+    "vertrate": 10.4,
+    "on_ground": false,
+    "distance_from_airport_km": 4.451851470770496,
+    "bearing_from_airport": 49.38856725260575,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
   }
 ]
