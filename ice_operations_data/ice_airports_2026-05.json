@@ -18190,5 +18190,86 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-11T01:52:29.629469",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "abcfec",
+    "callsign": "N860MB",
+    "latitude": 33.3108,
+    "longitude": -111.6683,
+    "altitude_m": null,
+    "velocity_ms": 4.12,
+    "heading": 230.62,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.322776466893952,
+    "bearing_from_airport": 284.5847199141626,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-11T01:52:31.235782",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "abb972",
+    "callsign": "SWA2795",
+    "latitude": 31.7686,
+    "longitude": -106.4674,
+    "altitude_m": 1577.34,
+    "velocity_ms": 83.98,
+    "heading": 93.16,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 9.476005369865351,
+    "bearing_from_airport": 243.1465565070855,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-11T01:52:32.583633",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a60665",
+    "callsign": "VAR488",
+    "latitude": 32.0763,
+    "longitude": -110.9165,
+    "altitude_m": 1005.84,
+    "velocity_ms": 43.66,
+    "heading": 325.56,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 4.9822023962400035,
+    "bearing_from_airport": 152.45184483085575,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
