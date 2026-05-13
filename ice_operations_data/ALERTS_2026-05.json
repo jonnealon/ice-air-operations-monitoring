@@ -15104,5 +15104,153 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-13T13:33:11.259936",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a10308",
+    "callsign": "CXK243",
+    "latitude": 33.2934,
+    "longitude": -111.6445,
+    "altitude_m": 464.82,
+    "velocity_ms": 33.1,
+    "heading": 315.63,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 1.848091332004931,
+    "bearing_from_airport": 149.86561297275546,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-13T13:33:11.259995",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a55e60",
+    "callsign": "NDU445",
+    "latitude": 33.3019,
+    "longitude": -111.6217,
+    "altitude_m": 723.9,
+    "velocity_ms": 50.46,
+    "heading": 140.79,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 3.1124157946146873,
+    "bearing_from_airport": 102.13728864902396,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-13T13:33:13.621522",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "aa19ef",
+    "callsign": "N75Z",
+    "latitude": 26.2131,
+    "longitude": -97.5595,
+    "altitude_m": 1920.24,
+    "velocity_ms": 83.34,
+    "heading": 270.35,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 9.60268762532254,
+    "bearing_from_airport": 100.23239278708382,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-13T13:33:13.621559",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a06325",
+    "callsign": "Unknown",
+    "latitude": 26.1952,
+    "longitude": -97.6736,
+    "altitude_m": 525.78,
+    "velocity_ms": 89.07,
+    "heading": 272.32,
+    "vertrate": 11.38,
+    "on_ground": false,
+    "distance_from_airport_km": 4.161429259935503,
+    "bearing_from_airport": 207.35611085181745,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-13T13:33:14.166760",
+    "airport_code": "MFE",
+    "airport_name": "McAllen Miller",
+    "icao24": "a3ff42",
+    "callsign": "Unknown",
+    "latitude": 26.2005,
+    "longitude": -98.2624,
+    "altitude_m": 144.78,
+    "velocity_ms": 56.65,
+    "heading": 140.53,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 3.624629842866879,
+    "bearing_from_airport": 319.15682951376357,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
