@@ -17645,5 +17645,144 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-15T11:10:20.967142",
+    "airport_code": "AEX",
+    "airport_name": "Alexandria International",
+    "icao24": "a15795",
+    "callsign": "EDV5162",
+    "latitude": 31.322,
+    "longitude": -92.5428,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 50.62,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.8943189858486482,
+    "bearing_from_airport": 132.0822323358592,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-15T11:10:20.967194",
+    "airport_code": "AEX",
+    "airport_name": "Alexandria International",
+    "icao24": "a2f9dd",
+    "callsign": "GXA6121",
+    "latitude": 31.3174,
+    "longitude": -92.5419,
+    "altitude_m": null,
+    "velocity_ms": 2.57,
+    "heading": 298.12,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.3390990969421686,
+    "bearing_from_airport": 145.9840299902637,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-15T11:10:20.967206",
+    "airport_code": "AEX",
+    "airport_name": "Alexandria International",
+    "icao24": "a1ed5f",
+    "callsign": "ENY3978",
+    "latitude": 31.3383,
+    "longitude": -92.5564,
+    "altitude_m": null,
+    "velocity_ms": 4.12,
+    "heading": 323.44,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.362158842536825,
+    "bearing_from_airport": 332.6537875243189,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-15T11:10:22.570401",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a0c0ea",
+    "callsign": "FDX1537",
+    "latitude": 26.266,
+    "longitude": -97.6583,
+    "altitude_m": 182.88,
+    "velocity_ms": 66.37,
+    "heading": 180.44,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 4.180574710318015,
+    "bearing_from_airport": 354.67190475333695,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-15T11:10:22.570434",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a3d3b3",
+    "callsign": "ENY3818",
+    "latitude": 26.2734,
+    "longitude": -97.5144,
+    "altitude_m": 1828.8,
+    "velocity_ms": 148.19,
+    "heading": 27.72,
+    "vertrate": 13.66,
+    "on_ground": false,
+    "distance_from_airport_km": 14.804131751327729,
+    "bearing_from_airport": 70.29226910794284,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
