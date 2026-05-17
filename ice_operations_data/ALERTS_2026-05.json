@@ -20454,5 +20454,89 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-17T18:49:26.189227",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a9b806",
+    "callsign": "TIV725",
+    "latitude": 33.3405,
+    "longitude": -111.5578,
+    "altitude_m": 1356.36,
+    "velocity_ms": 105.07,
+    "heading": 310.63,
+    "vertrate": -8.78,
+    "on_ground": false,
+    "distance_from_airport_km": 9.677016515120755,
+    "bearing_from_airport": 67.9401633449998,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-17T18:49:26.189267",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a147b5",
+    "callsign": "CXK321",
+    "latitude": 33.3189,
+    "longitude": -111.6673,
+    "altitude_m": 495.3,
+    "velocity_ms": 29.84,
+    "heading": 133.6,
+    "vertrate": -5.2,
+    "on_ground": false,
+    "distance_from_airport_km": 1.7111429789256727,
+    "bearing_from_airport": 316.06353558880517,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-17T18:49:27.151203",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a057a8",
+    "callsign": "N121CN",
+    "latitude": 29.5466,
+    "longitude": -98.4906,
+    "altitude_m": 327.66,
+    "velocity_ms": 51.4,
+    "heading": 131.35,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.466910602419552,
+    "bearing_from_airport": 305.4885333072781,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
