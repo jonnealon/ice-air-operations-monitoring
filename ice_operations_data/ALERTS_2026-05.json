@@ -21475,5 +21475,84 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-18T23:53:23.132482",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "acb2ba",
+    "callsign": "TYSON54",
+    "latitude": 33.2867,
+    "longitude": -111.6301,
+    "altitude_m": 548.64,
+    "velocity_ms": 80.4,
+    "heading": 315.78,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 3.257123967620693,
+    "bearing_from_airport": 135.96758634319178,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-18T23:53:24.143349",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "0d118c",
+    "callsign": "VIV570",
+    "latitude": 29.544,
+    "longitude": -98.4871,
+    "altitude_m": 304.8,
+    "velocity_ms": 65.96,
+    "heading": 131.52,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.0245162404233317,
+    "bearing_from_airport": 304.3889950416659,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-18T23:53:24.143384",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a5fd2d",
+    "callsign": "SWA2379",
+    "latitude": 29.5489,
+    "longitude": -98.4935,
+    "altitude_m": 335.28,
+    "velocity_ms": 72.21,
+    "heading": 130.96,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.843523602384229,
+    "bearing_from_airport": 306.40287714096024,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
