@@ -4443,15 +4443,16 @@
   "a37337": {
     "icao24": "a37337",
     "callsigns_seen": [
+      "Unknown",
       "NDU321"
     ],
     "airports_visited": [
-      "TUS",
-      "AZA"
+      "AZA",
+      "TUS"
     ],
     "first_seen": "2026-02-14T21:47:56.229163",
-    "last_seen": "2026-05-10T16:28:10.021520",
-    "total_detections": 49,
+    "last_seen": "2026-05-24T15:39:46.255584",
+    "total_detections": 50,
     "is_charter": false,
     "operator": null
   },
@@ -8693,12 +8694,12 @@
       "CXK651"
     ],
     "airports_visited": [
-      "TUS",
-      "AZA"
+      "AZA",
+      "TUS"
     ],
     "first_seen": "2026-02-20T19:09:29.215673",
-    "last_seen": "2026-05-22T19:08:36.235207",
-    "total_detections": 32,
+    "last_seen": "2026-05-24T15:39:46.255534",
+    "total_detections": 33,
     "is_charter": false,
     "operator": null
   },
@@ -35056,8 +35057,8 @@
       "TUS"
     ],
     "first_seen": "2026-03-15T16:53:27.185667",
-    "last_seen": "2026-03-15T16:53:27.185667",
-    "total_detections": 1,
+    "last_seen": "2026-05-24T15:39:48.919361",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -37930,8 +37931,8 @@
       "TUS"
     ],
     "first_seen": "2026-03-18T16:46:45.250684",
-    "last_seen": "2026-03-18T16:46:45.250684",
-    "total_detections": 1,
+    "last_seen": "2026-05-24T15:39:48.919406",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -66447,6 +66448,34 @@
     ],
     "first_seen": "2026-05-24T01:57:55.860196",
     "last_seen": "2026-05-24T01:57:55.860196",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a18e3c": {
+    "icao24": "a18e3c",
+    "callsigns_seen": [
+      "ENG2"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-05-24T15:39:47.003892",
+    "last_seen": "2026-05-24T15:39:47.003892",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a588ef": {
+    "icao24": "a588ef",
+    "callsigns_seen": [
+      "N456FM"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-05-24T15:39:47.003932",
+    "last_seen": "2026-05-24T15:39:47.003932",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
