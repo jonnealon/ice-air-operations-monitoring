@@ -28300,5 +28300,153 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-28T05:38:03.830213",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a3b595",
+    "callsign": "N338XA",
+    "latitude": 33.2948,
+    "longitude": -111.6347,
+    "altitude_m": 525.78,
+    "velocity_ms": 44.59,
+    "heading": 309.38,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 2.335804903756199,
+    "bearing_from_airport": 128.14626577828506,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-28T05:38:03.830262",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aaabb7",
+    "callsign": "NDU787",
+    "latitude": 33.2953,
+    "longitude": -111.6466,
+    "altitude_m": 480.06,
+    "velocity_ms": 35.65,
+    "heading": 315,
+    "vertrate": -1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5691498108955044,
+    "bearing_from_airport": 152.15388229696555,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-28T05:38:04.852140",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a88d10",
+    "callsign": "DAL8847",
+    "latitude": 29.5464,
+    "longitude": -98.4902,
+    "altitude_m": 297.18,
+    "velocity_ms": 60.15,
+    "heading": 131.19,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 2.422571465635617,
+    "bearing_from_airport": 305.5911858303422,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-28T05:38:05.943281",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a0546c",
+    "callsign": "FRG888",
+    "latitude": 31.8066,
+    "longitude": -106.2607,
+    "altitude_m": 1744.98,
+    "velocity_ms": 105.2,
+    "heading": 222.82,
+    "vertrate": -9.43,
+    "on_ground": false,
+    "distance_from_airport_km": 11.046330174045256,
+    "bearing_from_airport": 90.31458653355617,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-28T05:38:08.823927",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a2d0fd",
+    "callsign": "OXF5841",
+    "latitude": 32.1396,
+    "longitude": -110.9244,
+    "altitude_m": 1112.52,
+    "velocity_ms": 53.48,
+    "heading": 133.83,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 3.03971107135349,
+    "bearing_from_airport": 30.883870992175446,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE"
+    ],
+    "is_alert": true
   }
 ]
