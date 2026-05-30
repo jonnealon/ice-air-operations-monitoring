@@ -41075,5 +41075,36 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-30T11:09:47.369257",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a39e0c",
+    "callsign": "Unknown",
+    "latitude": 26.2653,
+    "longitude": -97.6231,
+    "altitude_m": 1272.54,
+    "velocity_ms": 122.39,
+    "heading": 7.24,
+    "vertrate": 13.66,
+    "on_ground": false,
+    "distance_from_airport_km": 5.137963647993343,
+    "bearing_from_airport": 37.33126526924002,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN",
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE"
+    ],
+    "is_alert": true
   }
 ]
