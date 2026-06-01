@@ -1,0 +1,53 @@
+[
+  {
+    "timestamp": "2026-06-01T02:13:59.940464",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aa7c95",
+    "callsign": "N775LA",
+    "latitude": 33.3248,
+    "longitude": -111.6691,
+    "altitude_m": 678.18,
+    "velocity_ms": 39.31,
+    "heading": 317.12,
+    "vertrate": 2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 2.3227433325200213,
+    "bearing_from_airport": 324.33788084843496,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-01T02:13:59.940518",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a060e5",
+    "callsign": "N123XA",
+    "latitude": 33.293,
+    "longitude": -111.6441,
+    "altitude_m": 495.3,
+    "velocity_ms": 42.6,
+    "heading": 317.45,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.905143686645186,
+    "bearing_from_airport": 149.57051713640521,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  }
+]
