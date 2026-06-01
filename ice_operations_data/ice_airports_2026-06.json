@@ -486,5 +486,144 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-01T22:18:26.229467",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a26f01",
+    "callsign": "ENY4176",
+    "latitude": 29.5467,
+    "longitude": -98.4906,
+    "altitude_m": 297.18,
+    "velocity_ms": 72.54,
+    "heading": 131.26,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4733700310163713,
+    "bearing_from_airport": 305.69793459078204,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-01T22:18:26.229511",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a23904",
+    "callsign": "N242SG",
+    "latitude": 29.5565,
+    "longitude": -98.5032,
+    "altitude_m": 396.24,
+    "velocity_ms": 60.21,
+    "heading": 130.5,
+    "vertrate": -4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 4.099996997841783,
+    "bearing_from_airport": 308.1283281950237,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-01T22:18:26.229523",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ab2c72",
+    "callsign": "SCX520",
+    "latitude": 29.5468,
+    "longitude": -98.4907,
+    "altitude_m": 289.56,
+    "velocity_ms": 80.24,
+    "heading": 130.84,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4876919931510564,
+    "bearing_from_airport": 305.77583703347955,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-01T22:18:27.152943",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a02443",
+    "callsign": "AAL1802",
+    "latitude": 31.7997,
+    "longitude": -106.3031,
+    "altitude_m": 1546.86,
+    "velocity_ms": 82.72,
+    "heading": 233.34,
+    "vertrate": -6.83,
+    "on_ground": false,
+    "distance_from_airport_km": 7.095512998057634,
+    "bearing_from_airport": 96.71794408971243,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-01T22:18:28.530176",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ac8ceb",
+    "callsign": "ASI998",
+    "latitude": 32.0886,
+    "longitude": -110.9072,
+    "altitude_m": 960.12,
+    "velocity_ms": 40.74,
+    "heading": 315,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 4.406285682075505,
+    "bearing_from_airport": 133.83572038846455,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
