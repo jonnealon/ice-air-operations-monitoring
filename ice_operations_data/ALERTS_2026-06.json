@@ -3352,5 +3352,149 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-07T15:06:32.514834",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a7e270",
+    "callsign": "NDU607",
+    "latitude": 33.3276,
+    "longitude": -111.6481,
+    "altitude_m": 830.58,
+    "velocity_ms": 52.12,
+    "heading": 318.6,
+    "vertrate": -0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 2.2765785317181595,
+    "bearing_from_airport": 15.113431065108898,
+    "projected_region": "SOUTH_ASIA",
+    "potential_destinations": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:SOUTH_ASIA"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-07T15:06:32.514846",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aab325",
+    "callsign": "NDU789",
+    "latitude": 33.333,
+    "longitude": -111.6748,
+    "altitude_m": 670.56,
+    "velocity_ms": 34.33,
+    "heading": 160.75,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 3.372032839431365,
+    "bearing_from_airport": 326.0598261292069,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-07T15:06:32.514864",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a37d02",
+    "callsign": "N32384",
+    "latitude": 33.3023,
+    "longitude": -111.6435,
+    "altitude_m": 541.02,
+    "velocity_ms": 37.83,
+    "heading": 135,
+    "vertrate": 6.5,
+    "on_ground": false,
+    "distance_from_airport_km": 1.1891117078850957,
+    "bearing_from_airport": 120.88731667914612,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-07T15:06:34.665271",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a2edb4",
+    "callsign": "SWA644",
+    "latitude": 31.7971,
+    "longitude": -106.2899,
+    "altitude_m": 1577.34,
+    "velocity_ms": 71.77,
+    "heading": 274.93,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 8.3671194197816,
+    "bearing_from_airport": 97.67657072762472,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-07T15:06:35.932543",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a1657c",
+    "callsign": "N1897V",
+    "latitude": 32.1288,
+    "longitude": -110.9543,
+    "altitude_m": 883.92,
+    "velocity_ms": 36.38,
+    "heading": 136.15,
+    "vertrate": -1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 1.884334958715567,
+    "bearing_from_airport": 318.43290534772296,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
