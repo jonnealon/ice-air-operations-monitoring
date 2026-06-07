@@ -3839,5 +3839,88 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-07T23:55:49.471217",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a26a93",
+    "callsign": "FDX379",
+    "latitude": 29.5467,
+    "longitude": -98.4905,
+    "altitude_m": 335.28,
+    "velocity_ms": 73.23,
+    "heading": 131.87,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4655327054072633,
+    "bearing_from_airport": 305.82885028141794,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-07T23:55:49.471267",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a355b1",
+    "callsign": "ENY3781",
+    "latitude": 29.5484,
+    "longitude": -98.4928,
+    "altitude_m": 342.9,
+    "velocity_ms": 67.72,
+    "heading": 132.54,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.7561788905941236,
+    "bearing_from_airport": 306.30780564058676,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-07T23:55:52.161374",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a350ce",
+    "callsign": "N3121V",
+    "latitude": 32.1132,
+    "longitude": -110.8867,
+    "altitude_m": 1554.48,
+    "velocity_ms": 51.74,
+    "heading": 131.78,
+    "vertrate": 1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 5.11509659820574,
+    "bearing_from_airport": 93.59359493498016,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
