@@ -4480,5 +4480,35 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-09T06:29:23.361702",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aa25d9",
+    "callsign": "CXK162",
+    "latitude": 33.2982,
+    "longitude": -111.6387,
+    "altitude_m": 487.68,
+    "velocity_ms": 31.65,
+    "heading": 314.34,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 1.8121266170258918,
+    "bearing_from_airport": 126.01209113160428,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
