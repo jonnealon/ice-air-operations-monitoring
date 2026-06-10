@@ -5152,5 +5152,89 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-10T14:14:35.900673",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a87cb5",
+    "callsign": "NDU646",
+    "latitude": 33.3172,
+    "longitude": -111.6655,
+    "altitude_m": 449.58,
+    "velocity_ms": 31.65,
+    "heading": 134.34,
+    "vertrate": -1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 1.459438235702205,
+    "bearing_from_airport": 315.6422416925504,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-10T14:14:35.900723",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a17fb5",
+    "callsign": "AAY678",
+    "latitude": 33.3122,
+    "longitude": -111.6597,
+    "altitude_m": 441.96,
+    "velocity_ms": 58.21,
+    "heading": 135.72,
+    "vertrate": 0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 0.6864617372370924,
+    "bearing_from_airport": 315.357159721601,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-10T14:14:36.782154",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ab248e",
+    "callsign": "N817NE",
+    "latitude": 29.5429,
+    "longitude": -98.4505,
+    "altitude_m": 251.46,
+    "velocity_ms": 56.86,
+    "heading": 221.33,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 2.1253540859805518,
+    "bearing_from_airport": 61.27708483240275,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
