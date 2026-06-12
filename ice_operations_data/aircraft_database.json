@@ -2746,12 +2746,12 @@
       "NDU837"
     ],
     "airports_visited": [
-      "TUS",
-      "AZA"
+      "AZA",
+      "TUS"
     ],
     "first_seen": "2026-02-12T23:57:59.455816",
-    "last_seen": "2026-05-31T16:52:51.867497",
-    "total_detections": 60,
+    "last_seen": "2026-06-12T22:22:24.733858",
+    "total_detections": 61,
     "is_charter": false,
     "operator": null
   },
@@ -67477,8 +67477,8 @@
       "SAT"
     ],
     "first_seen": "2026-05-30T22:30:17.767891",
-    "last_seen": "2026-05-30T22:30:17.767891",
-    "total_detections": 1,
+    "last_seen": "2026-06-12T22:22:25.531167",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -68035,11 +68035,12 @@
       "CXK623"
     ],
     "airports_visited": [
-      "AZA"
+      "AZA",
+      "TUS"
     ],
     "first_seen": "2026-06-04T23:09:58.805821",
-    "last_seen": "2026-06-04T23:09:58.805821",
-    "total_detections": 1,
+    "last_seen": "2026-06-12T22:22:28.005897",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -68949,6 +68950,20 @@
     ],
     "first_seen": "2026-06-12T20:58:35.442436",
     "last_seen": "2026-06-12T20:58:35.442436",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "ae520d": {
+    "icao24": "ae520d",
+    "callsigns_seen": [
+      "GRYHK11"
+    ],
+    "airports_visited": [
+      "ELP"
+    ],
+    "first_seen": "2026-06-12T22:22:26.517970",
+    "last_seen": "2026-06-12T22:22:26.517970",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
