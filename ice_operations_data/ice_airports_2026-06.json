@@ -9982,5 +9982,59 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-13T13:19:05.426355",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a3c21a",
+    "callsign": "ENY3571",
+    "latitude": 29.5573,
+    "longitude": -98.5042,
+    "altitude_m": 373.38,
+    "velocity_ms": 70.03,
+    "heading": 130.83,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 4.230805310328676,
+    "bearing_from_airport": 308.2674922941376,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-13T13:19:05.426402",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a361f3",
+    "callsign": "CYO317",
+    "latitude": 29.495,
+    "longitude": -98.4203,
+    "altitude_m": 1356.36,
+    "velocity_ms": 102.33,
+    "heading": 132.35,
+    "vertrate": 20.81,
+    "on_ground": false,
+    "distance_from_airport_km": 6.427048817311729,
+    "bearing_from_airport": 131.92438156512054,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
