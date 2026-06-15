@@ -8648,5 +8648,157 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-15T22:31:28.726811",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a9b338",
+    "callsign": "N724JH",
+    "latitude": 33.3053,
+    "longitude": -111.645,
+    "altitude_m": 502.92,
+    "velocity_ms": 27.3,
+    "heading": 312.71,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 0.9239376374063591,
+    "bearing_from_airport": 107.4754789232287,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-15T22:31:28.726852",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a3d3cd",
+    "callsign": "Unknown",
+    "latitude": 33.3142,
+    "longitude": -111.6623,
+    "altitude_m": 594.36,
+    "velocity_ms": 86.77,
+    "heading": 311.15,
+    "vertrate": 12.68,
+    "on_ground": false,
+    "distance_from_airport_km": 1.014017880786346,
+    "bearing_from_airport": 314.47669775536406,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-15T22:31:28.726866",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aada90",
+    "callsign": "TIV799",
+    "latitude": 33.3295,
+    "longitude": -111.5975,
+    "altitude_m": 982.98,
+    "velocity_ms": 84.71,
+    "heading": 139.93,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 5.81045591768582,
+    "bearing_from_airport": 65.49094129459701,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-15T22:31:31.521953",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ae4be3",
+    "callsign": "KING90",
+    "latitude": 32.1228,
+    "longitude": -110.8586,
+    "altitude_m": 914.4,
+    "velocity_ms": 77.45,
+    "heading": 70.6,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 7.7823661798065205,
+    "bearing_from_airport": 84.49421695676818,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-15T22:31:31.521995",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a21cd1",
+    "callsign": "N235TW",
+    "latitude": 32.0943,
+    "longitude": -110.9139,
+    "altitude_m": 876.3,
+    "velocity_ms": 60.75,
+    "heading": 314.66,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 3.5137737082740848,
+    "bearing_from_airport": 133.51361520110436,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
