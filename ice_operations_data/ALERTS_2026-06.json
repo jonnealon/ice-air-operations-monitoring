@@ -9197,5 +9197,93 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-17T01:45:52.004156",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a54e94",
+    "callsign": "CAP3041",
+    "latitude": 31.8367,
+    "longitude": -106.315,
+    "altitude_m": 1935.48,
+    "velocity_ms": 52.16,
+    "heading": 67.99,
+    "vertrate": 3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 6.768735095906554,
+    "bearing_from_airport": 61.04776023608281,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-17T01:45:53.315732",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ad0562",
+    "callsign": "SWA3992",
+    "latitude": 32.1008,
+    "longitude": -110.9215,
+    "altitude_m": 845.82,
+    "velocity_ms": 74.57,
+    "heading": 315.28,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 2.499021719127796,
+    "bearing_from_airport": 132.80371838516544,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-17T01:45:53.315779",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a20c44",
+    "callsign": "ENY4126",
+    "latitude": 32.1262,
+    "longitude": -110.9512,
+    "altitude_m": 1120.14,
+    "velocity_ms": 78.94,
+    "heading": 314.21,
+    "vertrate": 17.56,
+    "on_ground": false,
+    "distance_from_airport_km": 1.4752747608325492,
+    "bearing_from_airport": 319.46197321661646,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
