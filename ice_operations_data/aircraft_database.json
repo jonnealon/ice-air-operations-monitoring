@@ -130,8 +130,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-09T18:38:27.359184",
-    "last_seen": "2026-06-18T20:05:48.887875",
-    "total_detections": 67,
+    "last_seen": "2026-06-20T02:37:15.362463",
+    "total_detections": 68,
     "is_charter": false,
     "operator": null
   },
@@ -1015,12 +1015,12 @@
       "CXK543"
     ],
     "airports_visited": [
-      "AZA",
-      "TUS"
+      "TUS",
+      "AZA"
     ],
     "first_seen": "2026-02-10T19:43:45.906966",
-    "last_seen": "2026-06-19T22:41:30.894466",
-    "total_detections": 72,
+    "last_seen": "2026-06-20T02:37:15.362512",
+    "total_detections": 73,
     "is_charter": false,
     "operator": null
   },
@@ -8023,8 +8023,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-20T00:01:31.550899",
-    "last_seen": "2026-06-03T22:07:43.994572",
-    "total_detections": 50,
+    "last_seen": "2026-06-20T02:37:15.362524",
+    "total_detections": 51,
     "is_charter": false,
     "operator": null
   },
@@ -69371,14 +69371,15 @@
   "a275b8": {
     "icao24": "a275b8",
     "callsigns_seen": [
+      "FDX1265",
       "FDX379"
     ],
     "airports_visited": [
       "SAT"
     ],
     "first_seen": "2026-06-15T00:03:32.222460",
-    "last_seen": "2026-06-15T00:03:32.222460",
-    "total_detections": 1,
+    "last_seen": "2026-06-20T02:37:16.224055",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -69914,5 +69915,33 @@
     "total_detections": 1,
     "is_charter": false,
     "operator": null
+  },
+  "ac5ada": {
+    "icao24": "ac5ada",
+    "callsigns_seen": [
+      "SWA4260"
+    ],
+    "airports_visited": [
+      "ELP"
+    ],
+    "first_seen": "2026-06-20T02:37:17.097969",
+    "last_seen": "2026-06-20T02:37:17.097969",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
+  },
+  "ac65bb": {
+    "icao24": "ac65bb",
+    "callsigns_seen": [
+      "SWA1195"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-06-20T02:37:18.488053",
+    "last_seen": "2026-06-20T02:37:18.488053",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
   }
 }
