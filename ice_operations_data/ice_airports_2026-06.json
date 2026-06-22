@@ -17808,5 +17808,37 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-22T11:28:21.300666",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "abb4ea",
+    "callsign": "SWA3545",
+    "latitude": 29.5208,
+    "longitude": -98.3445,
+    "altitude_m": 1607.82,
+    "velocity_ms": 157.39,
+    "heading": 41.82,
+    "vertrate": 15.28,
+    "on_ground": false,
+    "distance_from_airport_km": 12.185559995205889,
+    "bearing_from_airport": 96.71699487160026,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
