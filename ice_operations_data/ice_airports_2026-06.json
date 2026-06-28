@@ -22341,5 +22341,36 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-28T11:29:27.802520",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a05d0b",
+    "callsign": "N122VR",
+    "latitude": 29.5066,
+    "longitude": -98.3803,
+    "altitude_m": 1866.9,
+    "velocity_ms": 129.6,
+    "heading": 42.75,
+    "vertrate": 17.88,
+    "on_ground": false,
+    "distance_from_airport_km": 9.152141474126166,
+    "bearing_from_airport": 109.16406938130086,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
