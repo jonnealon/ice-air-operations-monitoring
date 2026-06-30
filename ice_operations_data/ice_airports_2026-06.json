@@ -24244,5 +24244,60 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-30T10:21:33.449958",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ae1f56",
+    "callsign": "G72071",
+    "latitude": 31.7638,
+    "longitude": -106.4406,
+    "altitude_m": 1668.78,
+    "velocity_ms": 38.88,
+    "heading": 107.72,
+    "vertrate": 0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 7.635493913858876,
+    "bearing_from_airport": 230.9049597601603,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-30T10:21:34.060964",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a0a96c",
+    "callsign": "UCA4248",
+    "latitude": 26.2692,
+    "longitude": -97.6049,
+    "altitude_m": 1577.34,
+    "velocity_ms": 135.4,
+    "heading": 5.45,
+    "vertrate": 7.8,
+    "on_ground": false,
+    "distance_from_airport_km": 6.685990884903265,
+    "bearing_from_airport": 47.475806470795874,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
   }
 ]
