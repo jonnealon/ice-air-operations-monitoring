@@ -59,5 +59,146 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-01T13:29:48.203684",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a7032e",
+    "callsign": "N551AM",
+    "latitude": 33.3518,
+    "longitude": -111.6364,
+    "altitude_m": 457.2,
+    "velocity_ms": 3.25,
+    "heading": 161.57,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 5.164565168273544,
+    "bearing_from_airport": 18.963039920128608,
+    "projected_region": "SOUTH_ASIA",
+    "potential_destinations": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:SOUTH_ASIA"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-01T13:29:48.203721",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a131e1",
+    "callsign": "CXK176",
+    "latitude": 33.3173,
+    "longitude": -111.6611,
+    "altitude_m": 426.72,
+    "velocity_ms": 33.47,
+    "heading": 135,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 1.2193562873009267,
+    "bearing_from_airport": 329.86310730084426,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-01T13:29:48.203744",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a81b24",
+    "callsign": "NDU621",
+    "latitude": 33.3277,
+    "longitude": -111.6775,
+    "altitude_m": 594.36,
+    "velocity_ms": 30.94,
+    "heading": 137.02,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 3.0710904220592457,
+    "bearing_from_airport": 316.0026666204595,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-01T13:29:48.203752",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "abe533",
+    "callsign": "CXK1085",
+    "latitude": 33.3179,
+    "longitude": -111.6616,
+    "altitude_m": 457.2,
+    "velocity_ms": 38.57,
+    "heading": 136.08,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 1.3002588233360706,
+    "bearing_from_airport": 329.56936757418765,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-01T13:29:49.652824",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a768fd",
+    "callsign": "LXJ577",
+    "latitude": 29.5063,
+    "longitude": -98.4051,
+    "altitude_m": 1836.42,
+    "velocity_ms": 138.43,
+    "heading": 68.87,
+    "vertrate": 20.16,
+    "on_ground": false,
+    "distance_from_airport_km": 6.949425926759654,
+    "bearing_from_airport": 115.93489301496902,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
