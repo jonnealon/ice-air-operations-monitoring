@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2026-07-01T02:10:02.828899",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2c1bd",
+    "callsign": "AAY3223",
+    "latitude": 33.3516,
+    "longitude": -111.6168,
+    "altitude_m": 1607.82,
+    "velocity_ms": 117.4,
+    "heading": 127.52,
+    "vertrate": 13,
+    "on_ground": false,
+    "distance_from_airport_km": 5.9890014537946,
+    "bearing_from_airport": 35.711818867109855,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE"
+    ],
+    "is_alert": true
+  }
+]
