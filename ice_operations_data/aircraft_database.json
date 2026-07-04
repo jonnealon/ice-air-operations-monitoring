@@ -32557,14 +32557,15 @@
     "icao24": "a3b38d",
     "callsigns_seen": [
       "AMF1692",
-      "AMF1830"
+      "AMF1830",
+      "AMF1829"
     ],
     "airports_visited": [
       "SAT"
     ],
     "first_seen": "2026-03-13T11:49:46.317590",
-    "last_seen": "2026-04-02T12:43:06.869418",
-    "total_detections": 2,
+    "last_seen": "2026-07-04T01:42:51.747833",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -47974,8 +47975,8 @@
       "AZA"
     ],
     "first_seen": "2026-03-29T15:23:57.752382",
-    "last_seen": "2026-03-29T17:54:51.616741",
-    "total_detections": 2,
+    "last_seen": "2026-07-04T01:42:51.034330",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -71739,5 +71740,19 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "a9a91a": {
+    "icao24": "a9a91a",
+    "callsigns_seen": [
+      "AAL1947"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-07-04T01:42:51.747869",
+    "last_seen": "2026-07-04T01:42:51.747869",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
