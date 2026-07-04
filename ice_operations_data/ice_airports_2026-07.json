@@ -4162,5 +4162,61 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-04T12:54:12.442619",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a29d37",
+    "callsign": "FDX613",
+    "latitude": 29.5466,
+    "longitude": -98.4905,
+    "altitude_m": 259.08,
+    "velocity_ms": 71.82,
+    "heading": 131.22,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4590526898447966,
+    "bearing_from_airport": 305.6191253137993,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-04T12:54:12.442666",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "abc12a",
+    "callsign": "SWA1589",
+    "latitude": 29.4888,
+    "longitude": -98.4114,
+    "altitude_m": 1059.18,
+    "velocity_ms": 117.95,
+    "heading": 128.27,
+    "vertrate": 8.45,
+    "on_ground": false,
+    "distance_from_airport_km": 7.526630027481928,
+    "bearing_from_airport": 131.4447974807456,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group"
+    ],
+    "is_alert": true
   }
 ]
