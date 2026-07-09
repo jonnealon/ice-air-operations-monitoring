@@ -13848,16 +13848,16 @@
   "adc6c7": {
     "icao24": "adc6c7",
     "callsigns_seen": [
-      "N987ST",
-      "Unknown"
+      "Unknown",
+      "N987ST"
     ],
     "airports_visited": [
-      "AZA",
-      "TUS"
+      "TUS",
+      "AZA"
     ],
     "first_seen": "2026-02-23T23:50:41.234203",
-    "last_seen": "2026-06-20T18:06:51.077927",
-    "total_detections": 14,
+    "last_seen": "2026-07-09T02:26:47.864070",
+    "total_detections": 15,
     "is_charter": false,
     "operator": null
   },
@@ -29392,8 +29392,8 @@
       "AZA"
     ],
     "first_seen": "2026-03-10T08:27:19.253465",
-    "last_seen": "2026-05-14T21:58:18.471670",
-    "total_detections": 4,
+    "last_seen": "2026-07-09T02:26:43.767911",
+    "total_detections": 5,
     "is_charter": false,
     "operator": null
   },
@@ -72305,6 +72305,20 @@
     ],
     "first_seen": "2026-07-08T22:52:58.596995",
     "last_seen": "2026-07-08T22:52:58.596995",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a513b9": {
+    "icao24": "a513b9",
+    "callsigns_seen": [
+      "UPS783"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-07-09T02:26:44.789910",
+    "last_seen": "2026-07-09T02:26:44.789910",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
