@@ -6834,5 +6834,92 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-10T18:05:14.451297",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aa064d",
+    "callsign": "NDU745",
+    "latitude": 33.3247,
+    "longitude": -111.646,
+    "altitude_m": 716.28,
+    "velocity_ms": 46.92,
+    "heading": 127.87,
+    "vertrate": 10.4,
+    "on_ground": false,
+    "distance_from_airport_km": 2.03488444285121,
+    "bearing_from_airport": 22.79459114467693,
+    "projected_region": "SOUTH_ASIA",
+    "potential_destinations": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:SOUTH_ASIA"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-10T18:05:15.474145",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a44d3f",
+    "callsign": "DAL1166",
+    "latitude": 29.5637,
+    "longitude": -98.3375,
+    "altitude_m": 1722.12,
+    "velocity_ms": 147.43,
+    "heading": 38.91,
+    "vertrate": 11.7,
+    "on_ground": false,
+    "distance_from_airport_km": 13.203984332064916,
+    "bearing_from_airport": 75.35777488503527,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-10T18:05:15.474178",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a7506a",
+    "callsign": "SWA2570",
+    "latitude": 29.5633,
+    "longitude": -98.5121,
+    "altitude_m": 396.24,
+    "velocity_ms": 71.01,
+    "heading": 132.36,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 5.242536959148392,
+    "bearing_from_airport": 308.82302876278203,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group"
+    ],
+    "is_alert": true
   }
 ]
