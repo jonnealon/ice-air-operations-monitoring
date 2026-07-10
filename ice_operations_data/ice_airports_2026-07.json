@@ -9188,5 +9188,58 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-10T11:41:54.348541",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "acab3f",
+    "callsign": "SWA4582",
+    "latitude": 29.5207,
+    "longitude": -98.4565,
+    "altitude_m": 640.08,
+    "velocity_ms": 78.98,
+    "heading": 129.18,
+    "vertrate": 12.03,
+    "on_ground": false,
+    "distance_from_airport_km": 1.9318730612452748,
+    "bearing_from_airport": 138.32119619564253,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-10T11:41:54.348579",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a3e08d",
+    "callsign": "UPS312",
+    "latitude": 29.5482,
+    "longitude": -98.4926,
+    "altitude_m": 281.94,
+    "velocity_ms": 74.34,
+    "heading": 131.63,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.727476945098133,
+    "bearing_from_airport": 306.17209480081647,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
