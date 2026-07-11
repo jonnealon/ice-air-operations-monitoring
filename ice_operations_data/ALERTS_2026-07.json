@@ -7733,5 +7733,90 @@
       "CHARTER_OPERATOR:iAero Group"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-11T22:34:10.073495",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a4c0f3",
+    "callsign": "N405TX",
+    "latitude": 29.5176,
+    "longitude": -98.4739,
+    "altitude_m": 342.9,
+    "velocity_ms": 28.8,
+    "heading": 41.38,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 1.8304415513672743,
+    "bearing_from_airport": 192.49514229066332,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-11T22:34:10.073538",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac929c",
+    "callsign": "SWA1850",
+    "latitude": 29.5643,
+    "longitude": -98.5134,
+    "altitude_m": 411.48,
+    "velocity_ms": 69.59,
+    "heading": 131.7,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 5.409943062599091,
+    "bearing_from_airport": 308.90621800946764,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-11T22:34:12.136710",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a78880",
+    "callsign": "N585AE",
+    "latitude": 32.1281,
+    "longitude": -110.9435,
+    "altitude_m": 815.34,
+    "velocity_ms": 17.29,
+    "heading": 202.75,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.3525773168796134,
+    "bearing_from_airport": 349.99432790079777,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
