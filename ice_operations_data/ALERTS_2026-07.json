@@ -7146,5 +7146,36 @@
       "UNUSUAL_DESTINATION:AFRICA_WEST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-11T01:21:10.230486",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a5d1f7",
+    "callsign": "SWA2414",
+    "latitude": 32.1004,
+    "longitude": -110.921,
+    "altitude_m": 845.82,
+    "velocity_ms": 74.94,
+    "heading": 315,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 2.5636795374581474,
+    "bearing_from_airport": 132.81752180559886,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
