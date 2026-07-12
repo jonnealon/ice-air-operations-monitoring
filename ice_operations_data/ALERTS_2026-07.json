@@ -7897,5 +7897,33 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-12T04:44:49.431495",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "aa9afc",
+    "callsign": "SWA2065",
+    "latitude": 32.1235,
+    "longitude": -110.9481,
+    "altitude_m": 762,
+    "velocity_ms": 72.39,
+    "heading": 135.29,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 1.0584200398774897,
+    "bearing_from_airport": 320.9044774662339,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
