@@ -9309,8 +9309,8 @@
       "SAT"
     ],
     "first_seen": "2026-02-20T22:50:28.157854",
-    "last_seen": "2026-05-12T12:21:56.853162",
-    "total_detections": 4,
+    "last_seen": "2026-07-12T19:58:26.413074",
+    "total_detections": 5,
     "is_charter": false,
     "operator": null
   },
@@ -45398,16 +45398,17 @@
   "a4278e": {
     "icao24": "a4278e",
     "callsigns_seen": [
-      "DAL2797",
+      "DAL2009",
       "DAL2458",
-      "DAL1676"
+      "DAL1676",
+      "DAL2797"
     ],
     "airports_visited": [
       "SAT"
     ],
     "first_seen": "2026-03-26T14:18:21.905535",
-    "last_seen": "2026-06-14T02:14:18.992698",
-    "total_detections": 3,
+    "last_seen": "2026-07-12T19:58:26.413031",
+    "total_detections": 4,
     "is_charter": false,
     "operator": null
   },
@@ -72675,5 +72676,19 @@
     "total_detections": 1,
     "is_charter": false,
     "operator": null
+  },
+  "abe475": {
+    "icao24": "abe475",
+    "callsigns_seen": [
+      "SWA2389"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-07-12T19:58:26.413086",
+    "last_seen": "2026-07-12T19:58:26.413086",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
   }
 }
