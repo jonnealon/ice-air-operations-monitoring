@@ -9023,5 +9023,37 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-14T06:31:00.945497",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac5afd",
+    "callsign": "SWA296",
+    "latitude": 29.5155,
+    "longitude": -98.4775,
+    "altitude_m": 266.7,
+    "velocity_ms": 73.66,
+    "heading": 41.04,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 2.152723025941176,
+    "bearing_from_airport": 200.21247235097482,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
