@@ -9055,5 +9055,68 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-14T10:29:51.505510",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a4cc29",
+    "callsign": "UPS780",
+    "latitude": 29.5362,
+    "longitude": -98.4535,
+    "altitude_m": null,
+    "velocity_ms": 1.29,
+    "heading": 129.38,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.5984818376683174,
+    "bearing_from_airport": 79.998535040869,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-14T10:29:52.611796",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "aaeeb4",
+    "callsign": "TYSON58",
+    "latitude": 26.2442,
+    "longitude": -97.5276,
+    "altitude_m": 1691.64,
+    "velocity_ms": 147.95,
+    "heading": 62.45,
+    "vertrate": 13.66,
+    "on_ground": false,
+    "distance_from_airport_km": 12.74534333475759,
+    "bearing_from_airport": 82.11264980932526,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
