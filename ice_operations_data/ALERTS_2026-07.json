@@ -12081,5 +12081,94 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-23T23:46:13.737645",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "0d12dd",
+    "callsign": "VIV216",
+    "latitude": 29.5172,
+    "longitude": -98.4758,
+    "altitude_m": 312.42,
+    "velocity_ms": 69.98,
+    "heading": 41.42,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.9209816916615146,
+    "bearing_from_airport": 197.55954834229632,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-23T23:46:13.737698",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a7d630",
+    "callsign": "AAL2374",
+    "latitude": 29.5154,
+    "longitude": -98.4778,
+    "altitude_m": 327.66,
+    "velocity_ms": 72.59,
+    "heading": 40.69,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.1732738173131354,
+    "bearing_from_airport": 200.82834027037737,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-23T23:46:15.113415",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "aa5621",
+    "callsign": "N765WT",
+    "latitude": 26.2346,
+    "longitude": -97.6655,
+    "altitude_m": 53.34,
+    "velocity_ms": 64.04,
+    "heading": 136.3,
+    "vertrate": -1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 1.296156925009374,
+    "bearing_from_airport": 301.4958576307345,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
