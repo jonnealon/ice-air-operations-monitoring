@@ -13994,5 +13994,92 @@
       "CHARTER_OPERATOR:iAero Group"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-25T14:24:22.529745",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a3c9a3",
+    "callsign": "NDU343",
+    "latitude": 33.3295,
+    "longitude": -111.6753,
+    "altitude_m": 556.26,
+    "velocity_ms": 35.66,
+    "heading": 133.83,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 3.086253099966187,
+    "bearing_from_airport": 321.3119897172212,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-25T14:24:22.529793",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a54db1",
+    "callsign": "OXF9610",
+    "latitude": 33.3208,
+    "longitude": -111.6293,
+    "altitude_m": 792.48,
+    "velocity_ms": 63.17,
+    "heading": 319.96,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 2.747206389440882,
+    "bearing_from_airport": 58.30536479821478,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-25T14:24:22.529802",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a121cd",
+    "callsign": "N172NF",
+    "latitude": 33.3384,
+    "longitude": -111.6361,
+    "altitude_m": 960.12,
+    "velocity_ms": 59.3,
+    "heading": 316.05,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 3.8013681943607813,
+    "bearing_from_airport": 26.67190515655716,
+    "projected_region": "SOUTH_ASIA",
+    "potential_destinations": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:SOUTH_ASIA"
+    ],
+    "is_alert": true
   }
 ]
