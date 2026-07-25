@@ -19254,5 +19254,55 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-25T10:49:01.970998",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a61024",
+    "callsign": "N490AM",
+    "latitude": 29.5484,
+    "longitude": -98.4928,
+    "altitude_m": 259.08,
+    "velocity_ms": 61.61,
+    "heading": 131.28,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 2.7561788905941236,
+    "bearing_from_airport": 306.30780564058676,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-25T10:49:01.971067",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "aaa244",
+    "callsign": "UAL1464",
+    "latitude": 29.5109,
+    "longitude": -98.4441,
+    "altitude_m": 609.6,
+    "velocity_ms": 97.09,
+    "heading": 130.27,
+    "vertrate": 7.15,
+    "on_ground": false,
+    "distance_from_airport_km": 3.544778761556465,
+    "bearing_from_airport": 135.54777328504525,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
