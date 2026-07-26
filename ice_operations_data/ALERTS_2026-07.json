@@ -16491,5 +16491,97 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-26T22:25:49.709077",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a09322",
+    "callsign": "SKW5379",
+    "latitude": 29.5736,
+    "longitude": -98.4203,
+    "altitude_m": 487.68,
+    "velocity_ms": 74.05,
+    "heading": 220.77,
+    "vertrate": -6.18,
+    "on_ground": false,
+    "distance_from_airport_km": 6.51682999779101,
+    "bearing_from_airport": 47.169016895691925,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-26T22:25:49.709114",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a8aa87",
+    "callsign": "AAL2374",
+    "latitude": 29.5735,
+    "longitude": -98.4205,
+    "altitude_m": 472.44,
+    "velocity_ms": 77.34,
+    "heading": 220.68,
+    "vertrate": -5.53,
+    "on_ground": false,
+    "distance_from_airport_km": 6.49511892207453,
+    "bearing_from_airport": 47.125111378286135,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-26T22:25:52.019410",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a39171",
+    "callsign": "N329TJ",
+    "latitude": 32.1005,
+    "longitude": -110.9212,
+    "altitude_m": 822.96,
+    "velocity_ms": 75.66,
+    "heading": 315,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 2.5423478511246587,
+    "bearing_from_airport": 132.92216889730014,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
