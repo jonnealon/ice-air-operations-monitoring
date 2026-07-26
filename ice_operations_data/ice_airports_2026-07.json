@@ -22802,5 +22802,55 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-26T23:25:45.429863",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a54d0a",
+    "callsign": "OXF1296",
+    "latitude": 32.1299,
+    "longitude": -111.0407,
+    "altitude_m": 1074.42,
+    "velocity_ms": 51.7,
+    "heading": 148.84,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 9.497532643458705,
+    "bearing_from_airport": 279.30862604186376,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-26T23:25:45.429906",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a78880",
+    "callsign": "N585AE",
+    "latitude": 32.1362,
+    "longitude": -110.9361,
+    "altitude_m": 845.82,
+    "velocity_ms": 32.09,
+    "heading": 221.1,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.278162102459824,
+    "bearing_from_airport": 11.663702739845633,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
