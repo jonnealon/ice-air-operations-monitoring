@@ -20824,5 +20824,87 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-26T01:02:42.048318",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a376ee",
+    "callsign": "NDU322",
+    "latitude": 33.2927,
+    "longitude": -111.644,
+    "altitude_m": 495.3,
+    "velocity_ms": 35.33,
+    "heading": 317.95,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 1.9385761579312188,
+    "bearing_from_airport": 149.83243934698407,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-26T01:02:42.048365",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a9a873",
+    "callsign": "NDU721",
+    "latitude": 33.2986,
+    "longitude": -111.7185,
+    "altitude_m": 822.96,
+    "velocity_ms": 45.1,
+    "heading": 78.82,
+    "vertrate": -0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 6.024229954789915,
+    "bearing_from_airport": 260.25842912387077,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-26T01:02:45.873165",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ac5723",
+    "callsign": "SWA951",
+    "latitude": 32.1003,
+    "longitude": -110.9209,
+    "altitude_m": 838.2,
+    "velocity_ms": 81.12,
+    "heading": 314.74,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 2.5781207888361113,
+    "bearing_from_airport": 132.85637842605183,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
