@@ -16727,5 +16727,31 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-27T08:29:26.153001",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a6e6d4",
+    "callsign": "N544AM",
+    "latitude": 32.1291,
+    "longitude": -110.9426,
+    "altitude_m": 822.96,
+    "velocity_ms": 13.18,
+    "heading": 218.66,
+    "vertrate": -1.3,
+    "on_ground": false,
+    "distance_from_airport_km": 1.4508190365018991,
+    "bearing_from_airport": 354.0496691175201,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
