@@ -24529,5 +24529,36 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-28T12:17:27.730835",
+    "airport_code": "AEX",
+    "airport_name": "Alexandria International",
+    "icao24": "a2c129",
+    "callsign": "",
+    "latitude": 31.3185,
+    "longitude": -92.5347,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 188.44,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.7394916423542988,
+    "bearing_from_airport": 124.60043330203143,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
