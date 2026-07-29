@@ -1035,15 +1035,15 @@
   "a8bcd7": {
     "icao24": "a8bcd7",
     "callsigns_seen": [
-      "Unknown",
-      "NDU662"
+      "NDU662",
+      "Unknown"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-10T19:43:45.906973",
-    "last_seen": "2026-07-28T19:01:50.295140",
-    "total_detections": 75,
+    "last_seen": "2026-07-29T18:49:41.120567",
+    "total_detections": 76,
     "is_charter": false,
     "operator": null
   },
@@ -3425,8 +3425,8 @@
       "TUS"
     ],
     "first_seen": "2026-02-13T21:53:53.689392",
-    "last_seen": "2026-07-27T18:16:31.265739",
-    "total_detections": 64,
+    "last_seen": "2026-07-29T18:49:41.120552",
+    "total_detections": 65,
     "is_charter": false,
     "operator": null
   },
@@ -4488,12 +4488,12 @@
       "NDU321"
     ],
     "airports_visited": [
-      "TUS",
-      "AZA"
+      "AZA",
+      "TUS"
     ],
     "first_seen": "2026-02-14T21:47:56.229163",
-    "last_seen": "2026-07-03T13:17:26.014609",
-    "total_detections": 59,
+    "last_seen": "2026-07-29T18:49:41.120527",
+    "total_detections": 60,
     "is_charter": false,
     "operator": null
   },
@@ -5721,8 +5721,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-16T19:48:46.176355",
-    "last_seen": "2026-07-01T22:58:54.547732",
-    "total_detections": 6,
+    "last_seen": "2026-07-29T18:49:41.120560",
+    "total_detections": 7,
     "is_charter": false,
     "operator": null
   },
@@ -15158,13 +15158,13 @@
       "VAR517"
     ],
     "airports_visited": [
-      "TUS",
+      "ELP",
       "AZA",
-      "ELP"
+      "TUS"
     ],
     "first_seen": "2026-02-24T23:24:56.380691",
-    "last_seen": "2026-06-24T17:23:44.796193",
-    "total_detections": 3,
+    "last_seen": "2026-07-29T18:49:41.120536",
+    "total_detections": 4,
     "is_charter": false,
     "operator": null
   },
@@ -54663,17 +54663,17 @@
   "a8d5bd": {
     "icao24": "a8d5bd",
     "callsigns_seen": [
-      "AAL2368",
+      "AAL1014",
       "AAL450",
-      "AAL1014"
+      "AAL2368"
     ],
     "airports_visited": [
       "SAT",
       "TUS"
     ],
     "first_seen": "2026-04-08T15:52:22.460891",
-    "last_seen": "2026-04-20T15:49:53.834613",
-    "total_detections": 4,
+    "last_seen": "2026-07-29T18:49:42.102754",
+    "total_detections": 5,
     "is_charter": false,
     "operator": null
   },
@@ -68541,8 +68541,8 @@
       "AZA"
     ],
     "first_seen": "2026-06-06T02:32:37.795066",
-    "last_seen": "2026-07-27T16:36:18.311995",
-    "total_detections": 5,
+    "last_seen": "2026-07-29T18:49:41.120513",
+    "total_detections": 6,
     "is_charter": false,
     "operator": null
   },
@@ -69513,8 +69513,8 @@
       "AZA"
     ],
     "first_seen": "2026-06-14T15:02:49.109868",
-    "last_seen": "2026-07-27T18:16:31.265727",
-    "total_detections": 4,
+    "last_seen": "2026-07-29T18:49:41.120545",
+    "total_detections": 5,
     "is_charter": false,
     "operator": null
   },
@@ -74496,6 +74496,48 @@
     ],
     "first_seen": "2026-07-29T17:43:41.402528",
     "last_seen": "2026-07-29T17:43:41.402528",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a2cce6": {
+    "icao24": "a2cce6",
+    "callsigns_seen": [
+      "N28NZ"
+    ],
+    "airports_visited": [
+      "AZA"
+    ],
+    "first_seen": "2026-07-29T18:49:41.120470",
+    "last_seen": "2026-07-29T18:49:41.120470",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a88ac3": {
+    "icao24": "a88ac3",
+    "callsigns_seen": [
+      "N65DY"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-07-29T18:49:42.102713",
+    "last_seen": "2026-07-29T18:49:42.102713",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a7202a": {
+    "icao24": "a7202a",
+    "callsigns_seen": [
+      "N5585"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-07-29T18:49:44.160369",
+    "last_seen": "2026-07-29T18:49:44.160369",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
