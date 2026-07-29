@@ -20135,5 +20135,119 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-29T22:25:12.155660",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2ab73",
+    "callsign": "AAY654",
+    "latitude": 33.2935,
+    "longitude": -111.6481,
+    "altitude_m": null,
+    "velocity_ms": 6.43,
+    "heading": 115.31,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.6946994604003531,
+    "bearing_from_airport": 159.4891869894882,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-29T22:25:13.029456",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a31c45",
+    "callsign": "N3SW",
+    "latitude": 29.5484,
+    "longitude": -98.4928,
+    "altitude_m": 335.28,
+    "velocity_ms": 60.49,
+    "heading": 131.55,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 2.7561788905941236,
+    "bearing_from_airport": 306.30780564058676,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-29T22:25:13.029500",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a5b923",
+    "callsign": "UPS5758",
+    "latitude": 29.5466,
+    "longitude": -98.4906,
+    "altitude_m": 312.42,
+    "velocity_ms": 67.46,
+    "heading": 130.98,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 2.466910602419552,
+    "bearing_from_airport": 305.4885333072781,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-29T22:25:14.584492",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a93a7f",
+    "callsign": "N694KM",
+    "latitude": 26.2108,
+    "longitude": -97.575,
+    "altitude_m": 1546.86,
+    "velocity_ms": 83.5,
+    "heading": 183.53,
+    "vertrate": -6.18,
+    "on_ground": false,
+    "distance_from_airport_km": 8.146425957942773,
+    "bearing_from_airport": 103.93723419816558,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
