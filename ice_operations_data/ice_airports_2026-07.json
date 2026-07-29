@@ -26277,5 +26277,63 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-29T10:25:03.543659",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a0f5e7",
+    "callsign": "FDX1416",
+    "latitude": 29.5571,
+    "longitude": -98.5041,
+    "altitude_m": 388.62,
+    "velocity_ms": 71.77,
+    "heading": 131.8,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 4.209491472935574,
+    "bearing_from_airport": 308.11154983364116,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-29T10:25:03.543705",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac578c",
+    "callsign": "SWA3559",
+    "latitude": 29.5569,
+    "longitude": -98.3421,
+    "altitude_m": 1722.12,
+    "velocity_ms": 140.82,
+    "heading": 43.67,
+    "vertrate": 10.4,
+    "on_ground": false,
+    "distance_from_airport_km": 12.598914728538986,
+    "bearing_from_airport": 78.17291085531895,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
