@@ -20391,5 +20391,58 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-30T03:48:10.365482",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a87cb5",
+    "callsign": "NDU646",
+    "latitude": 33.3197,
+    "longitude": -111.6689,
+    "altitude_m": 662.94,
+    "velocity_ms": 41.53,
+    "heading": 311.99,
+    "vertrate": 2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 1.878625022749221,
+    "bearing_from_airport": 314.6838205697041,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-30T03:48:11.504901",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a211ef",
+    "callsign": "SWA3846",
+    "latitude": 29.5483,
+    "longitude": -98.4928,
+    "altitude_m": 312.42,
+    "velocity_ms": 71.77,
+    "heading": 131.8,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.7496220734778687,
+    "bearing_from_airport": 306.1213781628423,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
