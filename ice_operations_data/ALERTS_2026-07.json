@@ -20506,5 +20506,36 @@
       "CHARTER_OPERATOR:iAero Group"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-30T09:08:22.991515",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a8c781",
+    "callsign": "N665HF",
+    "latitude": 29.5185,
+    "longitude": -98.474,
+    "altitude_m": 312.42,
+    "velocity_ms": 39.72,
+    "heading": 73.44,
+    "vertrate": -0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 1.7352738287521285,
+    "bearing_from_airport": 193.52011630802266,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
