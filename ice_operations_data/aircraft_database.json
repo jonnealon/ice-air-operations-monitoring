@@ -3921,21 +3921,23 @@
   "a75013": {
     "icao24": "a75013",
     "callsigns_seen": [
-      "GXA6211",
-      "GXA6161",
-      "GXA6156",
       "GXA150",
+      "GXA6161",
       "GXA6278",
-      "GXA6206"
+      "GXA6206",
+      "GXA6211",
+      "GXA6156",
+      "N570TA"
     ],
     "airports_visited": [
-      "ELP",
+      "AEX",
+      "HRL",
       "AZA",
-      "HRL"
+      "ELP"
     ],
     "first_seen": "2026-02-14T14:57:00.206806",
-    "last_seen": "2026-07-03T18:43:15.614662",
-    "total_detections": 7,
+    "last_seen": "2026-07-31T10:25:11.008527",
+    "total_detections": 8,
     "is_charter": false,
     "operator": null
   },
@@ -6658,8 +6660,8 @@
       "SAT"
     ],
     "first_seen": "2026-02-17T23:00:59.891504",
-    "last_seen": "2026-07-31T07:42:40.551750",
-    "total_detections": 16,
+    "last_seen": "2026-07-31T10:25:11.547424",
+    "total_detections": 17,
     "is_charter": false,
     "operator": null
   },
@@ -74942,5 +74944,19 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "ad99f9": {
+    "icao24": "ad99f9",
+    "callsigns_seen": [
+      "ASA520"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-07-31T10:25:11.547465",
+    "last_seen": "2026-07-31T10:25:11.547465",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
