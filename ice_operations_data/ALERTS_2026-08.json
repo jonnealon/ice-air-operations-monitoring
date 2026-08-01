@@ -509,5 +509,151 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-01T15:32:42.670049",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a3a5db",
+    "callsign": "NDU334",
+    "latitude": 33.2841,
+    "longitude": -111.6048,
+    "altitude_m": 807.72,
+    "velocity_ms": 48.51,
+    "heading": 55.8,
+    "vertrate": 1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 5.308216703888024,
+    "bearing_from_airport": 119.69167991315271,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-01T15:32:42.670091",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a691c0",
+    "callsign": "CXK544",
+    "latitude": 33.3071,
+    "longitude": -111.6205,
+    "altitude_m": 670.56,
+    "velocity_ms": 55.3,
+    "heading": 315.75,
+    "vertrate": 1.3,
+    "on_ground": false,
+    "distance_from_airport_km": 3.1550118006321535,
+    "bearing_from_airport": 91.40185258210988,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-01T15:32:42.670125",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a68f72",
+    "callsign": "CXK338",
+    "latitude": 33.3007,
+    "longitude": -111.6414,
+    "altitude_m": 609.6,
+    "velocity_ms": 36.76,
+    "heading": 136.7,
+    "vertrate": 2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.4484153166527447,
+    "bearing_from_airport": 122.9593329613669,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-01T15:32:43.419703",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a27aee",
+    "callsign": "SWA663",
+    "latitude": 29.5491,
+    "longitude": -98.4939,
+    "altitude_m": 289.56,
+    "velocity_ms": 75.06,
+    "heading": 131.67,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 2.8877961565140966,
+    "bearing_from_airport": 306.30276947576596,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-01T15:32:43.419742",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a537b2",
+    "callsign": "SWA2664",
+    "latitude": 29.5463,
+    "longitude": -98.4901,
+    "altitude_m": 266.7,
+    "velocity_ms": 73.95,
+    "heading": 131.9,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4082605260765937,
+    "bearing_from_airport": 305.5100814717231,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
