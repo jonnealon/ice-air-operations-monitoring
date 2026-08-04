@@ -4476,5 +4476,36 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-04T12:22:33.672696",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a23a71",
+    "callsign": "CXK188",
+    "latitude": 33.3219,
+    "longitude": -111.6422,
+    "altitude_m": 822.96,
+    "velocity_ms": 50.63,
+    "heading": 132.12,
+    "vertrate": -0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 1.9368731859343837,
+    "bearing_from_airport": 36.088087436538444,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
