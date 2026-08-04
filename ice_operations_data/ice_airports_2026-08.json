@@ -5945,5 +5945,33 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-04T07:28:52.199149",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a7ff34",
+    "callsign": "SKW6517",
+    "latitude": 32.0928,
+    "longitude": -110.9075,
+    "altitude_m": 1234.44,
+    "velocity_ms": 96.22,
+    "heading": 125.64,
+    "vertrate": 5.85,
+    "on_ground": false,
+    "distance_from_airport_km": 4.075302827953382,
+    "bearing_from_airport": 129.37988739538594,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
