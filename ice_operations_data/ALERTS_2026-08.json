@@ -8484,5 +8484,61 @@
       "UNUSUAL_DESTINATION:AFRICA_WEST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T13:43:58.840526",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "acbfd4",
+    "callsign": "CXK114",
+    "latitude": 33.3166,
+    "longitude": -111.6602,
+    "altitude_m": 396.24,
+    "velocity_ms": 33.47,
+    "heading": 136.25,
+    "vertrate": -1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 1.1107357304121805,
+    "bearing_from_airport": 331.57490447615504,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T13:44:01.930863",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a33b1e",
+    "callsign": "AAL580Q",
+    "latitude": 32.1118,
+    "longitude": -110.9342,
+    "altitude_m": null,
+    "velocity_ms": 20.06,
+    "heading": 129.38,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.7978178050020427,
+    "bearing_from_airport": 126.74270402198977,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
