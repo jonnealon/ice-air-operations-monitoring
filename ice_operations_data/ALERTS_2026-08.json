@@ -10431,5 +10431,92 @@
       "CHARTER_OPERATOR:iAero Group"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T23:53:32.886491",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2ab73",
+    "callsign": "AAY638",
+    "latitude": 33.2931,
+    "longitude": -111.6374,
+    "altitude_m": 495.3,
+    "velocity_ms": 72.03,
+    "heading": 315.58,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.275698902605953,
+    "bearing_from_airport": 135.80110192616348,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T23:53:32.886537",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a91051",
+    "callsign": "N683WA",
+    "latitude": 33.3389,
+    "longitude": -111.6256,
+    "altitude_m": 1394.46,
+    "velocity_ms": 94.68,
+    "heading": 132.36,
+    "vertrate": 11.7,
+    "on_ground": false,
+    "distance_from_airport_km": 4.370865970189911,
+    "bearing_from_airport": 37.82049895148481,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T23:53:33.625009",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ab2520",
+    "callsign": "UAL3939",
+    "latitude": 29.5046,
+    "longitude": -98.4061,
+    "altitude_m": 1135.38,
+    "velocity_ms": 111.36,
+    "heading": 64.26,
+    "vertrate": 8.45,
+    "on_ground": false,
+    "distance_from_airport_km": 6.948405795596018,
+    "bearing_from_airport": 117.68267136768623,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
