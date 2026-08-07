@@ -10113,5 +10113,151 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T21:06:04.748535",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aab883",
+    "callsign": "N790FA",
+    "latitude": 33.3126,
+    "longitude": -111.631,
+    "altitude_m": 784.86,
+    "velocity_ms": 56.86,
+    "heading": 131.33,
+    "vertrate": 0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 2.2441731173469965,
+    "bearing_from_airport": 76.25917155281604,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T21:06:04.748575",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a98bad",
+    "callsign": "CXK543",
+    "latitude": 33.2931,
+    "longitude": -111.6373,
+    "altitude_m": 472.44,
+    "velocity_ms": 34.93,
+    "heading": 316.19,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 2.282174986589542,
+    "bearing_from_airport": 135.63408423852093,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T21:06:05.792163",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "adf0a3",
+    "callsign": "KOW998",
+    "latitude": 29.544,
+    "longitude": -98.4872,
+    "altitude_m": 251.46,
+    "velocity_ms": 66.35,
+    "heading": 131.23,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 2.032493866057803,
+    "bearing_from_airport": 304.2352693637573,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T21:06:05.792202",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ab5690",
+    "callsign": "N83FT",
+    "latitude": 29.5109,
+    "longitude": -98.4026,
+    "altitude_m": 1432.56,
+    "velocity_ms": 86.67,
+    "heading": 156.94,
+    "vertrate": 9.75,
+    "on_ground": false,
+    "distance_from_airport_km": 6.965988253835483,
+    "bearing_from_airport": 111.28475298400656,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T21:06:05.792211",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "aa7431",
+    "callsign": "N773AE",
+    "latitude": 29.5211,
+    "longitude": -98.4701,
+    "altitude_m": 228.6,
+    "velocity_ms": 24.18,
+    "heading": 91.22,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 1.3989000700635943,
+    "bearing_from_airport": 181.18690914985754,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
