@@ -11358,5 +11358,64 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T11:12:44.972546",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a31f5b",
+    "callsign": "N300AJ",
+    "latitude": 29.53,
+    "longitude": -98.438,
+    "altitude_m": 609.6,
+    "velocity_ms": 85.27,
+    "heading": 41.58,
+    "vertrate": 8.13,
+    "on_ground": false,
+    "distance_from_airport_km": 3.098498026210742,
+    "bearing_from_airport": 97.60888658697223,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T11:12:46.892080",
+    "airport_code": "MFE",
+    "airport_name": "McAllen Miller",
+    "icao24": "ae1f4f",
+    "callsign": "00972064",
+    "latitude": 26.1386,
+    "longitude": -98.1689,
+    "altitude_m": 1653.54,
+    "velocity_ms": 59.07,
+    "heading": 250.14,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 8.078314496722115,
+    "bearing_from_airport": 120.7208283027498,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
