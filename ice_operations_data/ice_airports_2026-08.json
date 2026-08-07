@@ -11237,5 +11237,68 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T09:28:07.620433",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a2ec35",
+    "callsign": "FDX1188",
+    "latitude": 29.5337,
+    "longitude": -98.4569,
+    "altitude_m": null,
+    "velocity_ms": 5.66,
+    "heading": 73.12,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.2458473818375861,
+    "bearing_from_airport": 89.9968205666828,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T09:28:09.877992",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a0bdb4",
+    "callsign": "N147LJ",
+    "latitude": 32.1434,
+    "longitude": -110.9282,
+    "altitude_m": 891.54,
+    "velocity_ms": 56.02,
+    "heading": 225,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 3.2604966182049386,
+    "bearing_from_airport": 21.6524431551544,
+    "projected_region": "SOUTH_ASIA",
+    "potential_destinations": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:SOUTH_ASIA",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
