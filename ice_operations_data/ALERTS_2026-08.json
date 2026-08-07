@@ -8275,5 +8275,31 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T06:39:49.463687",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac670d",
+    "callsign": "FRG528",
+    "latitude": 29.5576,
+    "longitude": -98.5045,
+    "altitude_m": 358.14,
+    "velocity_ms": 59.04,
+    "heading": 131.47,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 4.274182989159467,
+    "bearing_from_airport": 308.3776605844637,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
