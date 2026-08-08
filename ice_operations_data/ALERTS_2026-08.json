@@ -11293,5 +11293,36 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-08T11:17:27.243629",
+    "airport_code": "AEX",
+    "airport_name": "Alexandria International",
+    "icao24": "a2fe3c",
+    "callsign": "EDV5162",
+    "latitude": 31.291,
+    "longitude": -92.468,
+    "altitude_m": 1066.8,
+    "velocity_ms": 127.08,
+    "heading": 90.93,
+    "vertrate": 11.7,
+    "on_ground": false,
+    "distance_from_airport_km": 8.74535743882795,
+    "bearing_from_airport": 117.49077529614806,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
