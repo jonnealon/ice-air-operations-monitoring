@@ -18329,5 +18329,62 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-08T23:15:47.796730",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "abcfec",
+    "callsign": "N860MB",
+    "latitude": 33.3039,
+    "longitude": -111.6787,
+    "altitude_m": 556.26,
+    "velocity_ms": 61.95,
+    "heading": 138.37,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.2863027368533264,
+    "bearing_from_airport": 259.0923207396819,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-08T23:15:50.700262",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a0a121",
+    "callsign": "N14JB",
+    "latitude": 32.0794,
+    "longitude": -110.8462,
+    "altitude_m": 1066.8,
+    "velocity_ms": 61.32,
+    "heading": 300.22,
+    "vertrate": 0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 9.799392656916694,
+    "bearing_from_airport": 114.53445598251182,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
