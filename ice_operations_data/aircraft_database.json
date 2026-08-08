@@ -2701,8 +2701,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-12T23:57:59.455678",
-    "last_seen": "2026-08-07T20:26:08.665702",
-    "total_detections": 74,
+    "last_seen": "2026-08-08T14:02:33.987232",
+    "total_detections": 75,
     "is_charter": false,
     "operator": null
   },
@@ -2773,12 +2773,12 @@
       "NDU837"
     ],
     "airports_visited": [
-      "AZA",
-      "TUS"
+      "TUS",
+      "AZA"
     ],
     "first_seen": "2026-02-12T23:57:59.455816",
-    "last_seen": "2026-08-08T02:47:10.183008",
-    "total_detections": 76,
+    "last_seen": "2026-08-08T14:02:33.987285",
+    "total_detections": 77,
     "is_charter": false,
     "operator": null
   },
@@ -73969,8 +73969,8 @@
       "TUS"
     ],
     "first_seen": "2026-07-25T15:33:50.299029",
-    "last_seen": "2026-07-25T15:33:50.299029",
-    "total_detections": 1,
+    "last_seen": "2026-08-08T14:02:37.693031",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -77066,5 +77066,47 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "ad3c1f": {
+    "icao24": "ad3c1f",
+    "callsigns_seen": [
+      "ASA520"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-08T14:02:35.011665",
+    "last_seen": "2026-08-08T14:02:35.011665",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "ac27a6": {
+    "icao24": "ac27a6",
+    "callsigns_seen": [
+      "SWA3733"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-08T14:02:35.011738",
+    "last_seen": "2026-08-08T14:02:35.011738",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
+  },
+  "0d0f89": {
+    "icao24": "0d0f89",
+    "callsigns_seen": [
+      "LET7245"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-08T14:02:35.011751",
+    "last_seen": "2026-08-08T14:02:35.011751",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
