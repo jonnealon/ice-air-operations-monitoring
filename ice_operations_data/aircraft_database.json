@@ -2773,12 +2773,12 @@
       "NDU837"
     ],
     "airports_visited": [
-      "TUS",
-      "AZA"
+      "AZA",
+      "TUS"
     ],
     "first_seen": "2026-02-12T23:57:59.455816",
-    "last_seen": "2026-08-07T14:42:38.491890",
-    "total_detections": 75,
+    "last_seen": "2026-08-08T02:47:10.183008",
+    "total_detections": 76,
     "is_charter": false,
     "operator": null
   },
@@ -5892,8 +5892,8 @@
       "SAT"
     ],
     "first_seen": "2026-02-16T20:59:23.412557",
-    "last_seen": "2026-08-04T20:05:08.104649",
-    "total_detections": 18,
+    "last_seen": "2026-08-08T02:47:11.171042",
+    "total_detections": 19,
     "is_charter": false,
     "operator": null
   },
@@ -6976,36 +6976,37 @@
   "a2f016": {
     "icao24": "a2f016",
     "callsigns_seen": [
-      "GXA6161",
-      "GXA6204",
-      "GXA190",
-      "GXA6206",
-      "GXA6212",
-      "GXA6201",
-      "GXA6275",
-      "GXA6215",
-      "GXA6208",
-      "GXA6261",
-      "GXA6214",
-      "GXA6256",
-      "GXA688",
-      "GXA6253",
-      "GXA6211",
-      "GXA6213",
-      "GXA4652",
-      "GXA151",
-      "GXA6205",
+      "GXA6264",
       "N289GX",
-      "Unknown"
+      "GXA6253",
+      "GXA6205",
+      "GXA6208",
+      "GXA6212",
+      "GXA6204",
+      "GXA6256",
+      "GXA6214",
+      "GXA190",
+      "GXA6215",
+      "GXA6213",
+      "GXA6201",
+      "GXA6161",
+      "GXA6261",
+      "GXA688",
+      "GXA6275",
+      "GXA6211",
+      "GXA6206",
+      "GXA151",
+      "Unknown",
+      "GXA4652"
     ],
     "airports_visited": [
-      "TUS",
       "AZA",
-      "ELP"
+      "ELP",
+      "TUS"
     ],
     "first_seen": "2026-02-18T15:08:59.344130",
-    "last_seen": "2026-08-05T14:41:29.197487",
-    "total_detections": 36,
+    "last_seen": "2026-08-08T02:47:10.182996",
+    "total_detections": 37,
     "is_charter": false,
     "operator": null
   },
@@ -14375,15 +14376,15 @@
   "a9ac2a": {
     "icao24": "a9ac2a",
     "callsigns_seen": [
-      "NDU722",
-      "Unknown"
+      "Unknown",
+      "NDU722"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-24T17:49:01.047030",
-    "last_seen": "2026-08-07T15:40:56.485339",
-    "total_detections": 60,
+    "last_seen": "2026-08-08T02:47:10.182949",
+    "total_detections": 61,
     "is_charter": false,
     "operator": null
   },
@@ -39193,15 +39194,16 @@
   "ac12be": {
     "icao24": "ac12be",
     "callsigns_seen": [
-      "SWA2896",
-      "SWA991"
+      "SWA991",
+      "SWA3822",
+      "SWA2896"
     ],
     "airports_visited": [
       "SAT"
     ],
     "first_seen": "2026-03-19T11:05:22.234693",
-    "last_seen": "2026-06-20T16:57:42.843825",
-    "total_detections": 2,
+    "last_seen": "2026-08-08T02:47:11.171008",
+    "total_detections": 3,
     "is_charter": true,
     "operator": "iAero Group"
   },
@@ -76928,5 +76930,19 @@
     "total_detections": 1,
     "is_charter": false,
     "operator": null
+  },
+  "a5ce40": {
+    "icao24": "a5ce40",
+    "callsigns_seen": [
+      "SWA1581"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-08T02:47:11.171053",
+    "last_seen": "2026-08-08T02:47:11.171053",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
   }
 }
