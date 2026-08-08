@@ -518,16 +518,16 @@
   "ab84c0": {
     "icao24": "ab84c0",
     "callsigns_seen": [
-      "NDU841",
-      "Unknown"
+      "Unknown",
+      "NDU841"
     ],
     "airports_visited": [
       "TUS",
       "AZA"
     ],
     "first_seen": "2026-02-09T23:09:35.695860",
-    "last_seen": "2026-08-07T19:41:31.639501",
-    "total_detections": 62,
+    "last_seen": "2026-08-08T20:53:48.302284",
+    "total_detections": 63,
     "is_charter": false,
     "operator": null
   },
@@ -4193,8 +4193,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-14T17:52:46.241793",
-    "last_seen": "2026-08-08T20:14:35.159795",
-    "total_detections": 68,
+    "last_seen": "2026-08-08T20:53:48.302242",
+    "total_detections": 69,
     "is_charter": false,
     "operator": null
   },
@@ -53296,14 +53296,15 @@
   "a4189f": {
     "icao24": "a4189f",
     "callsigns_seen": [
-      "DAL1408"
+      "DAL1408",
+      "DAL2568"
     ],
     "airports_visited": [
       "SAT"
     ],
     "first_seen": "2026-04-05T17:30:45.385329",
-    "last_seen": "2026-04-05T17:30:45.385329",
-    "total_detections": 1,
+    "last_seen": "2026-08-08T20:53:49.373334",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -77294,6 +77295,34 @@
     ],
     "first_seen": "2026-08-08T19:05:30.490917",
     "last_seen": "2026-08-08T19:05:30.490917",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a15f1e": {
+    "icao24": "a15f1e",
+    "callsigns_seen": [
+      "N188HL"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-08-08T20:53:52.078722",
+    "last_seen": "2026-08-08T20:53:52.078722",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a999ec": {
+    "icao24": "a999ec",
+    "callsigns_seen": [
+      "N718BP"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-08-08T20:53:52.078756",
+    "last_seen": "2026-08-08T20:53:52.078756",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
