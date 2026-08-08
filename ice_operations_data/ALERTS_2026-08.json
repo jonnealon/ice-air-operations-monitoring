@@ -11354,5 +11354,38 @@
       "CHARTER_OPERATOR:iAero Group"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-08T12:20:35.549482",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ac7218",
+    "callsign": "SWA3970",
+    "latitude": 32.1186,
+    "longitude": -110.9383,
+    "altitude_m": null,
+    "velocity_ms": 4.63,
+    "heading": 303.75,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.37608485317454815,
+    "bearing_from_airport": 42.448995188186814,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
   }
 ]
