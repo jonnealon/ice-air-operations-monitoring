@@ -13027,5 +13027,58 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-08T18:18:50.698114",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a68f72",
+    "callsign": "CXK338",
+    "latitude": 33.3334,
+    "longitude": -111.659,
+    "altitude_m": 670.56,
+    "velocity_ms": 44.7,
+    "heading": 258.04,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.872099190455197,
+    "bearing_from_airport": 351.645123512683,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-08T18:18:54.469970",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a280a4",
+    "callsign": "SKW138Y",
+    "latitude": 32.1236,
+    "longitude": -110.9482,
+    "altitude_m": 777.24,
+    "velocity_ms": 69.12,
+    "heading": 135,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 1.072963420955757,
+    "bearing_from_airport": 320.8887246709312,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
