@@ -15682,5 +15682,62 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T21:55:09.198273",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "111111",
+    "callsign": "U500",
+    "latitude": 26.2051,
+    "longitude": -97.6478,
+    "altitude_m": 1645.92,
+    "velocity_ms": 100.25,
+    "heading": 159.89,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 2.679246133018805,
+    "bearing_from_airport": 165.79867945402532,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T21:55:10.417266",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a20395",
+    "callsign": "N229MT",
+    "latitude": 32.1313,
+    "longitude": -110.9426,
+    "altitude_m": 815.34,
+    "velocity_ms": 9.99,
+    "heading": 145.49,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 1.6938921797673363,
+    "bearing_from_airport": 354.9061119671326,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
