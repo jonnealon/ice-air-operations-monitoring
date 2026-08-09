@@ -13971,5 +13971,31 @@
       "UNUSUAL_DESTINATION:AFRICA_WEST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T06:05:31.982271",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "aa9220",
+    "callsign": "SKW5688",
+    "latitude": 32.1331,
+    "longitude": -110.9594,
+    "altitude_m": 861.06,
+    "velocity_ms": 68.39,
+    "heading": 135,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.559916686248235,
+    "bearing_from_airport": 317.49534127568865,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
