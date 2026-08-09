@@ -13032,18 +13032,19 @@
     "icao24": "a6594f",
     "callsigns_seen": [
       "SKW6478",
-      "SKW6368",
       "SKW6431",
-      "SKW6355",
-      "SKW6271"
+      "SKW6205",
+      "SKW6271",
+      "SKW6368",
+      "SKW6355"
     ],
     "airports_visited": [
       "TUS",
       "ELP"
     ],
     "first_seen": "2026-02-23T06:38:11.768715",
-    "last_seen": "2026-07-09T23:41:33.213080",
-    "total_detections": 5,
+    "last_seen": "2026-08-09T23:53:43.781094",
+    "total_detections": 6,
     "is_charter": false,
     "operator": null
   },
@@ -13281,16 +13282,18 @@
   "a235b7": {
     "icao24": "a235b7",
     "callsigns_seen": [
-      "SWA2377",
-      "SWA1865"
+      "SWA4212",
+      "SWA1865",
+      "SWA2377"
     ],
     "airports_visited": [
-      "SAT",
-      "ELP"
+      "ELP",
+      "TUS",
+      "SAT"
     ],
     "first_seen": "2026-02-23T15:36:30.621733",
-    "last_seen": "2026-03-02T20:57:59.892794",
-    "total_detections": 2,
+    "last_seen": "2026-08-09T23:53:43.781058",
+    "total_detections": 3,
     "is_charter": true,
     "operator": "iAero Group"
   },
@@ -77596,10 +77599,39 @@
       "AAL584"
     ],
     "airports_visited": [
-      "TUS"
+      "TUS",
+      "AZA"
     ],
     "first_seen": "2026-08-09T23:18:25.472337",
-    "last_seen": "2026-08-09T23:18:25.472337",
+    "last_seen": "2026-08-09T23:53:39.924262",
+    "total_detections": 2,
+    "is_charter": false,
+    "operator": null
+  },
+  "a0116f": {
+    "icao24": "a0116f",
+    "callsigns_seen": [
+      "AIP813"
+    ],
+    "airports_visited": [
+      "AZA"
+    ],
+    "first_seen": "2026-08-09T23:53:39.924222",
+    "last_seen": "2026-08-09T23:53:39.924222",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a1a218": {
+    "icao24": "a1a218",
+    "callsigns_seen": [
+      "ENY3899"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-09T23:53:41.262498",
+    "last_seen": "2026-08-09T23:53:41.262498",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
