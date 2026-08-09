@@ -14148,5 +14148,119 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T13:27:37.054633",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aa25d9",
+    "callsign": "CXK162",
+    "latitude": 33.3109,
+    "longitude": -111.6919,
+    "altitude_m": 731.52,
+    "velocity_ms": 44.92,
+    "heading": 320.11,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 3.486482473537459,
+    "bearing_from_airport": 275.67442346639865,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T13:27:37.054680",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a68f72",
+    "callsign": "CXK338",
+    "latitude": 33.2879,
+    "longitude": -111.6114,
+    "altitude_m": 822.96,
+    "velocity_ms": 49.48,
+    "heading": 45.84,
+    "vertrate": -0.98,
+    "on_ground": false,
+    "distance_from_airport_km": 4.567829841645237,
+    "bearing_from_airport": 118.90472109760094,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T13:27:37.054693",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a047d8",
+    "callsign": "CXK262",
+    "latitude": 33.3068,
+    "longitude": -111.6165,
+    "altitude_m": 731.52,
+    "velocity_ms": 54.43,
+    "heading": 306.54,
+    "vertrate": -0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 3.526867324560085,
+    "bearing_from_airport": 91.79310624576266,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T13:27:37.054702",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a81b45",
+    "callsign": "CXK563",
+    "latitude": 33.3168,
+    "longitude": -111.6604,
+    "altitude_m": 419.1,
+    "velocity_ms": 32.38,
+    "heading": 135.64,
+    "vertrate": -1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 1.139105610502647,
+    "bearing_from_airport": 331.2858905802216,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
