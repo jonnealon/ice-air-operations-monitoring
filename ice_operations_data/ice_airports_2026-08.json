@@ -18877,5 +18877,87 @@
       "UNUSUAL_DESTINATION:SOUTH_ASIA"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T11:51:39.658271",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a3f798",
+    "callsign": "N355CF",
+    "latitude": 33.308,
+    "longitude": -111.6659,
+    "altitude_m": 487.68,
+    "velocity_ms": 35.68,
+    "heading": 137.34,
+    "vertrate": 2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.057769034928529,
+    "bearing_from_airport": 271.20571885134905,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T11:51:40.651366",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a2b63a",
+    "callsign": "N274KA",
+    "latitude": 29.5781,
+    "longitude": -98.5308,
+    "altitude_m": 586.74,
+    "velocity_ms": 60.4,
+    "heading": 133.62,
+    "vertrate": -4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 7.680856467448507,
+    "bearing_from_airport": 309.9359907966815,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-09T11:51:40.651408",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a5b954",
+    "callsign": "SWA2120",
+    "latitude": 29.5741,
+    "longitude": -98.4178,
+    "altitude_m": 777.24,
+    "velocity_ms": 110.36,
+    "heading": 42.17,
+    "vertrate": 6.5,
+    "on_ground": false,
+    "distance_from_airport_km": 6.7327953184083285,
+    "bearing_from_airport": 48.21831382646337,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
   }
 ]
