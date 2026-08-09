@@ -14434,5 +14434,148 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T14:57:46.705938",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a9c62b",
+    "callsign": "NDU729",
+    "latitude": 33.324,
+    "longitude": -111.6984,
+    "altitude_m": 594.36,
+    "velocity_ms": 47.1,
+    "heading": 40.13,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 4.451775214921416,
+    "bearing_from_airport": 293.83803657762985,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T14:57:46.706009",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a81b24",
+    "callsign": "NDU621",
+    "latitude": 33.339,
+    "longitude": -111.6806,
+    "altitude_m": 586.74,
+    "velocity_ms": 40.3,
+    "heading": 194.04,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 4.225632293723872,
+    "bearing_from_airport": 325.0537209199573,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T14:57:46.706016",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ab3d30",
+    "callsign": "NDU823",
+    "latitude": 33.3188,
+    "longitude": -111.6339,
+    "altitude_m": 800.1,
+    "velocity_ms": 47.77,
+    "heading": 311.07,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 2.2677542240962723,
+    "bearing_from_airport": 57.41668428677872,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T14:57:46.706024",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a6c4f0",
+    "callsign": "CXK546",
+    "latitude": 33.3184,
+    "longitude": -111.6622,
+    "altitude_m": 426.72,
+    "velocity_ms": 35.29,
+    "heading": 135.59,
+    "vertrate": -1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 1.3764494171149355,
+    "bearing_from_airport": 328.74219141462333,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T14:57:50.452592",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "aa7df3",
+    "callsign": "SWA1153",
+    "latitude": 32.1183,
+    "longitude": -110.9379,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 354.38,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.38022731855522857,
+    "bearing_from_airport": 50.03923004311184,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
   }
 ]
