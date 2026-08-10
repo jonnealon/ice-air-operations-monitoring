@@ -17346,5 +17346,36 @@
       "UNUSUAL_DESTINATION:AFRICA_WEST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-10T22:03:08.216826",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "abcfec",
+    "callsign": "N860MB",
+    "latitude": 33.298,
+    "longitude": -111.6544,
+    "altitude_m": 556.26,
+    "velocity_ms": 51.35,
+    "heading": 137.84,
+    "vertrate": 0.98,
+    "on_ground": false,
+    "distance_from_airport_km": 1.0878395543005324,
+    "bearing_from_airport": 179.5113451875991,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
