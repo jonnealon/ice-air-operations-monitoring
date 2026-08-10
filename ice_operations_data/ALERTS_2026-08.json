@@ -17262,5 +17262,89 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-10T21:07:14.078241",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a41172",
+    "callsign": "EJA361",
+    "latitude": 33.2982,
+    "longitude": -111.6432,
+    "altitude_m": 464.82,
+    "velocity_ms": 53.84,
+    "heading": 315.77,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.4947746190299211,
+    "bearing_from_airport": 135.46532391964496,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-10T21:07:15.049563",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ad60ab",
+    "callsign": "NEW961",
+    "latitude": 29.5264,
+    "longitude": -98.4646,
+    "altitude_m": 510.54,
+    "velocity_ms": 89.59,
+    "heading": 132.21,
+    "vertrate": 14.63,
+    "on_ground": false,
+    "distance_from_airport_km": 0.9533063434154135,
+    "bearing_from_airport": 148.20827634334722,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-10T21:07:15.049618",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a05165",
+    "callsign": "N12AM",
+    "latitude": 29.5602,
+    "longitude": -98.4359,
+    "altitude_m": 883.92,
+    "velocity_ms": 109.35,
+    "heading": 39.08,
+    "vertrate": 16.26,
+    "on_ground": false,
+    "distance_from_airport_km": 4.401284873034209,
+    "bearing_from_airport": 48.04979311830908,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
   }
 ]
