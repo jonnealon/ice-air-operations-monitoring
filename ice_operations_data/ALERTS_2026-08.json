@@ -16449,5 +16449,150 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-10T15:27:40.788117",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aab325",
+    "callsign": "NDU789",
+    "latitude": 33.3296,
+    "longitude": -111.6928,
+    "altitude_m": 586.74,
+    "velocity_ms": 42.29,
+    "heading": 53.41,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 4.298707494442022,
+    "bearing_from_airport": 304.2713691937584,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-10T15:27:40.788127",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a9a873",
+    "callsign": "NDU721",
+    "latitude": 33.3234,
+    "longitude": -111.6681,
+    "altitude_m": 480.06,
+    "velocity_ms": 36.76,
+    "heading": 136.7,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 2.1424585194444674,
+    "bearing_from_airport": 323.9295647521326,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-10T15:27:40.788133",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a6c4f0",
+    "callsign": "CXK546",
+    "latitude": 33.3198,
+    "longitude": -111.6374,
+    "altitude_m": 701.04,
+    "velocity_ms": 48.15,
+    "heading": 310.67,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 2.071372637968094,
+    "bearing_from_airport": 49.97359636740782,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-10T15:27:40.788140",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "acf76f",
+    "callsign": "CXK484",
+    "latitude": 33.2866,
+    "longitude": -111.5893,
+    "altitude_m": 762,
+    "velocity_ms": 54.34,
+    "heading": 108.78,
+    "vertrate": -4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 6.4900121756054245,
+    "bearing_from_airport": 111.23896222508017,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-10T15:27:40.788145",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ac948c",
+    "callsign": "N91CH",
+    "latitude": 33.3452,
+    "longitude": -111.5916,
+    "altitude_m": 1127.76,
+    "velocity_ms": 85.37,
+    "heading": 310.6,
+    "vertrate": -5.2,
+    "on_ground": false,
+    "distance_from_airport_km": 7.161100805331683,
+    "bearing_from_airport": 54.5463941833691,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
   }
 ]
