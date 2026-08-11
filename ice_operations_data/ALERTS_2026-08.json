@@ -17664,5 +17664,99 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-11T04:45:12.155957",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ac12d6",
+    "callsign": "SWA2039",
+    "latitude": 32.119,
+    "longitude": -110.9387,
+    "altitude_m": null,
+    "velocity_ms": 5.92,
+    "heading": 345.94,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.38778335366971217,
+    "bearing_from_airport": 33.88968044026353,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-11T04:45:12.156012",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a33eb1",
+    "callsign": "SKW4054",
+    "latitude": 32.1181,
+    "longitude": -110.9393,
+    "altitude_m": null,
+    "velocity_ms": 5.66,
+    "heading": 315,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.27354638089071553,
+    "bearing_from_airport": 35.75037098367824,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-11T04:45:12.156035",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a68a95",
+    "callsign": "SKW283W",
+    "latitude": 32.1105,
+    "longitude": -110.9303,
+    "altitude_m": null,
+    "velocity_ms": 12.35,
+    "heading": 315,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.18250606241025,
+    "bearing_from_airport": 121.70927479869414,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]

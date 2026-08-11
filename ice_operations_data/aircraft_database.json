@@ -12093,23 +12093,24 @@
   "a68a95": {
     "icao24": "a68a95",
     "callsigns_seen": [
-      "SKW6505",
-      "SKW4962",
-      "SKW6439",
-      "SKW6499",
       "SKW4903",
-      "SKW6514",
+      "SKW6271",
       "SKW6213",
       "SKW6497",
-      "SKW6271"
+      "SKW6505",
+      "SKW4962",
+      "SKW6514",
+      "SKW6439",
+      "SKW6499",
+      "SKW283W"
     ],
     "airports_visited": [
-      "TUS",
-      "SAT"
+      "SAT",
+      "TUS"
     ],
     "first_seen": "2026-02-22T17:47:34.532045",
-    "last_seen": "2026-03-23T04:01:43.747381",
-    "total_detections": 12,
+    "last_seen": "2026-08-11T04:45:12.156035",
+    "total_detections": 13,
     "is_charter": false,
     "operator": null
   },
@@ -30448,16 +30449,17 @@
     "icao24": "ac12d6",
     "callsigns_seen": [
       "SWA1188",
-      "SWA3478",
-      "SWA296"
+      "SWA2039",
+      "SWA296",
+      "SWA3478"
     ],
     "airports_visited": [
       "SAT",
       "TUS"
     ],
     "first_seen": "2026-03-11T00:59:14.804302",
-    "last_seen": "2026-08-10T16:13:26.743075",
-    "total_detections": 3,
+    "last_seen": "2026-08-11T04:45:12.155957",
+    "total_detections": 4,
     "is_charter": true,
     "operator": "iAero Group"
   },
@@ -56501,14 +56503,15 @@
   "abb5ec": {
     "icao24": "abb5ec",
     "callsigns_seen": [
-      "SKW5433"
+      "SKW5433",
+      "SKW5719"
     ],
     "airports_visited": [
       "TUS"
     ],
     "first_seen": "2026-04-12T18:35:19.217524",
-    "last_seen": "2026-04-12T18:35:19.217524",
-    "total_detections": 1,
+    "last_seen": "2026-08-11T04:45:12.156024",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -77852,5 +77855,19 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "a33eb1": {
+    "icao24": "a33eb1",
+    "callsigns_seen": [
+      "SKW4054"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-08-11T04:45:12.156012",
+    "last_seen": "2026-08-11T04:45:12.156012",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
