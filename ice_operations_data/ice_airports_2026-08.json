@@ -26826,5 +26826,36 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-12T10:48:18.481608",
+    "airport_code": "BRO",
+    "airport_name": "Brownsville South Padre",
+    "icao24": "ae1f4f",
+    "callsign": "00972064",
+    "latitude": 25.9088,
+    "longitude": -97.3789,
+    "altitude_m": 1668.78,
+    "velocity_ms": 32.45,
+    "heading": 205.35,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 4.697970621867777,
+    "bearing_from_airport": 87.28122053365934,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
