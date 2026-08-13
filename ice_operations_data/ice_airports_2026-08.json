@@ -29514,5 +29514,68 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-13T10:49:24.408298",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a04b92",
+    "callsign": "SKW5452",
+    "latitude": 29.4962,
+    "longitude": -98.3705,
+    "altitude_m": 1409.7,
+    "velocity_ms": 133.29,
+    "heading": 51.58,
+    "vertrate": 11.38,
+    "on_ground": false,
+    "distance_from_airport_km": 10.454518263049149,
+    "bearing_from_airport": 113.43443354416269,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-13T10:49:24.408344",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a2886c",
+    "callsign": "Unknown",
+    "latitude": 29.5274,
+    "longitude": -98.4657,
+    "altitude_m": 396.24,
+    "velocity_ms": 77.24,
+    "heading": 131.76,
+    "vertrate": 14.31,
+    "on_ground": false,
+    "distance_from_airport_km": 0.8036232655751316,
+    "bearing_from_airport": 150.4782373556842,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
