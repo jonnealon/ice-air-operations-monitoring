@@ -15221,13 +15221,13 @@
       "VAR517"
     ],
     "airports_visited": [
-      "ELP",
       "AZA",
-      "TUS"
+      "TUS",
+      "ELP"
     ],
     "first_seen": "2026-02-24T23:24:56.380691",
-    "last_seen": "2026-07-29T18:49:41.120536",
-    "total_detections": 4,
+    "last_seen": "2026-08-13T05:14:10.636744",
+    "total_detections": 5,
     "is_charter": false,
     "operator": null
   },
@@ -78401,6 +78401,20 @@
     ],
     "first_seen": "2026-08-13T00:03:40.710415",
     "last_seen": "2026-08-13T00:03:40.710415",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
+  },
+  "a1dcf2": {
+    "icao24": "a1dcf2",
+    "callsigns_seen": [
+      "SWA647"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-08-13T05:14:10.636674",
+    "last_seen": "2026-08-13T05:14:10.636674",
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
