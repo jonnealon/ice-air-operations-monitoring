@@ -1039,16 +1039,16 @@
   "a8bcd7": {
     "icao24": "a8bcd7",
     "callsigns_seen": [
-      "NDU662",
-      "Unknown"
+      "Unknown",
+      "NDU662"
     ],
     "airports_visited": [
       "AZA",
       "TUS"
     ],
     "first_seen": "2026-02-10T19:43:45.906973",
-    "last_seen": "2026-08-13T19:31:04.874577",
-    "total_detections": 83,
+    "last_seen": "2026-08-14T14:05:40.904503",
+    "total_detections": 84,
     "is_charter": false,
     "operator": null
   },
@@ -16961,17 +16961,18 @@
   "a02e0a": {
     "icao24": "a02e0a",
     "callsigns_seen": [
-      "AAL3134",
       "Unknown",
-      "AAL2721"
+      "AAL3134",
+      "AAL2721",
+      "AAL3297"
     ],
     "airports_visited": [
-      "TUS",
-      "SAT"
+      "SAT",
+      "TUS"
     ],
     "first_seen": "2026-02-26T17:32:14.957482",
-    "last_seen": "2026-05-05T19:55:29.732671",
-    "total_detections": 5,
+    "last_seen": "2026-08-14T14:05:41.841170",
+    "total_detections": 6,
     "is_charter": false,
     "operator": null
   },
@@ -17278,8 +17279,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-26T21:37:18.014415",
-    "last_seen": "2026-07-24T20:42:45.760570",
-    "total_detections": 9,
+    "last_seen": "2026-08-14T14:05:40.904511",
+    "total_detections": 10,
     "is_charter": false,
     "operator": null
   },
@@ -28749,15 +28750,15 @@
   "a3b1de": {
     "icao24": "a3b1de",
     "callsigns_seen": [
-      "JNX37",
-      "N337XA"
+      "N337XA",
+      "JNX37"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-03-09T16:43:58.782896",
-    "last_seen": "2026-08-13T22:07:39.915156",
-    "total_detections": 33,
+    "last_seen": "2026-08-14T14:05:40.904494",
+    "total_detections": 34,
     "is_charter": false,
     "operator": null
   },
@@ -43923,18 +43924,19 @@
   "a2cf3b": {
     "icao24": "a2cf3b",
     "callsigns_seen": [
-      "Unknown",
-      "AAY2303",
       "AAY1595",
       "AAY478",
-      "AAY3246"
+      "AAY2303",
+      "Unknown",
+      "AAY3246",
+      "AAY1587"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-03-23T23:52:16.736501",
-    "last_seen": "2026-08-01T04:44:04.692547",
-    "total_detections": 7,
+    "last_seen": "2026-08-14T14:05:40.904458",
+    "total_detections": 8,
     "is_charter": false,
     "operator": null
   },
@@ -51262,8 +51264,8 @@
       "AZA"
     ],
     "first_seen": "2026-04-02T16:42:59.105025",
-    "last_seen": "2026-08-14T12:35:17.321059",
-    "total_detections": 61,
+    "last_seen": "2026-08-14T14:05:40.904475",
+    "total_detections": 62,
     "is_charter": false,
     "operator": null
   },
@@ -66889,8 +66891,8 @@
       "TUS"
     ],
     "first_seen": "2026-05-22T17:21:21.168472",
-    "last_seen": "2026-08-12T18:12:22.404109",
-    "total_detections": 13,
+    "last_seen": "2026-08-14T14:05:40.904418",
+    "total_detections": 14,
     "is_charter": false,
     "operator": null
   },
@@ -74748,8 +74750,8 @@
       "AZA"
     ],
     "first_seen": "2026-07-29T14:36:55.221759",
-    "last_seen": "2026-08-09T16:18:57.194054",
-    "total_detections": 11,
+    "last_seen": "2026-08-14T14:05:40.904485",
+    "total_detections": 12,
     "is_charter": false,
     "operator": null
   },
@@ -78848,6 +78850,34 @@
     ],
     "first_seen": "2026-08-14T10:45:14.689847",
     "last_seen": "2026-08-14T10:45:14.689847",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "aaf0ce": {
+    "icao24": "aaf0ce",
+    "callsigns_seen": [
+      "AAL2053"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-14T14:05:41.841206",
+    "last_seen": "2026-08-14T14:05:41.841206",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a364bd": {
+    "icao24": "a364bd",
+    "callsigns_seen": [
+      "N318CB"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-14T14:05:41.841218",
+    "last_seen": "2026-08-14T14:05:41.841218",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
