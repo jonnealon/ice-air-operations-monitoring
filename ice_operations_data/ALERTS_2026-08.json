@@ -24530,5 +24530,145 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-14T17:22:14.596394",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a3b1de",
+    "callsign": "JNX37",
+    "latitude": 33.2987,
+    "longitude": -111.6393,
+    "altitude_m": 510.54,
+    "velocity_ms": 36.38,
+    "heading": 136.15,
+    "vertrate": 3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 1.7345136350018353,
+    "bearing_from_airport": 125.61065426598122,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-14T17:22:14.596410",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ae5b69",
+    "callsign": "RANGR25",
+    "latitude": 33.3178,
+    "longitude": -111.6662,
+    "altitude_m": 403.86,
+    "velocity_ms": 65.12,
+    "heading": 135.96,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5524558707890002,
+    "bearing_from_airport": 315.6477403517335,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-14T17:22:16.314173",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a5d1b9",
+    "callsign": "UAL490",
+    "latitude": 29.546,
+    "longitude": -98.4897,
+    "altitude_m": 251.46,
+    "velocity_ms": 67.8,
+    "heading": 131.31,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.3574774375295076,
+    "bearing_from_airport": 305.39634538051956,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-14T17:22:16.314215",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a66181",
+    "callsign": "N510AT",
+    "latitude": 29.5437,
+    "longitude": -98.4867,
+    "altitude_m": 228.6,
+    "velocity_ms": 64.47,
+    "heading": 132.09,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.9738377142138435,
+    "bearing_from_airport": 304.224389257587,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-14T17:22:20.438672",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "aab883",
+    "callsign": "N790FA",
+    "latitude": 32.1107,
+    "longitude": -110.9333,
+    "altitude_m": 861.06,
+    "velocity_ms": 40.39,
+    "heading": 136.55,
+    "vertrate": 4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 0.9398523071680535,
+    "bearing_from_airport": 129.62209483083382,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
