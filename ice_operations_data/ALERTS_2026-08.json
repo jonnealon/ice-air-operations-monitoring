@@ -27287,5 +27287,88 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-15T06:16:24.734825",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2ab73",
+    "callsign": "AAY2307",
+    "latitude": 33.314,
+    "longitude": -111.6714,
+    "altitude_m": null,
+    "velocity_ms": 6.17,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.7121512294618377,
+    "bearing_from_airport": 293.705559012529,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-15T06:16:24.734875",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a310bb",
+    "callsign": "AAY2266",
+    "latitude": 33.3116,
+    "longitude": -111.6679,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.3126823686348732,
+    "bearing_from_airport": 288.74724118106604,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-15T06:16:25.707364",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac741b",
+    "callsign": "N901NM",
+    "latitude": 29.524,
+    "longitude": -98.4641,
+    "altitude_m": 243.84,
+    "velocity_ms": 35.4,
+    "heading": 305.54,
+    "vertrate": -1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 1.2092654401548997,
+    "bearing_from_airport": 152.91791828033956,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
