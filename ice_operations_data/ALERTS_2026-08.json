@@ -27576,5 +27576,151 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-15T13:47:57.982681",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a54d76",
+    "callsign": "OXF2583",
+    "latitude": 33.3193,
+    "longitude": -111.6632,
+    "altitude_m": 403.86,
+    "velocity_ms": 34.2,
+    "heading": 136.22,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5102348710553748,
+    "bearing_from_airport": 327.700979337226,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-15T13:47:57.982721",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aaabb7",
+    "callsign": "NDU787",
+    "latitude": 33.3195,
+    "longitude": -111.6407,
+    "altitude_m": 746.76,
+    "velocity_ms": 53.19,
+    "heading": 311.86,
+    "vertrate": -1.3,
+    "on_ground": false,
+    "distance_from_airport_km": 1.8235871987288532,
+    "bearing_from_airport": 44.58272401062311,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-15T13:47:59.294159",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "abf351",
+    "callsign": "SWA3733",
+    "latitude": 29.5489,
+    "longitude": -98.4935,
+    "altitude_m": 251.46,
+    "velocity_ms": 69.98,
+    "heading": 131.42,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 2.843523602384229,
+    "bearing_from_airport": 306.40287714096024,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-15T13:48:02.291795",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a399c6",
+    "callsign": "CAP231",
+    "latitude": 32.1235,
+    "longitude": -110.8533,
+    "altitude_m": 1219.2,
+    "velocity_ms": 44.09,
+    "heading": 262.63,
+    "vertrate": 2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 8.28583828303493,
+    "bearing_from_airport": 84.28721040706921,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-15T13:48:02.291831",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a087fd",
+    "callsign": "SKW5399",
+    "latitude": 32.1181,
+    "longitude": -110.9393,
+    "altitude_m": null,
+    "velocity_ms": 7.2,
+    "heading": 315,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.27354638089071553,
+    "bearing_from_airport": 35.75037098367824,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
