@@ -30578,5 +30578,89 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-16T04:55:58.990631",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a960e3",
+    "callsign": "NDU703",
+    "latitude": 33.2917,
+    "longitude": -111.6424,
+    "altitude_m": 472.44,
+    "velocity_ms": 33.83,
+    "heading": 314.38,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 2.1103722085538212,
+    "bearing_from_airport": 147.86148219580662,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-16T04:55:58.990691",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a23a71",
+    "callsign": "CXK188",
+    "latitude": 33.2923,
+    "longitude": -111.6364,
+    "altitude_m": 457.2,
+    "velocity_ms": 32.38,
+    "heading": 314.36,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4040377757740816,
+    "bearing_from_airport": 135.6906989879542,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-16T04:56:02.277135",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "abe448",
+    "callsign": "UAL1762",
+    "latitude": 32.1188,
+    "longitude": -110.9356,
+    "altitude_m": null,
+    "velocity_ms": 4.37,
+    "heading": 351.56,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.5895374094573335,
+    "bearing_from_airport": 59.4432300153735,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
