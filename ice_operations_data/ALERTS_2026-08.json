@@ -30987,5 +30987,35 @@
       "CHARTER_OPERATOR:iAero Group"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-16T11:08:48.028414",
+    "airport_code": "AEX",
+    "airport_name": "Alexandria International",
+    "icao24": "a0be05",
+    "callsign": "EDV5162",
+    "latitude": 31.3241,
+    "longitude": -92.5449,
+    "altitude_m": null,
+    "velocity_ms": 6.43,
+    "heading": 8.44,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.5916362677695481,
+    "bearing_from_airport": 128.25089750452543,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
