@@ -42085,5 +42085,36 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-16T03:23:49.443472",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a27e81",
+    "callsign": "N26VB",
+    "latitude": 29.5016,
+    "longitude": -98.4526,
+    "altitude_m": 1432.56,
+    "velocity_ms": 60.07,
+    "heading": 196.42,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 3.931289096909331,
+    "bearing_from_airport": 154.99718111819027,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
