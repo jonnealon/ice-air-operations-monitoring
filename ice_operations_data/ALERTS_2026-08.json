@@ -30961,5 +30961,31 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-16T10:10:31.642202",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac6993",
+    "callsign": "SWA174",
+    "latitude": 29.5061,
+    "longitude": -98.4385,
+    "altitude_m": 693.42,
+    "velocity_ms": 98.05,
+    "heading": 131.38,
+    "vertrate": 4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 4.303880576995812,
+    "bearing_from_airport": 135.37179151219107,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group"
+    ],
+    "is_alert": true
   }
 ]
