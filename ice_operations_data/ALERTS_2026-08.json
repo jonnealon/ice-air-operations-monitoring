@@ -30839,5 +30839,66 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-16T06:18:06.305780",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ad1258",
+    "callsign": "CXK330",
+    "latitude": 33.2979,
+    "longitude": -111.6384,
+    "altitude_m": 457.2,
+    "velocity_ms": 37.83,
+    "heading": 315,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 1.8542481558645474,
+    "bearing_from_airport": 126.33854024628693,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-16T06:18:08.409300",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a53b2b",
+    "callsign": "UAL333K",
+    "latitude": 31.8423,
+    "longitude": -106.343,
+    "altitude_m": 1310.64,
+    "velocity_ms": 86.16,
+    "heading": 229.84,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 5.094681347557836,
+    "bearing_from_airport": 40.101709401564506,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE"
+    ],
+    "is_alert": true
   }
 ]
