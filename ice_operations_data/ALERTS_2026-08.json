@@ -30777,5 +30777,67 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-16T05:49:21.896336",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ac4074",
+    "callsign": "NDU889",
+    "latitude": 33.2975,
+    "longitude": -111.6493,
+    "altitude_m": 411.48,
+    "velocity_ms": 43.29,
+    "heading": 315.48,
+    "vertrate": -1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 1.2408988865701862,
+    "bearing_from_airport": 157.121348002643,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-16T05:49:21.896388",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ad1258",
+    "callsign": "CXK330",
+    "latitude": 33.3108,
+    "longitude": -111.6534,
+    "altitude_m": null,
+    "velocity_ms": 37.04,
+    "heading": 317.81,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.34828402782527623,
+    "bearing_from_airport": 17.03633476501608,
+    "projected_region": "SOUTH_ASIA",
+    "potential_destinations": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:SOUTH_ASIA",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
