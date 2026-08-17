@@ -41137,12 +41137,12 @@
       "VAR485"
     ],
     "airports_visited": [
-      "ELP",
-      "AZA"
+      "AZA",
+      "ELP"
     ],
     "first_seen": "2026-03-20T23:48:27.558409",
-    "last_seen": "2026-04-07T16:43:50.205679",
-    "total_detections": 3,
+    "last_seen": "2026-08-17T23:42:23.584779",
+    "total_detections": 4,
     "is_charter": false,
     "operator": null
   },
@@ -52587,12 +52587,12 @@
       "N300AJ"
     ],
     "airports_visited": [
-      "HRL",
-      "SAT"
+      "SAT",
+      "HRL"
     ],
     "first_seen": "2026-04-04T13:32:43.840643",
-    "last_seen": "2026-08-07T19:41:32.565088",
-    "total_detections": 3,
+    "last_seen": "2026-08-17T23:42:24.539561",
+    "total_detections": 4,
     "is_charter": false,
     "operator": null
   },
@@ -81043,6 +81043,34 @@
     ],
     "first_seen": "2026-08-17T22:10:58.856793",
     "last_seen": "2026-08-17T22:10:58.856793",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "ac71df": {
+    "icao24": "ac71df",
+    "callsigns_seen": [
+      "SWA1078"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-17T23:42:24.539629",
+    "last_seen": "2026-08-17T23:42:24.539629",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
+  },
+  "ab9b89": {
+    "icao24": "ab9b89",
+    "callsigns_seen": [
+      "N847TF"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-08-17T23:42:26.836958",
+    "last_seen": "2026-08-17T23:42:26.836958",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
