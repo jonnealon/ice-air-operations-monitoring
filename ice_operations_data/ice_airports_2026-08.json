@@ -47355,5 +47355,69 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-17T11:45:58.117407",
+    "airport_code": "AEX",
+    "airport_name": "Alexandria International",
+    "icao24": "a2bd72",
+    "callsign": "GXA6116",
+    "latitude": 31.2858,
+    "longitude": -92.4293,
+    "altitude_m": 1584.96,
+    "velocity_ms": 142.44,
+    "heading": 131.93,
+    "vertrate": 15.28,
+    "on_ground": false,
+    "distance_from_airport_km": 12.323313060059418,
+    "bearing_from_airport": 111.9703351888221,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-17T11:45:58.480979",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac69fc",
+    "callsign": "SWA2120",
+    "latitude": 29.5594,
+    "longitude": -98.4344,
+    "altitude_m": 617.22,
+    "velocity_ms": 94.19,
+    "heading": 40.13,
+    "vertrate": 5.85,
+    "on_ground": false,
+    "distance_from_airport_km": 4.4526782650007455,
+    "bearing_from_airport": 50.14584879693035,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
   }
 ]
