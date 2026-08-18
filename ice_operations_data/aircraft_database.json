@@ -4593,16 +4593,16 @@
   "a10308": {
     "icao24": "a10308",
     "callsigns_seen": [
-      "CXK243",
-      "Unknown"
+      "Unknown",
+      "CXK243"
     ],
     "airports_visited": [
       "AZA",
       "TUS"
     ],
     "first_seen": "2026-02-14T22:53:49.850887",
-    "last_seen": "2026-08-17T17:14:57.311058",
-    "total_detections": 104,
+    "last_seen": "2026-08-18T17:49:22.097595",
+    "total_detections": 105,
     "is_charter": false,
     "operator": null
   },
@@ -4795,8 +4795,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-15T14:57:26.453472",
-    "last_seen": "2026-08-17T20:48:42.700762",
-    "total_detections": 43,
+    "last_seen": "2026-08-18T17:49:22.097637",
+    "total_detections": 44,
     "is_charter": false,
     "operator": null
   },
@@ -65616,17 +65616,17 @@
   "ac8ee5": {
     "icao24": "ac8ee5",
     "callsigns_seen": [
-      "SWA1599",
       "SWA2406",
-      "SWA1676"
+      "SWA1676",
+      "SWA1599"
     ],
     "airports_visited": [
-      "SAT",
-      "TUS"
+      "TUS",
+      "SAT"
     ],
     "first_seen": "2026-05-14T22:53:33.045381",
-    "last_seen": "2026-08-18T17:15:38.644469",
-    "total_detections": 3,
+    "last_seen": "2026-08-18T17:49:25.222680",
+    "total_detections": 4,
     "is_charter": true,
     "operator": "iAero Group"
   },
@@ -73091,15 +73091,17 @@
   "a13541": {
     "icao24": "a13541",
     "callsigns_seen": [
+      "AAL488",
       "AAL2997",
       "AAL2635"
     ],
     "airports_visited": [
-      "TUS"
+      "TUS",
+      "SAT"
     ],
     "first_seen": "2026-07-10T05:30:29.405800",
-    "last_seen": "2026-08-11T18:42:25.561598",
-    "total_detections": 3,
+    "last_seen": "2026-08-18T17:49:23.075320",
+    "total_detections": 4,
     "is_charter": false,
     "operator": null
   },
@@ -81423,5 +81425,19 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "ab385e": {
+    "icao24": "ab385e",
+    "callsigns_seen": [
+      "AAL2997"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-08-18T17:49:25.222728",
+    "last_seen": "2026-08-18T17:49:25.222728",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
