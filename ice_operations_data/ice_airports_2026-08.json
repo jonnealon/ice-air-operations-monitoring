@@ -53025,5 +53025,66 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-18T09:54:19.034030",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ad8ecf",
+    "callsign": "N973AE",
+    "latitude": 33.3526,
+    "longitude": -111.6366,
+    "altitude_m": 464.82,
+    "velocity_ms": 9.99,
+    "heading": 168.11,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 5.242714656408933,
+    "bearing_from_airport": 18.45585280003837,
+    "projected_region": "SOUTH_ASIA",
+    "potential_destinations": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:SOUTH_ASIA"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-18T09:54:22.252455",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a28bbf",
+    "callsign": "N263SN",
+    "latitude": 31.8002,
+    "longitude": -106.2901,
+    "altitude_m": 1493.52,
+    "velocity_ms": 79.75,
+    "heading": 260.72,
+    "vertrate": -4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 8.309214360982187,
+    "bearing_from_airport": 95.34229194488938,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
