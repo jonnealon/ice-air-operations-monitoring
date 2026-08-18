@@ -985,15 +985,15 @@
   "aa22a7": {
     "icao24": "aa22a7",
     "callsigns_seen": [
-      "NDU752",
-      "Unknown"
+      "Unknown",
+      "NDU752"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-10T19:43:45.906923",
-    "last_seen": "2026-08-18T15:23:56.092478",
-    "total_detections": 84,
+    "last_seen": "2026-08-18T18:18:10.841471",
+    "total_detections": 85,
     "is_charter": false,
     "operator": null
   },
@@ -8663,8 +8663,8 @@
       "SAT"
     ],
     "first_seen": "2026-02-20T17:28:26.308219",
-    "last_seen": "2026-08-16T16:46:32.404087",
-    "total_detections": 5,
+    "last_seen": "2026-08-18T18:18:11.716397",
+    "total_detections": 6,
     "is_charter": false,
     "operator": null
   },
@@ -48906,14 +48906,15 @@
   "0d0fb1": {
     "icao24": "0d0fb1",
     "callsigns_seen": [
-      "LET5070"
+      "LET5070",
+      "LET7462"
     ],
     "airports_visited": [
       "SAT"
     ],
     "first_seen": "2026-03-29T20:54:10.237909",
-    "last_seen": "2026-03-29T20:54:10.237909",
-    "total_detections": 1,
+    "last_seen": "2026-08-18T18:18:11.716457",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -73091,17 +73092,18 @@
   "a13541": {
     "icao24": "a13541",
     "callsigns_seen": [
+      "Unknown",
+      "AAL2635",
       "AAL488",
-      "AAL2997",
-      "AAL2635"
+      "AAL2997"
     ],
     "airports_visited": [
       "TUS",
       "SAT"
     ],
     "first_seen": "2026-07-10T05:30:29.405800",
-    "last_seen": "2026-08-18T17:49:23.075320",
-    "total_detections": 4,
+    "last_seen": "2026-08-18T18:18:11.716447",
+    "total_detections": 5,
     "is_charter": false,
     "operator": null
   },
@@ -81436,6 +81438,20 @@
     ],
     "first_seen": "2026-08-18T17:49:25.222728",
     "last_seen": "2026-08-18T17:49:25.222728",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a05f37": {
+    "icao24": "a05f37",
+    "callsigns_seen": [
+      "DAL1408"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-18T18:18:11.716435",
+    "last_seen": "2026-08-18T18:18:11.716435",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
