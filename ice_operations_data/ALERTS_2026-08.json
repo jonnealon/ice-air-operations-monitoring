@@ -40856,5 +40856,98 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-18T20:09:33.768518",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "aaaf71",
+    "callsign": "N788NG",
+    "latitude": 29.5295,
+    "longitude": -98.4381,
+    "altitude_m": 601.98,
+    "velocity_ms": 71.51,
+    "heading": 179.59,
+    "vertrate": 5.85,
+    "on_ground": false,
+    "distance_from_airport_km": 3.096793565582074,
+    "bearing_from_airport": 98.65039459418978,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-18T20:09:35.745870",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a264a4",
+    "callsign": "SWA2745",
+    "latitude": 32.1115,
+    "longitude": -110.9337,
+    "altitude_m": null,
+    "velocity_ms": 65.12,
+    "heading": 134.68,
+    "vertrate": -0.33,
+    "on_ground": true,
+    "distance_from_airport_km": 0.8554078659199266,
+    "bearing_from_airport": 126.6461540224023,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-18T20:09:35.745905",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ac04c3",
+    "callsign": "SKW5433",
+    "latitude": 32.1181,
+    "longitude": -110.9393,
+    "altitude_m": null,
+    "velocity_ms": 8.75,
+    "heading": 315,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.27354638089071553,
+    "bearing_from_airport": 35.75037098367824,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
