@@ -58889,5 +58889,67 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T08:31:43.296845",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a23052",
+    "callsign": "AMF7279",
+    "latitude": 31.797,
+    "longitude": -106.2868,
+    "altitude_m": 1516.38,
+    "velocity_ms": 66.01,
+    "heading": 274.02,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 8.658441003635224,
+    "bearing_from_airport": 97.48927106139331,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T08:31:44.573068",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "aa0a1a",
+    "callsign": "ASI586",
+    "latitude": 32.1279,
+    "longitude": -110.9303,
+    "altitude_m": 1135.38,
+    "velocity_ms": 43.65,
+    "heading": 315,
+    "vertrate": 5.85,
+    "on_ground": false,
+    "distance_from_airport_km": 1.6515175044894423,
+    "bearing_from_airport": 37.52025936835844,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
