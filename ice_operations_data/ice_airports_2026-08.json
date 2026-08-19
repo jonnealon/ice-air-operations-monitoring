@@ -59205,5 +59205,94 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-19T12:18:31.654015",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a6c4f0",
+    "callsign": "CXK546",
+    "latitude": 33.2934,
+    "longitude": -111.6119,
+    "altitude_m": 792.48,
+    "velocity_ms": 53.42,
+    "heading": 344.36,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 4.262858580322129,
+    "bearing_from_airport": 112.0084799939753,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T12:18:33.838689",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac5afd",
+    "callsign": "SWA1430",
+    "latitude": 29.4921,
+    "longitude": -98.4044,
+    "altitude_m": 998.22,
+    "velocity_ms": 120.99,
+    "heading": 97.82,
+    "vertrate": 15.28,
+    "on_ground": false,
+    "distance_from_airport_km": 7.824069440916652,
+    "bearing_from_airport": 126.14797410602762,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T12:18:35.990507",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a26a93",
+    "callsign": "FDX1414",
+    "latitude": 32.1256,
+    "longitude": -110.9505,
+    "altitude_m": 792.48,
+    "velocity_ms": 74.94,
+    "heading": 135,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 1.3819030498196634,
+    "bearing_from_airport": 319.74031206533675,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
