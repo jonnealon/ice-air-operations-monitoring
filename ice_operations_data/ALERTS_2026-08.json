@@ -42319,5 +42319,152 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T04:03:40.361752",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a4dc25",
+    "callsign": "N412GA",
+    "latitude": 33.306,
+    "longitude": -111.6074,
+    "altitude_m": 815.34,
+    "velocity_ms": 75.95,
+    "heading": 139.95,
+    "vertrate": -0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 4.373859531977303,
+    "bearing_from_airport": 92.6052507932925,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T04:03:41.013490",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ad5cfc",
+    "callsign": "N960JP",
+    "latitude": 29.5515,
+    "longitude": -98.4424,
+    "altitude_m": 449.58,
+    "velocity_ms": 76.67,
+    "heading": 35.72,
+    "vertrate": 8.45,
+    "on_ground": false,
+    "distance_from_airport_km": 3.3024623889911124,
+    "bearing_from_airport": 53.243956402730646,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T04:03:41.013525",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac2a33",
+    "callsign": "AAL3097",
+    "latitude": 29.55,
+    "longitude": -98.4949,
+    "altitude_m": 289.56,
+    "velocity_ms": 72.5,
+    "heading": 131.84,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 3.024860646625136,
+    "bearing_from_airport": 306.74543473543616,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T04:03:43.252218",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a0cf8d",
+    "callsign": "SKW5467",
+    "latitude": 32.1177,
+    "longitude": -110.9365,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 47.81,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.4588288242526006,
+    "bearing_from_airport": 67.22616329612003,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T04:03:43.252255",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a2d18a",
+    "callsign": "OXF6250",
+    "latitude": 32.1247,
+    "longitude": -110.9493,
+    "altitude_m": 815.34,
+    "velocity_ms": 35.66,
+    "heading": 136.17,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.2329452326949404,
+    "bearing_from_airport": 320.74003740331057,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
