@@ -58975,5 +58975,61 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-19T09:54:30.740530",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a1139f",
+    "callsign": "FDX1426",
+    "latitude": 29.5331,
+    "longitude": -98.4568,
+    "altitude_m": null,
+    "velocity_ms": 1.8,
+    "heading": 216.56,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.2572703169861883,
+    "bearing_from_airport": 93.03327456838701,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T09:54:33.804017",
+    "airport_code": "MFE",
+    "airport_name": "McAllen Miller",
+    "icao24": "ae2009",
+    "callsign": "72250",
+    "latitude": 26.1845,
+    "longitude": -98.3449,
+    "altitude_m": 1661.16,
+    "velocity_ms": 44.33,
+    "heading": 111.8,
+    "vertrate": -0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 10.633163116394943,
+    "bearing_from_airport": 275.23440330646565,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
