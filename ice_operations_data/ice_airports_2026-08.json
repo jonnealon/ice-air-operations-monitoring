@@ -59062,5 +59062,68 @@
       "UNUSUAL_DESTINATION:AFRICA_WEST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T10:50:52.595797",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a43952",
+    "callsign": "UPS312",
+    "latitude": 29.5357,
+    "longitude": -98.4538,
+    "altitude_m": null,
+    "velocity_ms": 0.06,
+    "heading": 129.38,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.5611026808251414,
+    "bearing_from_airport": 81.82039063061075,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T10:50:53.021626",
+    "airport_code": "BRO",
+    "airport_name": "Brownsville South Padre",
+    "icao24": "a2a7b5",
+    "callsign": "ENY3724",
+    "latitude": 25.9366,
+    "longitude": -97.3697,
+    "altitude_m": 960.12,
+    "velocity_ms": 122.63,
+    "heading": 9.66,
+    "vertrate": 15.93,
+    "on_ground": false,
+    "distance_from_airport_km": 6.513693653718675,
+    "bearing_from_airport": 59.46565726345966,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
   }
 ]
