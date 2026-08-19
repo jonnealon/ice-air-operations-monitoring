@@ -45766,5 +45766,92 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T21:14:01.758187",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2ab73",
+    "callsign": "AAY649",
+    "latitude": 33.2868,
+    "longitude": -111.63,
+    "altitude_m": 518.16,
+    "velocity_ms": 68.03,
+    "heading": 315.92,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 3.2556207497359804,
+    "bearing_from_airport": 135.7144228038236,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T21:14:05.615515",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a1b4ab",
+    "callsign": "ENY3649",
+    "latitude": 32.1021,
+    "longitude": -110.923,
+    "altitude_m": 800.1,
+    "velocity_ms": 75.3,
+    "heading": 314.72,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.2975269485763796,
+    "bearing_from_airport": 132.5543910143253,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T21:14:05.615551",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a10e73",
+    "callsign": "CXK173",
+    "latitude": 32.1008,
+    "longitude": -110.9476,
+    "altitude_m": 1104.9,
+    "velocity_ms": 56.02,
+    "heading": 135.74,
+    "vertrate": -0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 1.8081021371751906,
+    "bearing_from_airport": 200.07361945173153,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
