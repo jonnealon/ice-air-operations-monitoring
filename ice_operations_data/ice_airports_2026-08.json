@@ -63606,5 +63606,94 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-20T04:59:12.842801",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a3c514",
+    "callsign": "DAL1508",
+    "latitude": 29.5754,
+    "longitude": -98.5275,
+    "altitude_m": 502.92,
+    "velocity_ms": 66.27,
+    "heading": 132.48,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 7.244152420448443,
+    "bearing_from_airport": 309.73410591224047,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-20T04:59:12.842851",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a438b0",
+    "callsign": "DAL2797",
+    "latitude": 29.5255,
+    "longitude": -98.4693,
+    "altitude_m": null,
+    "velocity_ms": 6.17,
+    "heading": 222.19,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.9114800241977576,
+    "bearing_from_airport": 176.96289943060765,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-20T04:59:15.626923",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ac4801",
+    "callsign": "SWA4578",
+    "latitude": 32.1189,
+    "longitude": -110.9376,
+    "altitude_m": null,
+    "velocity_ms": 0.64,
+    "heading": 61.88,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.44583756009796016,
+    "bearing_from_airport": 45.80267016478922,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
   }
 ]
