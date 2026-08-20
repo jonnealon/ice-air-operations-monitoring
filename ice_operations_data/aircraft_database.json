@@ -8880,14 +8880,16 @@
   "a22771": {
     "icao24": "a22771",
     "callsigns_seen": [
+      "ENY4176",
       "ENY4049"
     ],
     "airports_visited": [
-      "TUS"
+      "TUS",
+      "SAT"
     ],
     "first_seen": "2026-02-20T19:09:31.810034",
-    "last_seen": "2026-02-20T19:09:31.810034",
-    "total_detections": 1,
+    "last_seen": "2026-08-20T23:13:52.051267",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -14962,8 +14964,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-24T20:59:41.745468",
-    "last_seen": "2026-04-25T15:30:22.826631",
-    "total_detections": 5,
+    "last_seen": "2026-08-20T23:13:48.804535",
+    "total_detections": 6,
     "is_charter": false,
     "operator": null
   },
@@ -43388,8 +43390,8 @@
       "SAT"
     ],
     "first_seen": "2026-03-22T22:48:30.611016",
-    "last_seen": "2026-04-18T21:35:01.201978",
-    "total_detections": 2,
+    "last_seen": "2026-08-20T23:13:52.051305",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -83028,6 +83030,20 @@
     ],
     "first_seen": "2026-08-20T22:13:32.148354",
     "last_seen": "2026-08-20T22:13:32.148354",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "c02fc0": {
+    "icao24": "c02fc0",
+    "callsigns_seen": [
+      "CFSCD"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-08-20T23:13:54.629351",
+    "last_seen": "2026-08-20T23:13:54.629351",
     "total_detections": 1,
     "is_charter": false,
     "operator": null

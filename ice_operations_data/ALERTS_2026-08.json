@@ -50443,5 +50443,31 @@
       "CHARTER_OPERATOR:iAero Group"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-20T23:13:52.051267",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a22771",
+    "callsign": "ENY4176",
+    "latitude": 29.5492,
+    "longitude": -98.4939,
+    "altitude_m": 304.8,
+    "velocity_ms": 71.77,
+    "heading": 131.8,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.8943805091206474,
+    "bearing_from_airport": 306.47988610933,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
