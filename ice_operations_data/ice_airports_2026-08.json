@@ -64051,5 +64051,31 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-20T10:53:09.086157",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac6bf2",
+    "callsign": "RAX123",
+    "latitude": 29.5493,
+    "longitude": -98.4938,
+    "altitude_m": 304.8,
+    "velocity_ms": 66.27,
+    "heading": 132.48,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.8932495770619244,
+    "bearing_from_airport": 306.77033474248617,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
