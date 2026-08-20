@@ -10801,12 +10801,12 @@
       "N661WD"
     ],
     "airports_visited": [
-      "SAT",
-      "AZA"
+      "AZA",
+      "SAT"
     ],
     "first_seen": "2026-02-21T18:57:08.992268",
-    "last_seen": "2026-08-18T14:01:15.013695",
-    "total_detections": 11,
+    "last_seen": "2026-08-20T04:03:45.770423",
+    "total_detections": 12,
     "is_charter": false,
     "operator": null
   },
@@ -82471,6 +82471,20 @@
     ],
     "first_seen": "2026-08-20T03:14:09.231577",
     "last_seen": "2026-08-20T03:14:09.231577",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
+  },
+  "ac66aa": {
+    "icao24": "ac66aa",
+    "callsigns_seen": [
+      "SWA518"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-20T04:03:45.770477",
+    "last_seen": "2026-08-20T04:03:45.770477",
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
