@@ -53902,5 +53902,116 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-21T19:43:32.567305",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aa265e",
+    "callsign": "NDU753",
+    "latitude": 33.3012,
+    "longitude": -111.6189,
+    "altitude_m": 693.42,
+    "velocity_ms": 36.12,
+    "heading": 280.67,
+    "vertrate": -5.53,
+    "on_ground": false,
+    "distance_from_airport_km": 3.3827626944943634,
+    "bearing_from_airport": 102.49733418025266,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-21T19:43:33.539978",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a8bbbc",
+    "callsign": "AAL2881",
+    "latitude": 29.5438,
+    "longitude": -98.4869,
+    "altitude_m": 243.84,
+    "velocity_ms": 76.17,
+    "heading": 131.44,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 1.9960524398862336,
+    "bearing_from_airport": 304.1761228158124,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-21T19:43:36.335513",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "aa1a3f",
+    "callsign": "N750CD",
+    "latitude": 32.1319,
+    "longitude": -110.958,
+    "altitude_m": 815.34,
+    "velocity_ms": 52.38,
+    "heading": 135,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.3727993361983453,
+    "bearing_from_airport": 317.66408909499035,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-21T19:43:36.335548",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a10e73",
+    "callsign": "CXK173",
+    "latitude": 32.1254,
+    "longitude": -110.9503,
+    "altitude_m": 769.62,
+    "velocity_ms": 39.29,
+    "heading": 133.94,
+    "vertrate": -0.98,
+    "on_ground": false,
+    "distance_from_airport_km": 1.352810354033618,
+    "bearing_from_airport": 319.7402279298977,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
