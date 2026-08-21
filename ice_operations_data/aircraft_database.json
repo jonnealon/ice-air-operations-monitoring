@@ -2054,8 +2054,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-12T15:11:01.325684",
-    "last_seen": "2026-08-20T18:19:28.195811",
-    "total_detections": 81,
+    "last_seen": "2026-08-21T04:59:35.136915",
+    "total_detections": 82,
     "is_charter": false,
     "operator": null
   },
@@ -6264,8 +6264,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-17T15:10:44.705983",
-    "last_seen": "2026-06-19T16:25:52.029746",
-    "total_detections": 3,
+    "last_seen": "2026-08-21T04:59:35.136835",
+    "total_detections": 4,
     "is_charter": false,
     "operator": null
   },
@@ -10028,12 +10028,12 @@
       "OXF5841"
     ],
     "airports_visited": [
-      "TUS",
-      "AZA"
+      "AZA",
+      "TUS"
     ],
     "first_seen": "2026-02-21T04:50:02.842950",
-    "last_seen": "2026-06-11T15:28:19.239628",
-    "total_detections": 8,
+    "last_seen": "2026-08-21T04:59:37.761654",
+    "total_detections": 9,
     "is_charter": false,
     "operator": null
   },
@@ -18229,12 +18229,12 @@
       "OXF6250"
     ],
     "airports_visited": [
-      "TUS",
-      "AZA"
+      "AZA",
+      "TUS"
     ],
     "first_seen": "2026-02-27T17:57:32.758981",
-    "last_seen": "2026-08-21T04:06:56.896154",
-    "total_detections": 13,
+    "last_seen": "2026-08-21T04:59:37.761696",
+    "total_detections": 14,
     "is_charter": false,
     "operator": null
   },
@@ -52846,6 +52846,7 @@
   "a07311": {
     "icao24": "a07311",
     "callsigns_seen": [
+      "SKW4741",
       "SKW5452",
       "SKW5686"
     ],
@@ -52854,8 +52855,8 @@
       "TUS"
     ],
     "first_seen": "2026-04-04T15:51:34.409953",
-    "last_seen": "2026-08-15T10:43:57.811642",
-    "total_detections": 2,
+    "last_seen": "2026-08-21T04:59:35.885303",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -83154,5 +83155,19 @@
     "total_detections": 1,
     "is_charter": false,
     "operator": null
+  },
+  "ac5b66": {
+    "icao24": "ac5b66",
+    "callsigns_seen": [
+      "SWA4481"
+    ],
+    "airports_visited": [
+      "ELP"
+    ],
+    "first_seen": "2026-08-21T04:59:36.585396",
+    "last_seen": "2026-08-21T04:59:36.585396",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
   }
 }
