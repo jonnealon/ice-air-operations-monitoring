@@ -70107,5 +70107,93 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-21T05:31:11.435852",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ab64af",
+    "callsign": "NDU833",
+    "latitude": 33.2829,
+    "longitude": -111.6382,
+    "altitude_m": 586.74,
+    "velocity_ms": 39.72,
+    "heading": 343.44,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 3.1504860652716125,
+    "bearing_from_airport": 151.3096296747973,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-21T05:31:11.435907",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a7e9de",
+    "callsign": "NDU609",
+    "latitude": 33.2956,
+    "longitude": -111.6122,
+    "altitude_m": 678.18,
+    "velocity_ms": 49.27,
+    "heading": 139.66,
+    "vertrate": -1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 4.151114787092397,
+    "bearing_from_airport": 109.02699637713846,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-21T05:31:12.795244",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ab1496",
+    "callsign": "AAL431",
+    "latitude": 29.5463,
+    "longitude": -98.4901,
+    "altitude_m": 274.32,
+    "velocity_ms": 59.77,
+    "heading": 131.51,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4082605260765937,
+    "bearing_from_airport": 305.5100814717231,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]

@@ -1568,12 +1568,12 @@
       "NDU833"
     ],
     "airports_visited": [
-      "TUS",
-      "AZA"
+      "AZA",
+      "TUS"
     ],
     "first_seen": "2026-02-11T18:10:35.994287",
-    "last_seen": "2026-08-18T04:22:34.210935",
-    "total_detections": 86,
+    "last_seen": "2026-08-21T05:31:11.435852",
+    "total_detections": 87,
     "is_charter": false,
     "operator": null
   },
@@ -2054,8 +2054,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-12T15:11:01.325684",
-    "last_seen": "2026-08-21T04:59:35.136915",
-    "total_detections": 82,
+    "last_seen": "2026-08-21T05:31:11.435907",
+    "total_detections": 83,
     "is_charter": false,
     "operator": null
   },
@@ -83169,5 +83169,19 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "ab1496": {
+    "icao24": "ab1496",
+    "callsigns_seen": [
+      "AAL431"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-21T05:31:12.795244",
+    "last_seen": "2026-08-21T05:31:12.795244",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
