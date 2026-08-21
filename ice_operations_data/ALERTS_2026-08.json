@@ -51349,5 +51349,35 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-21T10:53:56.409921",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a26a93",
+    "callsign": "FDX1188",
+    "latitude": 31.848,
+    "longitude": -106.3349,
+    "altitude_m": 1363.98,
+    "velocity_ms": 80.69,
+    "heading": 229.91,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 6.073428014388887,
+    "bearing_from_airport": 41.765340840525425,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE"
+    ],
+    "is_alert": true
   }
 ]
