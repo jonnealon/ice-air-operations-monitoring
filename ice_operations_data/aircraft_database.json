@@ -4596,16 +4596,16 @@
   "a10308": {
     "icao24": "a10308",
     "callsigns_seen": [
-      "Unknown",
-      "CXK243"
+      "CXK243",
+      "Unknown"
     ],
     "airports_visited": [
       "AZA",
       "TUS"
     ],
     "first_seen": "2026-02-14T22:53:49.850887",
-    "last_seen": "2026-08-21T14:03:16.709272",
-    "total_detections": 107,
+    "last_seen": "2026-08-22T00:30:03.380303",
+    "total_detections": 108,
     "is_charter": false,
     "operator": null
   },
@@ -25711,14 +25711,16 @@
   "ac16da": {
     "icao24": "ac16da",
     "callsigns_seen": [
-      "SWA4401"
+      "SWA4401",
+      "SWA4036"
     ],
     "airports_visited": [
-      "SAT"
+      "SAT",
+      "ELP"
     ],
     "first_seen": "2026-03-06T14:27:57.465447",
-    "last_seen": "2026-03-06T14:27:57.465447",
-    "total_detections": 1,
+    "last_seen": "2026-08-22T00:30:05.142193",
+    "total_detections": 2,
     "is_charter": true,
     "operator": "iAero Group"
   },
@@ -34502,14 +34504,15 @@
   "0d0d86": {
     "icao24": "0d0d86",
     "callsigns_seen": [
-      "VIV7806"
+      "VIV7806",
+      "VIV678"
     ],
     "airports_visited": [
       "SAT"
     ],
     "first_seen": "2026-03-14T15:47:26.038868",
-    "last_seen": "2026-03-14T15:47:26.038868",
-    "total_detections": 1,
+    "last_seen": "2026-08-22T00:30:04.307889",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -45302,17 +45305,18 @@
   "a671f2": {
     "icao24": "a671f2",
     "callsigns_seen": [
-      "SKW6457",
-      "SKW6514",
       "SKW6205",
-      "Unknown"
+      "SKW6514",
+      "Unknown",
+      "SKW6207",
+      "SKW6457"
     ],
     "airports_visited": [
       "TUS"
     ],
     "first_seen": "2026-03-25T17:48:42.874359",
-    "last_seen": "2026-08-21T23:44:03.832649",
-    "total_detections": 4,
+    "last_seen": "2026-08-22T00:30:06.384398",
+    "total_detections": 5,
     "is_charter": false,
     "operator": null
   },
@@ -50054,6 +50058,7 @@
   "aa2a7f": {
     "icao24": "aa2a7f",
     "callsigns_seen": [
+      "SKW6292",
       "SKW4933",
       "SKW6373"
     ],
@@ -50061,8 +50066,8 @@
       "TUS"
     ],
     "first_seen": "2026-03-31T14:21:15.944604",
-    "last_seen": "2026-06-27T21:34:25.352342",
-    "total_detections": 2,
+    "last_seen": "2026-08-22T00:30:06.384360",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },

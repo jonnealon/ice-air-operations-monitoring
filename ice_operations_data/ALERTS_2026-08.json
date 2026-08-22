@@ -54935,5 +54935,149 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-22T00:30:03.380303",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a10308",
+    "callsign": "CXK243",
+    "latitude": 33.2971,
+    "longitude": -111.6093,
+    "altitude_m": 739.14,
+    "velocity_ms": 43.65,
+    "heading": 135,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 4.358003684844542,
+    "bearing_from_airport": 105.80172216515098,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-22T00:30:04.307889",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "0d0d86",
+    "callsign": "VIV678",
+    "latitude": 29.5439,
+    "longitude": -98.487,
+    "altitude_m": 251.46,
+    "velocity_ms": 68.14,
+    "heading": 131.63,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.0102808742745526,
+    "bearing_from_airport": 304.28331217107655,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-22T00:30:05.142193",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ac16da",
+    "callsign": "SWA4036",
+    "latitude": 31.7634,
+    "longitude": -106.4401,
+    "altitude_m": 1478.28,
+    "velocity_ms": 105.74,
+    "heading": 304.7,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 7.627184006419815,
+    "bearing_from_airport": 230.42259238195248,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-22T00:30:06.384360",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "aa2a7f",
+    "callsign": "SKW6292",
+    "latitude": 32.0909,
+    "longitude": -110.91,
+    "altitude_m": 922.02,
+    "velocity_ms": 65.12,
+    "heading": 314.68,
+    "vertrate": -4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 4.039584782819317,
+    "bearing_from_airport": 133.81196722907794,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-22T00:30:06.384398",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a671f2",
+    "callsign": "SKW6207",
+    "latitude": 32.1082,
+    "longitude": -110.9276,
+    "altitude_m": null,
+    "velocity_ms": 10.29,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.5349322075991967,
+    "bearing_from_airport": 124.83589646280404,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
