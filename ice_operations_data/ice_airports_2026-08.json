@@ -76015,5 +76015,84 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-22T03:31:39.854220",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac23ef",
+    "callsign": "SWA349",
+    "latitude": 29.5775,
+    "longitude": -98.5303,
+    "altitude_m": 510.54,
+    "velocity_ms": 70.66,
+    "heading": 132.05,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 7.601111937550868,
+    "bearing_from_airport": 309.7842832688998,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-22T03:31:39.854273",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a55b3c",
+    "callsign": "UAL2281",
+    "latitude": 29.5452,
+    "longitude": -98.4887,
+    "altitude_m": 259.08,
+    "velocity_ms": 71.39,
+    "heading": 132.08,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.2273781718040433,
+    "bearing_from_airport": 304.97254384132435,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-22T03:31:41.718889",
+    "airport_code": "MFE",
+    "airport_name": "McAllen Miller",
+    "icao24": "a4ba76",
+    "callsign": "AAL485",
+    "latitude": 26.1841,
+    "longitude": -98.2474,
+    "altitude_m": 38.1,
+    "velocity_ms": 61.79,
+    "heading": 140.74,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 1.2717167194401333,
+    "bearing_from_airport": 316.42638866736075,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
