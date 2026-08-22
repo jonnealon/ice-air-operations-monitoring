@@ -55079,5 +55079,89 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-22T01:57:11.233316",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a39e8a",
+    "callsign": "N332PH",
+    "latitude": 29.5328,
+    "longitude": -98.3456,
+    "altitude_m": 746.76,
+    "velocity_ms": 63.63,
+    "heading": 230.91,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 11.995318702797992,
+    "bearing_from_airport": 90.4465658470807,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-22T01:57:11.233362",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a992e4",
+    "callsign": "FFT3418",
+    "latitude": 29.5491,
+    "longitude": -98.4938,
+    "altitude_m": 289.56,
+    "velocity_ms": 65.62,
+    "heading": 131.19,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.88001786716145,
+    "bearing_from_airport": 306.41647870884356,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-22T01:57:11.233393",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "abd627",
+    "callsign": "SWA553",
+    "latitude": 29.5493,
+    "longitude": -98.4939,
+    "altitude_m": 297.18,
+    "velocity_ms": 72.46,
+    "heading": 132.41,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.9009923890933265,
+    "bearing_from_airport": 306.6561970932316,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
