@@ -86296,5 +86296,89 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-23T21:41:27.940686",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a1cd55",
+    "callsign": "AAY648",
+    "latitude": 33.2956,
+    "longitude": -111.6403,
+    "altitude_m": 472.44,
+    "velocity_ms": 73.48,
+    "heading": 315.57,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 1.8892032264021807,
+    "bearing_from_airport": 135.7858410003272,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-23T21:41:27.940736",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a91343",
+    "callsign": "NDU684",
+    "latitude": 33.293,
+    "longitude": -111.644,
+    "altitude_m": 495.3,
+    "velocity_ms": 37.1,
+    "heading": 315,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 1.9098581492092392,
+    "bearing_from_airport": 149.33050258679066,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-23T21:41:28.592057",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a975ed",
+    "callsign": "N7089V",
+    "latitude": 29.5631,
+    "longitude": -98.4593,
+    "altitude_m": 304.8,
+    "velocity_ms": 34.32,
+    "heading": 310.14,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 3.417323651587928,
+    "bearing_from_airport": 17.257046638138604,
+    "projected_region": "SOUTH_ASIA",
+    "potential_destinations": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:SOUTH_ASIA",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
