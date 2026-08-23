@@ -59742,5 +59742,31 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-23T09:15:25.178652",
+    "airport_code": "MFE",
+    "airport_name": "McAllen Miller",
+    "icao24": "ac7bed",
+    "callsign": "N903SM",
+    "latitude": 26.1655,
+    "longitude": -98.2301,
+    "altitude_m": 175.26,
+    "velocity_ms": 90.63,
+    "heading": 17.51,
+    "vertrate": 9.75,
+    "on_ground": false,
+    "distance_from_airport_km": 1.4227094079129055,
+    "bearing_from_airport": 143.47290559187456,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
