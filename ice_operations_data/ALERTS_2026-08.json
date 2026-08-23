@@ -59801,5 +59801,36 @@
       "HIGH_PRIORITY:Charter+Unusual_Destination"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-23T10:46:09.440079",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a03f24",
+    "callsign": "DAL2773",
+    "latitude": 29.5255,
+    "longitude": -98.4713,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 326.25,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.9216562214869946,
+    "bearing_from_airport": 189.0439843953615,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
