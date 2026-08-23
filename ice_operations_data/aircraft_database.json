@@ -3895,18 +3895,19 @@
   "acb2ba": {
     "icao24": "acb2ba",
     "callsigns_seen": [
-      "BBQ8257",
-      "BBQ9818",
       "TYSON54",
       "BBQ8262",
-      "TYSON53"
+      "TYSON53",
+      "BBQ8257",
+      "BBQ9818",
+      "BBQ8252"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-14T10:57:28.585322",
-    "last_seen": "2026-08-17T15:13:17.678163",
-    "total_detections": 23,
+    "last_seen": "2026-08-23T02:16:09.273795",
+    "total_detections": 24,
     "is_charter": false,
     "operator": null
   },
@@ -84422,6 +84423,48 @@
     ],
     "first_seen": "2026-08-23T00:32:46.935902",
     "last_seen": "2026-08-23T00:32:46.935902",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a98408": {
+    "icao24": "a98408",
+    "callsigns_seen": [
+      "FFT3418"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-23T02:16:10.416916",
+    "last_seen": "2026-08-23T02:16:10.416916",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "aaadb2": {
+    "icao24": "aaadb2",
+    "callsigns_seen": [
+      "SWA1808"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-08-23T02:16:13.223131",
+    "last_seen": "2026-08-23T02:16:13.223131",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
+  },
+  "a8aebc": {
+    "icao24": "a8aebc",
+    "callsigns_seen": [
+      "LXJ659"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-08-23T02:16:13.223168",
+    "last_seen": "2026-08-23T02:16:13.223168",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
