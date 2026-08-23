@@ -81883,5 +81883,61 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-23T05:23:12.534650",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aacf7f",
+    "callsign": "NDU796",
+    "latitude": 33.2864,
+    "longitude": -111.6738,
+    "altitude_m": 815.34,
+    "velocity_ms": 71.33,
+    "heading": 334.36,
+    "vertrate": 0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 2.9745623916261383,
+    "bearing_from_airport": 217.01479449207295,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-23T05:23:16.115066",
+    "airport_code": "MFE",
+    "airport_name": "McAllen Miller",
+    "icao24": "a3c4c1",
+    "callsign": "N342AE",
+    "latitude": 26.1743,
+    "longitude": -98.2298,
+    "altitude_m": 198.12,
+    "velocity_ms": 44.99,
+    "heading": 51.03,
+    "vertrate": 3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 0.8922959007558283,
+    "bearing_from_airport": 100.75226384010932,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
