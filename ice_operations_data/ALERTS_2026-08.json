@@ -60129,5 +60129,151 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-23T13:07:10.504030",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aa25d9",
+    "callsign": "CXK162",
+    "latitude": 33.3003,
+    "longitude": -111.6411,
+    "altitude_m": 457.2,
+    "velocity_ms": 32.74,
+    "heading": 315,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.4960868995232455,
+    "bearing_from_airport": 123.80593992205962,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-23T13:07:10.504083",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a68f72",
+    "callsign": "CXK338",
+    "latitude": 33.3081,
+    "longitude": -111.655,
+    "altitude_m": 518.16,
+    "velocity_ms": 39.29,
+    "heading": 313.94,
+    "vertrate": 3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 0.057098927561006735,
+    "bearing_from_airport": 305.67599696855314,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-23T13:07:10.504095",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "acb2ba",
+    "callsign": "BBQ8250",
+    "latitude": 33.3044,
+    "longitude": -111.6611,
+    "altitude_m": null,
+    "velocity_ms": 1.54,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.7192289380854977,
+    "bearing_from_airport": 238.3523359201948,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-23T13:07:11.416165",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a04bbe",
+    "callsign": "AAL3297",
+    "latitude": 29.5292,
+    "longitude": -98.472,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 174.38,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.5428110092360551,
+    "bearing_from_airport": 203.04423154281943,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-23T13:07:11.416176",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a0dd44",
+    "callsign": "FDX613",
+    "latitude": 29.5331,
+    "longitude": -98.4568,
+    "altitude_m": null,
+    "velocity_ms": 3.86,
+    "heading": 219.38,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.2572703169861883,
+    "bearing_from_airport": 93.03327456838701,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
