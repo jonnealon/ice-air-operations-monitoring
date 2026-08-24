@@ -86982,5 +86982,151 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-24T02:14:22.321896",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ac2f37",
+    "callsign": "SWA4001",
+    "latitude": 31.8398,
+    "longitude": -106.3466,
+    "altitude_m": 1341.12,
+    "velocity_ms": 79.24,
+    "heading": 230,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 4.664355853716615,
+    "bearing_from_airport": 39.109346838369106,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "DESCENDING_NEAR_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-24T02:14:23.577132",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a94206",
+    "callsign": "EJM696",
+    "latitude": 32.0893,
+    "longitude": -110.9078,
+    "altitude_m": 906.78,
+    "velocity_ms": 75.66,
+    "heading": 315,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 4.311811641207054,
+    "bearing_from_airport": 133.61066061030385,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-24T02:14:23.577179",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ab3861",
+    "callsign": "RANGER2",
+    "latitude": 32.1102,
+    "longitude": -110.9401,
+    "altitude_m": 807.72,
+    "velocity_ms": 0.51,
+    "heading": 0,
+    "vertrate": -0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 0.6603433161615179,
+    "bearing_from_airport": 172.6377376152734,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-24T02:14:23.577190",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "abfb46",
+    "callsign": "AAL1207",
+    "latitude": 32.1216,
+    "longitude": -110.9395,
+    "altitude_m": null,
+    "velocity_ms": 0.32,
+    "heading": 208.12,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.6265757363075084,
+    "bearing_from_airport": 13.005985457885856,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-24T02:14:23.577199",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ac2abd",
+    "callsign": "UAL2049",
+    "latitude": 32.1211,
+    "longitude": -110.9428,
+    "altitude_m": null,
+    "velocity_ms": 5.92,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.5802259394355505,
+    "bearing_from_airport": 343.0439217846971,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
