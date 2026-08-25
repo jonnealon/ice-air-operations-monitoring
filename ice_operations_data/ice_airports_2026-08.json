@@ -91799,5 +91799,96 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-25T12:21:26.854796",
+    "airport_code": "BRO",
+    "airport_name": "Brownsville South Padre",
+    "icao24": "a0a98a",
+    "callsign": "UCA4346",
+    "latitude": 25.9399,
+    "longitude": -97.3609,
+    "altitude_m": 1143,
+    "velocity_ms": 124.8,
+    "heading": 355.98,
+    "vertrate": 11.05,
+    "on_ground": false,
+    "distance_from_airport_km": 7.457765817892665,
+    "bearing_from_airport": 60.46715997185504,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-25T12:21:27.951540",
+    "airport_code": "MFE",
+    "airport_name": "McAllen Miller",
+    "icao24": "a0d80b",
+    "callsign": "N15320",
+    "latitude": 26.1763,
+    "longitude": -98.2593,
+    "altitude_m": 304.8,
+    "velocity_ms": 60.65,
+    "heading": 327.12,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 2.0628055959820593,
+    "bearing_from_airport": 271.54630396796233,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-25T12:21:28.451842",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a74a5a",
+    "callsign": "SWA3970",
+    "latitude": 32.1186,
+    "longitude": -110.9373,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 59.06,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.44497978435005775,
+    "bearing_from_airport": 51.41738214126826,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
   }
 ]
