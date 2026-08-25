@@ -13147,21 +13147,21 @@
   "a6594f": {
     "icao24": "a6594f",
     "callsigns_seen": [
+      "SKW6431",
       "SKW6207",
-      "SKW6355",
-      "SKW6368",
       "SKW6478",
-      "SKW6271",
+      "SKW6355",
       "SKW6205",
-      "SKW6431"
+      "SKW6271",
+      "SKW6368"
     ],
     "airports_visited": [
       "ELP",
       "TUS"
     ],
     "first_seen": "2026-02-23T06:38:11.768715",
-    "last_seen": "2026-08-19T23:42:29.590429",
-    "total_detections": 8,
+    "last_seen": "2026-08-25T23:44:27.415596",
+    "total_detections": 9,
     "is_charter": false,
     "operator": null
   },
@@ -38554,8 +38554,8 @@
       "SAT"
     ],
     "first_seen": "2026-03-18T09:40:37.516031",
-    "last_seen": "2026-08-10T19:26:23.406882",
-    "total_detections": 10,
+    "last_seen": "2026-08-25T23:44:24.564514",
+    "total_detections": 11,
     "is_charter": false,
     "operator": null
   },
@@ -51962,14 +51962,15 @@
   "ae5f11": {
     "icao24": "ae5f11",
     "callsigns_seen": [
+      "KING64",
       "KING54"
     ],
     "airports_visited": [
       "TUS"
     ],
     "first_seen": "2026-04-02T22:21:10.195795",
-    "last_seen": "2026-04-02T22:21:10.195795",
-    "total_detections": 1,
+    "last_seen": "2026-08-25T23:44:27.415635",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -86234,5 +86235,33 @@
     "total_detections": 1,
     "is_charter": false,
     "operator": null
+  },
+  "a4c7b6": {
+    "icao24": "a4c7b6",
+    "callsigns_seen": [
+      "N407MA"
+    ],
+    "airports_visited": [
+      "AZA"
+    ],
+    "first_seen": "2026-08-25T23:44:23.680514",
+    "last_seen": "2026-08-25T23:44:23.680514",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "ac668d": {
+    "icao24": "ac668d",
+    "callsigns_seen": [
+      "SWA2314"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-25T23:44:24.564466",
+    "last_seen": "2026-08-25T23:44:24.564466",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
   }
 }
