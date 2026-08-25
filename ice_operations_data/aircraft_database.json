@@ -9970,8 +9970,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-21T03:23:20.974271",
-    "last_seen": "2026-04-20T19:52:17.376871",
-    "total_detections": 2,
+    "last_seen": "2026-08-25T20:51:11.826810",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -21358,8 +21358,8 @@
       "AZA"
     ],
     "first_seen": "2026-03-01T20:45:39.928973",
-    "last_seen": "2026-08-19T17:15:01.800960",
-    "total_detections": 6,
+    "last_seen": "2026-08-25T20:51:11.826862",
+    "total_detections": 7,
     "is_charter": false,
     "operator": null
   },
@@ -30552,8 +30552,8 @@
       "SAT"
     ],
     "first_seen": "2026-03-10T22:50:17.804014",
-    "last_seen": "2026-03-19T22:16:04.609903",
-    "total_detections": 2,
+    "last_seen": "2026-08-25T20:51:12.758278",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -35698,21 +35698,22 @@
   "a89086": {
     "icao24": "a89086",
     "callsigns_seen": [
-      "AAL546",
       "AAL1014",
       "AAL413",
-      "AAL554",
       "AAL1836",
-      "AAL450"
+      "AAL546",
+      "AAL2375",
+      "AAL450",
+      "AAL554"
     ],
     "airports_visited": [
-      "AZA",
       "SAT",
+      "AZA",
       "TUS"
     ],
     "first_seen": "2026-03-15T16:17:59.756340",
-    "last_seen": "2026-08-21T03:26:13.491289",
-    "total_detections": 9,
+    "last_seen": "2026-08-25T20:51:12.758329",
+    "total_detections": 10,
     "is_charter": false,
     "operator": null
   },
@@ -40659,8 +40660,8 @@
       "TUS"
     ],
     "first_seen": "2026-03-20T14:34:57.334374",
-    "last_seen": "2026-08-19T19:45:36.075247",
-    "total_detections": 6,
+    "last_seen": "2026-08-25T20:51:14.803586",
+    "total_detections": 7,
     "is_charter": false,
     "operator": null
   },
@@ -86024,6 +86025,20 @@
     ],
     "first_seen": "2026-08-25T20:14:25.551143",
     "last_seen": "2026-08-25T20:14:25.551143",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a25e57": {
+    "icao24": "a25e57",
+    "callsigns_seen": [
+      "CXK238"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-25T20:51:12.758318",
+    "last_seen": "2026-08-25T20:51:12.758318",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
