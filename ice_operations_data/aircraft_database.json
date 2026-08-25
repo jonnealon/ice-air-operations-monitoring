@@ -61492,16 +61492,18 @@
   "abe8b6": {
     "icao24": "abe8b6",
     "callsigns_seen": [
+      "SWA349",
       "SWA4619",
-      "SWA349"
+      "SWA4653"
     ],
     "airports_visited": [
-      "ELP",
-      "TUS"
+      "TUS",
+      "SAT",
+      "ELP"
     ],
     "first_seen": "2026-04-26T12:36:58.322245",
-    "last_seen": "2026-08-22T15:08:31.531804",
-    "total_detections": 2,
+    "last_seen": "2026-08-25T22:50:25.447060",
+    "total_detections": 3,
     "is_charter": true,
     "operator": "iAero Group"
   },
@@ -73758,8 +73760,8 @@
       "AZA"
     ],
     "first_seen": "2026-07-14T11:53:55.527180",
-    "last_seen": "2026-08-24T16:00:40.380573",
-    "total_detections": 17,
+    "last_seen": "2026-08-25T22:50:24.505890",
+    "total_detections": 18,
     "is_charter": false,
     "operator": null
   },
@@ -77249,8 +77251,8 @@
       "AZA"
     ],
     "first_seen": "2026-08-07T00:34:43.214330",
-    "last_seen": "2026-08-18T14:57:19.742125",
-    "total_detections": 4,
+    "last_seen": "2026-08-25T22:50:24.505840",
+    "total_detections": 5,
     "is_charter": false,
     "operator": null
   },
@@ -86173,6 +86175,48 @@
     ],
     "first_seen": "2026-08-25T22:12:43.533548",
     "last_seen": "2026-08-25T22:12:43.533548",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a0e9a5": {
+    "icao24": "a0e9a5",
+    "callsigns_seen": [
+      "AJI927"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-25T22:50:25.447019",
+    "last_seen": "2026-08-25T22:50:25.447019",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a85dd1": {
+    "icao24": "a85dd1",
+    "callsigns_seen": [
+      "N6380E"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-25T22:50:25.447072",
+    "last_seen": "2026-08-25T22:50:25.447072",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a0955b": {
+    "icao24": "a0955b",
+    "callsigns_seen": [
+      "N137BR"
+    ],
+    "airports_visited": [
+      "ELP"
+    ],
+    "first_seen": "2026-08-25T22:50:26.366398",
+    "last_seen": "2026-08-25T22:50:26.366398",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
