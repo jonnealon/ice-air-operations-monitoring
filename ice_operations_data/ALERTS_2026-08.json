@@ -67071,5 +67071,35 @@
       "CHARTER_OPERATOR:iAero Group"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-25T06:22:46.848037",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "aab99f",
+    "callsign": "SKW5209",
+    "latitude": 32.1109,
+    "longitude": -110.9333,
+    "altitude_m": null,
+    "velocity_ms": 47.33,
+    "heading": 317.81,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.9258519532242532,
+    "bearing_from_airport": 128.5638966636759,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
