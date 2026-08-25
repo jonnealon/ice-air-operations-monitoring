@@ -67101,5 +67101,31 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-25T09:57:08.938493",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ab44a7",
+    "callsign": "AAL2616",
+    "latitude": 29.5327,
+    "longitude": -98.4745,
+    "altitude_m": null,
+    "velocity_ms": 6.43,
+    "heading": 312.19,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.46728830828750156,
+    "bearing_from_airport": 256.25978690914735,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
