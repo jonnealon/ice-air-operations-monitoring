@@ -95407,5 +95407,55 @@
       "UNUSUAL_DESTINATION:EASTERN_EUROPE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-25T23:14:23.565863",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a50c00",
+    "callsign": "N424RP",
+    "latitude": 33.337,
+    "longitude": -111.6784,
+    "altitude_m": 830.58,
+    "velocity_ms": 58.5,
+    "heading": 325.75,
+    "vertrate": -0.98,
+    "on_ground": false,
+    "distance_from_airport_km": 3.926955126964339,
+    "bearing_from_airport": 325.6372909611398,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-25T23:14:24.484896",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a8cfa9",
+    "callsign": "EJA667",
+    "latitude": 29.5465,
+    "longitude": -98.4903,
+    "altitude_m": 289.56,
+    "velocity_ms": 58.32,
+    "heading": 131.42,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 2.43688719770267,
+    "bearing_from_airport": 305.6713378962867,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
