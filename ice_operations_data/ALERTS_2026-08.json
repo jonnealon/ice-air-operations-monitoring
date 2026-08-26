@@ -70946,5 +70946,57 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-26T11:21:14.096035",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a0fea3",
+    "callsign": "UPS782",
+    "latitude": 29.5462,
+    "longitude": -98.49,
+    "altitude_m": 266.7,
+    "velocity_ms": 71.77,
+    "heading": 131.8,
+    "vertrate": -5.2,
+    "on_ground": false,
+    "distance_from_airport_km": 2.3939544649734823,
+    "bearing_from_airport": 305.42800806976715,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-26T11:21:15.222095",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a29980",
+    "callsign": "FDX1537",
+    "latitude": 26.2462,
+    "longitude": -97.6585,
+    "altitude_m": 45.72,
+    "velocity_ms": 73.05,
+    "heading": 180.4,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 2.006665855419071,
+    "bearing_from_airport": 348.2634011253982,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
