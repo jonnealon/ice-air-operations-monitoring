@@ -70894,5 +70894,57 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-26T10:02:44.273249",
+    "airport_code": "AEX",
+    "airport_name": "Alexandria International",
+    "icao24": "a3dc7e",
+    "callsign": "Unknown",
+    "latitude": 31.3432,
+    "longitude": -92.5775,
+    "altitude_m": 541.02,
+    "velocity_ms": 75.37,
+    "heading": 280.62,
+    "vertrate": 6.18,
+    "on_ground": false,
+    "distance_from_airport_km": 3.158164572767588,
+    "bearing_from_airport": 303.7423570896629,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-26T10:02:45.003380",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a53eef",
+    "callsign": "UPS780",
+    "latitude": 29.549,
+    "longitude": -98.4935,
+    "altitude_m": 289.56,
+    "velocity_ms": 62.33,
+    "heading": 131.32,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.8501237740344005,
+    "bearing_from_airport": 306.58251240834795,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
