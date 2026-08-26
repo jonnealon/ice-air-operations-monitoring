@@ -96775,5 +96775,37 @@
       "UNUSUAL_DESTINATION:AFRICA_WEST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-26T12:22:59.880256",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a3c9a3",
+    "callsign": "NDU343",
+    "latitude": 33.3185,
+    "longitude": -111.6399,
+    "altitude_m": 754.38,
+    "velocity_ms": 48.42,
+    "heading": 312.85,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 1.8013880422510122,
+    "bearing_from_airport": 48.745841603960116,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
