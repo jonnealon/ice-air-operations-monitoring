@@ -3804,8 +3804,8 @@
       "ELP"
     ],
     "first_seen": "2026-02-14T00:01:37.961391",
-    "last_seen": "2026-08-23T05:51:08.116203",
-    "total_detections": 13,
+    "last_seen": "2026-08-29T01:02:19.968747",
+    "total_detections": 14,
     "is_charter": false,
     "operator": null
   },
@@ -27029,18 +27029,19 @@
     "icao24": "aa6ba6",
     "callsigns_seen": [
       "SWA3150",
-      "SWA106",
+      "SWA2055",
       "SWA209",
+      "SWA106",
       "SWA1360"
     ],
     "airports_visited": [
-      "SAT",
       "TUS",
+      "SAT",
       "ELP"
     ],
     "first_seen": "2026-03-07T16:13:51.751351",
-    "last_seen": "2026-07-04T16:49:34.897162",
-    "total_detections": 4,
+    "last_seen": "2026-08-29T01:02:18.728296",
+    "total_detections": 5,
     "is_charter": true,
     "operator": "iAero Group"
   },
@@ -31581,8 +31582,8 @@
       "SAT"
     ],
     "first_seen": "2026-03-11T21:51:59.530211",
-    "last_seen": "2026-08-18T23:42:18.495942",
-    "total_detections": 2,
+    "last_seen": "2026-08-29T01:02:18.728283",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -50199,17 +50200,17 @@
   "aa2a7f": {
     "icao24": "aa2a7f",
     "callsigns_seen": [
-      "SKW6296",
+      "SKW6292",
       "SKW4933",
       "SKW6373",
-      "SKW6292"
+      "SKW6296"
     ],
     "airports_visited": [
       "TUS"
     ],
     "first_seen": "2026-03-31T14:21:15.944604",
-    "last_seen": "2026-08-26T18:45:13.977581",
-    "total_detections": 4,
+    "last_seen": "2026-08-29T01:02:21.898529",
+    "total_detections": 5,
     "is_charter": false,
     "operator": null
   },
@@ -65021,8 +65022,8 @@
       "ELP"
     ],
     "first_seen": "2026-05-10T10:42:05.343675",
-    "last_seen": "2026-08-23T07:07:30.402328",
-    "total_detections": 5,
+    "last_seen": "2026-08-29T01:02:19.968783",
+    "total_detections": 6,
     "is_charter": false,
     "operator": null
   },
@@ -86674,5 +86675,19 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "a3a8ba": {
+    "icao24": "a3a8ba",
+    "callsigns_seen": [
+      "DAL1465"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-08-29T01:02:18.728237",
+    "last_seen": "2026-08-29T01:02:18.728237",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }

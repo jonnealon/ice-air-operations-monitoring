@@ -73007,5 +73007,115 @@
       "HIGH_PRIORITY:Charter+Unusual_Destination"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-29T01:02:18.728237",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a3a8ba",
+    "callsign": "DAL1465",
+    "latitude": 29.5462,
+    "longitude": -98.4901,
+    "altitude_m": 274.32,
+    "velocity_ms": 71.77,
+    "heading": 131.8,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.401831187127602,
+    "bearing_from_airport": 305.29450185693275,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-29T01:02:18.728283",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac11e9",
+    "callsign": "N877SB",
+    "latitude": 29.5252,
+    "longitude": -98.4789,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 180,
+    "vertrate": null,
+    "on_ground": false,
+    "distance_from_airport_km": 1.2894091143173678,
+    "bearing_from_airport": 222.97177704554258,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-29T01:02:18.728296",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "aa6ba6",
+    "callsign": "SWA2055",
+    "latitude": 29.5463,
+    "longitude": -98.4902,
+    "altitude_m": 266.7,
+    "velocity_ms": 65.96,
+    "heading": 131.52,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 2.416129213455269,
+    "bearing_from_airport": 305.377098378911,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-29T01:02:19.968783",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ac9acc",
+    "callsign": "N911EF",
+    "latitude": 31.8298,
+    "longitude": -106.3312,
+    "altitude_m": 1645.92,
+    "velocity_ms": 62.04,
+    "heading": 185.71,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 5.06124890427058,
+    "bearing_from_airport": 60.27218268219332,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
