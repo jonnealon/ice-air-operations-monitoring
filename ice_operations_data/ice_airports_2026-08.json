@@ -100835,5 +100835,150 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-30T21:42:22.493826",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ab4c0c",
+    "callsign": "NDU827",
+    "latitude": 33.2949,
+    "longitude": -111.6462,
+    "altitude_m": 487.68,
+    "velocity_ms": 36.74,
+    "heading": 315.57,
+    "vertrate": -1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 1.6257849528691206,
+    "bearing_from_airport": 151.7281706221545,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-30T21:42:22.493866",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2fe28",
+    "callsign": "AAY648",
+    "latitude": 33.3078,
+    "longitude": -111.6675,
+    "altitude_m": null,
+    "velocity_ms": 6.17,
+    "heading": 180,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.205962159156819,
+    "bearing_from_airport": 270.00356938789446,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-30T21:42:22.493878",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a6504e",
+    "callsign": "VAR506",
+    "latitude": 33.2975,
+    "longitude": -111.6426,
+    "altitude_m": 480.06,
+    "velocity_ms": 48.38,
+    "heading": 314.57,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5892679151376312,
+    "bearing_from_airport": 135.9990040059252,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-30T21:42:25.662848",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "aa10ba",
+    "callsign": "SKW6294",
+    "latitude": 32.1181,
+    "longitude": -110.9393,
+    "altitude_m": null,
+    "velocity_ms": 10.29,
+    "heading": 320.62,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.27354638089071553,
+    "bearing_from_airport": 35.75037098367824,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-30T21:42:25.662887",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ab0a95",
+    "callsign": "AAL584",
+    "latitude": 32.1012,
+    "longitude": -110.9219,
+    "altitude_m": 822.96,
+    "velocity_ms": 84.03,
+    "heading": 314.75,
+    "vertrate": -4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4412708826991785,
+    "bearing_from_airport": 132.63923828036513,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
