@@ -2908,5 +2908,147 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-03T23:21:34.670575",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a55e60",
+    "callsign": "NDU445",
+    "latitude": 33.3193,
+    "longitude": -111.6634,
+    "altitude_m": 480.06,
+    "velocity_ms": 32.38,
+    "heading": 134.36,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5202305887439718,
+    "bearing_from_airport": 327.11000973197224,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-03T23:21:34.670655",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a131e1",
+    "callsign": "CXK176",
+    "latitude": 33.3196,
+    "longitude": -111.6683,
+    "altitude_m": 457.2,
+    "velocity_ms": 34.93,
+    "heading": 136.19,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 1.8315088373711728,
+    "bearing_from_airport": 315.6610624095771,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-03T23:21:36.573568",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "acb2ba",
+    "callsign": "TYSON61",
+    "latitude": 31.8401,
+    "longitude": -106.3461,
+    "altitude_m": 1348.74,
+    "velocity_ms": 86.88,
+    "heading": 229.8,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 4.719976095374219,
+    "bearing_from_airport": 39.29827840264795,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-03T23:21:36.573609",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a82727",
+    "callsign": "BBQ8259",
+    "latitude": 31.7971,
+    "longitude": -106.29,
+    "altitude_m": 1630.68,
+    "velocity_ms": 83.96,
+    "heading": 272.81,
+    "vertrate": -8.78,
+    "on_ground": false,
+    "distance_from_airport_km": 8.357771500999977,
+    "bearing_from_airport": 97.68526132672292,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-03T23:21:38.118335",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a2bab6",
+    "callsign": "SKW3717",
+    "latitude": 32.12,
+    "longitude": -110.9415,
+    "altitude_m": 792.48,
+    "velocity_ms": 6.94,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.43544467607834847,
+    "bearing_from_airport": 353.8030128753704,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
