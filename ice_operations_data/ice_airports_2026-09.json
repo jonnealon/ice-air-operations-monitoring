@@ -5465,5 +5465,29 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-05T08:41:08.320206",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a8e0b7",
+    "callsign": "N671PC",
+    "latitude": 31.7753,
+    "longitude": -106.4479,
+    "altitude_m": 1798.32,
+    "velocity_ms": 105.79,
+    "heading": 106.67,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 7.500949908283949,
+    "bearing_from_airport": 241.85447108731393,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
