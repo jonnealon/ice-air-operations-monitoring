@@ -8042,5 +8042,120 @@
       "HIGH_PRIORITY:Charter+Unusual_Destination"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-07T10:31:39.406876",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a3612a",
+    "callsign": "DAL1073",
+    "latitude": 29.5746,
+    "longitude": -98.4203,
+    "altitude_m": 937.26,
+    "velocity_ms": 92.02,
+    "heading": 40.01,
+    "vertrate": 6.18,
+    "on_ground": false,
+    "distance_from_airport_km": 6.5927695257842895,
+    "bearing_from_airport": 46.46119313760994,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-07T10:31:39.406935",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "aa9b42",
+    "callsign": "SWA8500",
+    "latitude": 29.5463,
+    "longitude": -98.4901,
+    "altitude_m": 281.94,
+    "velocity_ms": 66.35,
+    "heading": 131.23,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4082605260765937,
+    "bearing_from_airport": 305.5100814717231,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-07T10:31:40.358863",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a174c8",
+    "callsign": "N193RA",
+    "latitude": 31.7956,
+    "longitude": -106.2598,
+    "altitude_m": 1737.36,
+    "velocity_ms": 85.62,
+    "heading": 274.13,
+    "vertrate": -7.48,
+    "on_ground": false,
+    "distance_from_airport_km": 11.205252219095655,
+    "bearing_from_airport": 96.56695250944364,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-07T10:31:41.249094",
+    "airport_code": "MFE",
+    "airport_name": "McAllen Miller",
+    "icao24": "a0e5d7",
+    "callsign": "Unknown",
+    "latitude": 26.1591,
+    "longitude": -98.2243,
+    "altitude_m": 327.66,
+    "velocity_ms": 72.54,
+    "heading": 131.26,
+    "vertrate": 13.33,
+    "on_ground": false,
+    "distance_from_airport_km": 2.337828919376007,
+    "bearing_from_airport": 142.45364271891026,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN"
+    ],
+    "is_alert": true
   }
 ]
