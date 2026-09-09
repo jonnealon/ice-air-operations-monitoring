@@ -7430,5 +7430,88 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-09T05:27:31.719711",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "abcfec",
+    "callsign": "N860MB",
+    "latitude": 33.3032,
+    "longitude": -111.6661,
+    "altitude_m": 495.3,
+    "velocity_ms": 31.42,
+    "heading": 92.82,
+    "vertrate": -0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 1.191083777817969,
+    "bearing_from_airport": 244.61962095934598,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-09T05:27:31.719764",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a8bcd7",
+    "callsign": "NDU662",
+    "latitude": 33.313,
+    "longitude": -111.657,
+    "altitude_m": 563.88,
+    "velocity_ms": 43.36,
+    "heading": 318.37,
+    "vertrate": 2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 0.6220488551669849,
+    "bearing_from_airport": 338.11128607042735,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-09T05:27:33.326947",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ad5cfc",
+    "callsign": "N960JP",
+    "latitude": 31.7969,
+    "longitude": -106.2863,
+    "altitude_m": 1524,
+    "velocity_ms": 98.45,
+    "heading": 273.6,
+    "vertrate": -5.2,
+    "on_ground": false,
+    "distance_from_airport_km": 8.706654205419646,
+    "bearing_from_airport": 97.52096588024006,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
