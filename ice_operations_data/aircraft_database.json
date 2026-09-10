@@ -1329,8 +1329,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-11T00:04:26.637108",
-    "last_seen": "2026-09-09T17:52:45.811045",
-    "total_detections": 69,
+    "last_seen": "2026-09-10T17:21:04.345333",
+    "total_detections": 70,
     "is_charter": false,
     "operator": null
   },
@@ -5318,8 +5318,8 @@
       "TUS"
     ],
     "first_seen": "2026-02-15T19:52:46.002849",
-    "last_seen": "2026-09-08T05:24:16.132400",
-    "total_detections": 83,
+    "last_seen": "2026-09-10T17:21:07.773716",
+    "total_detections": 84,
     "is_charter": false,
     "operator": null
   },
@@ -15262,8 +15262,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-24T22:57:06.461426",
-    "last_seen": "2026-08-21T16:27:32.789621",
-    "total_detections": 24,
+    "last_seen": "2026-09-10T17:21:04.345297",
+    "total_detections": 25,
     "is_charter": false,
     "operator": null
   },
@@ -73740,16 +73740,17 @@
   "a097ce": {
     "icao24": "a097ce",
     "callsigns_seen": [
-      "UAL1477",
       "UAL515",
+      "UAL2250",
+      "UAL1477",
       "UAL1869"
     ],
     "airports_visited": [
       "SAT"
     ],
     "first_seen": "2026-07-12T01:23:05.462995",
-    "last_seen": "2026-09-10T00:41:18.544820",
-    "total_detections": 3,
+    "last_seen": "2026-09-10T17:21:05.381553",
+    "total_detections": 4,
     "is_charter": false,
     "operator": null
   },
@@ -88098,5 +88099,33 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "0d11e8": {
+    "icao24": "0d11e8",
+    "callsigns_seen": [
+      "AMX632"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-09-10T17:21:05.381519",
+    "last_seen": "2026-09-10T17:21:05.381519",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a174bf": {
+    "icao24": "a174bf",
+    "callsigns_seen": [
+      "EJA193"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-09-10T17:21:07.773671",
+    "last_seen": "2026-09-10T17:21:07.773671",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
