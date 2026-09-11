@@ -12525,5 +12525,29 @@
       "HIGH_PRIORITY:Charter+Unusual_Destination"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-11T09:12:58.541536",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a133b0",
+    "callsign": "FDX1188",
+    "latitude": 29.5729,
+    "longitude": -98.5244,
+    "altitude_m": 510.54,
+    "velocity_ms": 73.61,
+    "heading": 131.6,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 6.83657454776319,
+    "bearing_from_airport": 309.5472025558978,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
