@@ -13441,5 +13441,96 @@
       "UNUSUAL_DESTINATION:EASTERN_EUROPE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-12T04:46:01.146337",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "abf8e0",
+    "callsign": "SWA349",
+    "latitude": 29.5717,
+    "longitude": -98.5229,
+    "altitude_m": 510.54,
+    "velocity_ms": 72.88,
+    "heading": 131.57,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 6.64006991631926,
+    "bearing_from_airport": 309.455738162203,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-12T04:46:03.994935",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a2a213",
+    "callsign": "SKW4054",
+    "latitude": 32.1181,
+    "longitude": -110.9394,
+    "altitude_m": null,
+    "velocity_ms": 9.26,
+    "heading": 315,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.26816203436853253,
+    "bearing_from_airport": 34.11998827929591,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-12T04:46:03.994972",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "abb8c4",
+    "callsign": "SWA4578",
+    "latitude": 32.1123,
+    "longitude": -110.9325,
+    "altitude_m": null,
+    "velocity_ms": 9.26,
+    "heading": 317.81,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.9036071062505288,
+    "bearing_from_airport": 117.82375334308284,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
   }
 ]
