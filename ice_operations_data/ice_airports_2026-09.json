@@ -14262,5 +14262,36 @@
       "HIGH_PRIORITY:Charter+Unusual_Destination"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-13T06:21:51.673028",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a648e1",
+    "callsign": "CSI504",
+    "latitude": 31.7969,
+    "longitude": -106.2868,
+    "altitude_m": 1554.48,
+    "velocity_ms": 65.98,
+    "heading": 273.58,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 8.659899460353548,
+    "bearing_from_airport": 97.56207260100246,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
