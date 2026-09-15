@@ -15706,5 +15706,122 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-15T00:43:10.131992",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a9a3bf",
+    "callsign": "N720CA",
+    "latitude": 33.3201,
+    "longitude": -111.7705,
+    "altitude_m": 1203.96,
+    "velocity_ms": 57.17,
+    "heading": 195.66,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 10.84715929024938,
+    "bearing_from_airport": 277.26318722029197,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-09-15T00:43:11.445347",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "aa435b",
+    "callsign": "AAL1947",
+    "latitude": 29.5298,
+    "longitude": -98.4707,
+    "altitude_m": null,
+    "velocity_ms": 6.94,
+    "heading": 132.19,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.44153983310434225,
+    "bearing_from_airport": 191.35357750861073,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-15T00:43:12.740185",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a7bc8e",
+    "callsign": "EJA598",
+    "latitude": 31.796,
+    "longitude": -106.2727,
+    "altitude_m": 1615.44,
+    "velocity_ms": 85.23,
+    "heading": 285.04,
+    "vertrate": -4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 9.991802920324247,
+    "bearing_from_airport": 97.1192541607582,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-15T00:43:12.740221",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a8e0b7",
+    "callsign": "N671PC",
+    "latitude": 31.7961,
+    "longitude": -106.2741,
+    "altitude_m": 1676.4,
+    "velocity_ms": 53.62,
+    "heading": 278.83,
+    "vertrate": -5.53,
+    "on_ground": false,
+    "distance_from_airport_km": 9.859386501734736,
+    "bearing_from_airport": 97.15110946444145,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
   }
 ]
