@@ -144,15 +144,15 @@
   "a9d3a9": {
     "icao24": "a9d3a9",
     "callsigns_seen": [
-      "Unknown",
-      "NDU732"
+      "NDU732",
+      "Unknown"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-09T18:38:27.359194",
-    "last_seen": "2026-09-13T18:52:18.348366",
-    "total_detections": 50,
+    "last_seen": "2026-09-15T15:19:01.307554",
+    "total_detections": 51,
     "is_charter": false,
     "operator": null
   },
@@ -536,8 +536,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-09T23:09:35.695860",
-    "last_seen": "2026-09-09T22:38:27.077869",
-    "total_detections": 77,
+    "last_seen": "2026-09-15T15:19:01.307566",
+    "total_detections": 78,
     "is_charter": false,
     "operator": null
   },
@@ -1179,12 +1179,12 @@
       "NDU322"
     ],
     "airports_visited": [
-      "AZA",
-      "TUS"
+      "TUS",
+      "AZA"
     ],
     "first_seen": "2026-02-10T22:05:23.821180",
-    "last_seen": "2026-09-01T18:55:16.962822",
-    "total_detections": 76,
+    "last_seen": "2026-09-15T15:19:01.307503",
+    "total_detections": 77,
     "is_charter": false,
     "operator": null
   },
@@ -5317,12 +5317,12 @@
       "EPI783"
     ],
     "airports_visited": [
-      "AZA",
-      "TUS"
+      "TUS",
+      "AZA"
     ],
     "first_seen": "2026-02-15T19:52:46.002849",
-    "last_seen": "2026-09-11T22:03:08.970050",
-    "total_detections": 85,
+    "last_seen": "2026-09-15T15:19:03.956819",
+    "total_detections": 86,
     "is_charter": false,
     "operator": null
   },
@@ -18334,12 +18334,12 @@
       "OXF6250"
     ],
     "airports_visited": [
-      "AZA",
-      "TUS"
+      "TUS",
+      "AZA"
     ],
     "first_seen": "2026-02-27T17:57:32.758981",
-    "last_seen": "2026-08-21T04:59:37.761696",
-    "total_detections": 14,
+    "last_seen": "2026-09-15T15:19:03.956828",
+    "total_detections": 15,
     "is_charter": false,
     "operator": null
   },
@@ -45043,14 +45043,15 @@
     "icao24": "ae1728",
     "callsigns_seen": [
       "GOAT96",
+      "GOAT37",
       "FORGE01"
     ],
     "airports_visited": [
       "SAT"
     ],
     "first_seen": "2026-03-24T22:23:07.542177",
-    "last_seen": "2026-05-05T21:50:30.842104",
-    "total_detections": 2,
+    "last_seen": "2026-09-15T15:19:02.046145",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -88635,6 +88636,76 @@
     ],
     "first_seen": "2026-09-14T22:09:57.877054",
     "last_seen": "2026-09-14T22:09:57.877054",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a4754d": {
+    "icao24": "a4754d",
+    "callsigns_seen": [
+      "N387AB"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-09-15T15:19:02.046102",
+    "last_seen": "2026-09-15T15:19:02.046102",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "abf96c": {
+    "icao24": "abf96c",
+    "callsigns_seen": [
+      "SWA663"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-09-15T15:19:02.046156",
+    "last_seen": "2026-09-15T15:19:02.046156",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
+  },
+  "abaa1a": {
+    "icao24": "abaa1a",
+    "callsigns_seen": [
+      "SWA4531"
+    ],
+    "airports_visited": [
+      "ELP"
+    ],
+    "first_seen": "2026-09-15T15:19:02.829329",
+    "last_seen": "2026-09-15T15:19:02.829329",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
+  },
+  "a962c9": {
+    "icao24": "a962c9",
+    "callsigns_seen": [
+      "N7035Q"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-09-15T15:19:03.956761",
+    "last_seen": "2026-09-15T15:19:03.956761",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a25800": {
+    "icao24": "a25800",
+    "callsigns_seen": [
+      "FDX1414"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-09-15T15:19:03.956804",
+    "last_seen": "2026-09-15T15:19:03.956804",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
