@@ -13595,5 +13595,149 @@
       "UNUSUAL_DESTINATION:SOUTH_ASIA"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-18T01:19:33.689873",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a4d82c",
+    "callsign": "N411DK",
+    "latitude": 33.2992,
+    "longitude": -111.6399,
+    "altitude_m": 396.24,
+    "velocity_ms": 32.38,
+    "heading": 315.64,
+    "vertrate": -1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 1.6569938891755824,
+    "bearing_from_airport": 125.17160978362165,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-18T01:19:33.689900",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2ab73",
+    "callsign": "AAY639",
+    "latitude": 33.3023,
+    "longitude": -111.6435,
+    "altitude_m": 396.24,
+    "velocity_ms": 69.85,
+    "heading": 315.6,
+    "vertrate": -1.3,
+    "on_ground": false,
+    "distance_from_airport_km": 1.1891117078850957,
+    "bearing_from_airport": 120.88731667914612,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-18T01:19:33.689906",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ae07a3",
+    "callsign": "",
+    "latitude": 33.3101,
+    "longitude": -111.668,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.278102847322223,
+    "bearing_from_airport": 281.52614697780825,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-18T01:19:34.839986",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac4c44",
+    "callsign": "SWA135",
+    "latitude": 29.5749,
+    "longitude": -98.423,
+    "altitude_m": 723.9,
+    "velocity_ms": 106.93,
+    "heading": 35.6,
+    "vertrate": 3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 6.429845774671267,
+    "bearing_from_airport": 44.646265224250556,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-18T01:19:34.840005",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a0c825",
+    "callsign": "N15DD",
+    "latitude": 29.5463,
+    "longitude": -98.4901,
+    "altitude_m": 236.22,
+    "velocity_ms": 38.94,
+    "heading": 133.39,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4082605260765937,
+    "bearing_from_airport": 305.5100814717231,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
