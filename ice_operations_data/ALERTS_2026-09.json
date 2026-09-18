@@ -14140,5 +14140,36 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-18T21:19:05.951096",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac3c5a",
+    "callsign": "N888JE",
+    "latitude": 29.5752,
+    "longitude": -98.4102,
+    "altitude_m": 1295.4,
+    "velocity_ms": 115.14,
+    "heading": 59.08,
+    "vertrate": 14.63,
+    "on_ground": false,
+    "distance_from_airport_km": 7.372345015127221,
+    "bearing_from_airport": 51.30948076133927,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
   }
 ]
