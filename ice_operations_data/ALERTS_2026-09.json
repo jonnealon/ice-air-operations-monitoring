@@ -15378,5 +15378,122 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-20T12:30:53.505933",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a82727",
+    "callsign": "TYSON61",
+    "latitude": 33.3036,
+    "longitude": -111.6616,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 225,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.8069388066406856,
+    "bearing_from_airport": 234.71092912401593,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-20T12:30:57.119169",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a43221",
+    "callsign": "N37H",
+    "latitude": 26.2335,
+    "longitude": -97.6641,
+    "altitude_m": 1981.2,
+    "velocity_ms": 89.55,
+    "heading": 181.65,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 1.1139456097054692,
+    "bearing_from_airport": 299.88557586311015,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-20T12:30:58.442445",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a416be",
+    "callsign": "UAL1540",
+    "latitude": 32.1185,
+    "longitude": -110.9358,
+    "altitude_m": null,
+    "velocity_ms": 2.31,
+    "heading": 216.56,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.5567453142153322,
+    "bearing_from_airport": 61.41112940074453,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-20T12:30:58.442480",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "abc12a",
+    "callsign": "SWA3970",
+    "latitude": 32.1187,
+    "longitude": -110.9383,
+    "altitude_m": null,
+    "velocity_ms": 1.8,
+    "heading": 331.88,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.38434818431608764,
+    "bearing_from_airport": 41.33207038375264,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
   }
 ]
