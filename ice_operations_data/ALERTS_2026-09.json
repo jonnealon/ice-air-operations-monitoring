@@ -17422,5 +17422,62 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-22T22:20:05.146073",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a66010",
+    "callsign": "N51L",
+    "latitude": 29.5488,
+    "longitude": -98.4935,
+    "altitude_m": 335.28,
+    "velocity_ms": 52.85,
+    "heading": 131.45,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.8369515059860064,
+    "bearing_from_airport": 306.2224078394344,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-22T22:20:07.250031",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ad7f3a",
+    "callsign": "SKW6085",
+    "latitude": 32.1181,
+    "longitude": -110.9393,
+    "altitude_m": null,
+    "velocity_ms": 8.23,
+    "heading": 317.81,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.27354638089071553,
+    "bearing_from_airport": 35.75037098367824,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
