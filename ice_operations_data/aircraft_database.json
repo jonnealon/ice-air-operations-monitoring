@@ -4107,15 +4107,15 @@
   "a7f9e3": {
     "icao24": "a7f9e3",
     "callsigns_seen": [
-      "Unknown",
-      "CXK638"
+      "CXK638",
+      "Unknown"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-14T16:59:56.654522",
-    "last_seen": "2026-09-06T14:15:33.696751",
-    "total_detections": 50,
+    "last_seen": "2026-09-23T00:45:19.831560",
+    "total_detections": 51,
     "is_charter": false,
     "operator": null
   },
@@ -16193,8 +16193,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-25T20:58:50.361288",
-    "last_seen": "2026-07-31T21:00:48.598497",
-    "total_detections": 3,
+    "last_seen": "2026-09-23T00:45:19.831511",
+    "total_detections": 4,
     "is_charter": false,
     "operator": null
   },
@@ -16513,14 +16513,16 @@
   "ad7b17": {
     "icao24": "ad7b17",
     "callsigns_seen": [
-      "AAL3125"
+      "AAL3125",
+      "AAL2368"
     ],
     "airports_visited": [
-      "TUS"
+      "TUS",
+      "SAT"
     ],
     "first_seen": "2026-02-25T22:57:31.955346",
-    "last_seen": "2026-02-25T22:57:31.955346",
-    "total_detections": 1,
+    "last_seen": "2026-09-23T00:45:20.487146",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -87510,14 +87512,15 @@
   "a993f1": {
     "icao24": "a993f1",
     "callsigns_seen": [
-      "SKW6296"
+      "SKW6296",
+      "SKW6292"
     ],
     "airports_visited": [
       "TUS"
     ],
     "first_seen": "2026-09-04T18:30:15.913480",
-    "last_seen": "2026-09-04T18:30:15.913480",
-    "total_detections": 1,
+    "last_seen": "2026-09-23T00:45:22.467397",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -89847,5 +89850,19 @@
     "total_detections": 1,
     "is_charter": false,
     "operator": null
+  },
+  "a73410": {
+    "icao24": "a73410",
+    "callsigns_seen": [
+      "SWA2644"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-09-23T00:45:20.487186",
+    "last_seen": "2026-09-23T00:45:20.487186",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
   }
 }
