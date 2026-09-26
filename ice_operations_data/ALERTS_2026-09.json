@@ -20028,5 +20028,39 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-26T06:13:25.133220",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ab5e6c",
+    "callsign": "SWA4578",
+    "latitude": 32.1186,
+    "longitude": -110.9373,
+    "altitude_m": null,
+    "velocity_ms": 0.77,
+    "heading": 59.06,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.44497978435005775,
+    "bearing_from_airport": 51.41738214126826,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
   }
 ]
