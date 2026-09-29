@@ -7742,16 +7742,18 @@
   "ac5d38": {
     "icao24": "ac5d38",
     "callsigns_seen": [
+      "SKW6400",
       "SKW6304",
-      "SKW6400"
+      "SKW6367"
     ],
     "airports_visited": [
       "SAT",
-      "AZA"
+      "AZA",
+      "TUS"
     ],
     "first_seen": "2026-02-19T18:08:50.357358",
-    "last_seen": "2026-02-27T03:40:03.178865",
-    "total_detections": 2,
+    "last_seen": "2026-09-29T17:08:03.319413",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -48825,24 +48827,24 @@
   "a17490": {
     "icao24": "a17490",
     "callsigns_seen": [
-      "AAY1542",
-      "AAY704",
+      "AAY741",
       "AAY3535",
-      "AAY657",
-      "AAY3183",
-      "AAY3152",
-      "AAY3186",
+      "AAY1542",
       "Unknown",
-      "AAY669",
+      "AAY3186",
       "AAY638",
-      "AAY741"
+      "AAY669",
+      "AAY3152",
+      "AAY3183",
+      "AAY704",
+      "AAY657"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-03-29T14:56:43.637221",
-    "last_seen": "2026-08-23T15:09:35.805195",
-    "total_detections": 11,
+    "last_seen": "2026-09-29T17:08:00.310476",
+    "total_detections": 12,
     "is_charter": false,
     "operator": null
   },
@@ -85241,14 +85243,16 @@
   "ac03ee": {
     "icao24": "ac03ee",
     "callsigns_seen": [
-      "ASH6198"
+      "ASH6198",
+      "ASH6195"
     ],
     "airports_visited": [
-      "SAT"
+      "SAT",
+      "TUS"
     ],
     "first_seen": "2026-08-23T16:46:55.165484",
-    "last_seen": "2026-08-23T16:46:55.165484",
-    "total_detections": 1,
+    "last_seen": "2026-09-29T17:08:03.319399",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -90524,6 +90528,20 @@
     ],
     "first_seen": "2026-09-29T11:41:14.036703",
     "last_seen": "2026-09-29T11:41:14.036703",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "ae0131": {
+    "icao24": "ae0131",
+    "callsigns_seen": [
+      "TESTING"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-09-29T17:08:03.319357",
+    "last_seen": "2026-09-29T17:08:03.319357",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
