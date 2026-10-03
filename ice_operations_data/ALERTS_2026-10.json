@@ -1438,5 +1438,158 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-03T02:35:33.368597",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a376ee",
+    "callsign": "NDU322",
+    "latitude": 33.3213,
+    "longitude": -111.6454,
+    "altitude_m": 784.86,
+    "velocity_ms": 41.57,
+    "heading": 126.44,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 1.719921849203061,
+    "bearing_from_airport": 29.390152466817256,
+    "projected_region": "SOUTH_ASIA",
+    "potential_destinations": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:SOUTH_ASIA",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-03T02:35:33.368610",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "ae1114",
+    "callsign": "SHEP35",
+    "latitude": 33.3082,
+    "longitude": -111.6758,
+    "altitude_m": 1866.9,
+    "velocity_ms": 118.36,
+    "heading": 268.51,
+    "vertrate": -0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 1.9764213971105238,
+    "bearing_from_airport": 271.2931003565459,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-03T02:35:34.518360",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ab6c26",
+    "callsign": "AAL1258",
+    "latitude": 29.5366,
+    "longitude": -98.4568,
+    "altitude_m": null,
+    "velocity_ms": 6.17,
+    "heading": 357.19,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.296114462528135,
+    "bearing_from_airport": 75.61624791761142,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-03T02:35:36.992553",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "abdc56",
+    "callsign": "SWA1638",
+    "latitude": 32.108,
+    "longitude": -110.9298,
+    "altitude_m": null,
+    "velocity_ms": 22.64,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.3845929969398627,
+    "bearing_from_airport": 130.48917138913026,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-03T02:35:36.992576",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "abec03",
+    "callsign": "SWA2047",
+    "latitude": 32.1186,
+    "longitude": -110.9385,
+    "altitude_m": null,
+    "velocity_ms": 4.89,
+    "heading": 306.56,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.36365869732068723,
+    "bearing_from_airport": 40.26263248293213,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
   }
 ]
