@@ -2156,5 +2156,152 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-03T14:00:52.550620",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a21c53",
+    "callsign": "AAY668",
+    "latitude": 33.3088,
+    "longitude": -111.6582,
+    "altitude_m": null,
+    "velocity_ms": 3.86,
+    "heading": 45,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.36073747887405816,
+    "bearing_from_airport": 287.9219683541271,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-03T14:00:52.550664",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "aab325",
+    "callsign": "NDU789",
+    "latitude": 33.3303,
+    "longitude": -111.673,
+    "altitude_m": 548.64,
+    "velocity_ms": 45.3,
+    "heading": 195.14,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 3.0303084771391258,
+    "bearing_from_airport": 325.5133196394164,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-03T14:00:53.436644",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a24493",
+    "callsign": "SWA1570",
+    "latitude": 29.5141,
+    "longitude": -98.4789,
+    "altitude_m": 281.94,
+    "velocity_ms": 65.29,
+    "heading": 40.85,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.346405543397256,
+    "bearing_from_airport": 202.000867471339,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-03T14:00:53.436681",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac8b2e",
+    "callsign": "SWA1565",
+    "latitude": 29.5208,
+    "longitude": -98.4723,
+    "altitude_m": 243.84,
+    "velocity_ms": 68.91,
+    "heading": 41.07,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 1.4521131060610404,
+    "bearing_from_airport": 189.57225223928927,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-03T14:00:55.468745",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ae1ffd",
+    "callsign": "G72041",
+    "latitude": 32.1056,
+    "longitude": -110.9273,
+    "altitude_m": 876.3,
+    "velocity_ms": 39.29,
+    "heading": 135,
+    "vertrate": 2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 1.7370410279035087,
+    "bearing_from_airport": 132.13658581350762,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
