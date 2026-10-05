@@ -2981,5 +2981,32 @@
       "HIGH_PRIORITY:Charter+Unusual_Destination"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-05T09:16:12.411649",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a4d8bb",
+    "callsign": "N411KC",
+    "latitude": 32.1253,
+    "longitude": -110.9502,
+    "altitude_m": 762,
+    "velocity_ms": 52.38,
+    "heading": 135,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 1.3382640061408961,
+    "bearing_from_airport": 319.74018586231443,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
