@@ -3430,5 +3430,103 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-06T06:35:43.008854",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac3a60",
+    "callsign": "SWA4485",
+    "latitude": 29.5216,
+    "longitude": -98.4715,
+    "altitude_m": 228.6,
+    "velocity_ms": 72.93,
+    "heading": 41,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 1.3530976145705087,
+    "bearing_from_airport": 186.9701296290936,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-06T06:35:43.894869",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ac61db",
+    "callsign": "SWA4563",
+    "latitude": 31.8396,
+    "longitude": -106.3468,
+    "altitude_m": 1280.16,
+    "velocity_ms": 84.8,
+    "heading": 226.72,
+    "vertrate": -4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 4.635228993923291,
+    "bearing_from_airport": 39.10166071729043,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "DESCENDING_NEAR_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-06T06:35:45.433136",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a7b76f",
+    "callsign": "ASI150",
+    "latitude": 32.1085,
+    "longitude": -110.9242,
+    "altitude_m": 998.22,
+    "velocity_ms": 43.92,
+    "heading": 13.55,
+    "vertrate": 1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 1.790607191329671,
+    "bearing_from_airport": 118.10189771834041,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
