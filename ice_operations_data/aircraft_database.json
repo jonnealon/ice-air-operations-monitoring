@@ -2734,8 +2734,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-12T23:57:59.455678",
-    "last_seen": "2026-10-09T19:08:06.340309",
-    "total_detections": 99,
+    "last_seen": "2026-10-10T02:27:49.040055",
+    "total_detections": 100,
     "is_charter": false,
     "operator": null
   },
@@ -8188,15 +8188,15 @@
   "a8af59": {
     "icao24": "a8af59",
     "callsigns_seen": [
-      "NDU659",
-      "Unknown"
+      "Unknown",
+      "NDU659"
     ],
     "airports_visited": [
       "AZA"
     ],
     "first_seen": "2026-02-20T00:01:31.550899",
-    "last_seen": "2026-10-09T00:45:12.890235",
-    "total_detections": 76,
+    "last_seen": "2026-10-10T02:27:49.040134",
+    "total_detections": 77,
     "is_charter": false,
     "operator": null
   },
@@ -13077,23 +13077,24 @@
   "a9034c": {
     "icao24": "a9034c",
     "callsigns_seen": [
-      "AAL3246",
-      "AAL499",
-      "AAL1014",
-      "AAL450",
       "AAL2646",
-      "AAL3055",
+      "AAL450",
       "AAL3134",
-      "AAL2609"
+      "AAL499",
+      "AAL3055",
+      "AAL3246",
+      "AAL2609",
+      "AAL546",
+      "AAL1014"
     ],
     "airports_visited": [
       "AZA",
-      "TUS",
-      "SAT"
+      "SAT",
+      "TUS"
     ],
     "first_seen": "2026-02-23T01:03:47.649492",
-    "last_seen": "2026-08-21T21:44:02.527172",
-    "total_detections": 9,
+    "last_seen": "2026-10-10T02:27:49.868337",
+    "total_detections": 10,
     "is_charter": false,
     "operator": null
   },
@@ -20045,16 +20046,18 @@
   "abc012": {
     "icao24": "abc012",
     "callsigns_seen": [
-      "SWA4648",
-      "SWA2507"
+      "SWA2507",
+      "SWA3412",
+      "SWA4648"
     ],
     "airports_visited": [
       "SAT",
+      "ELP",
       "TUS"
     ],
     "first_seen": "2026-02-28T18:16:27.153193",
-    "last_seen": "2026-03-27T19:13:45.481740",
-    "total_detections": 2,
+    "last_seen": "2026-10-10T02:27:50.687775",
+    "total_detections": 3,
     "is_charter": true,
     "operator": "iAero Group"
   },
@@ -42656,14 +42659,16 @@
   "abfd23": {
     "icao24": "abfd23",
     "callsigns_seen": [
-      "SWA4376"
+      "SWA4376",
+      "SWA2818"
     ],
     "airports_visited": [
-      "SAT"
+      "SAT",
+      "ELP"
     ],
     "first_seen": "2026-03-22T05:15:12.571421",
-    "last_seen": "2026-03-22T05:15:12.571421",
-    "total_detections": 1,
+    "last_seen": "2026-10-10T02:27:50.687741",
+    "total_detections": 2,
     "is_charter": true,
     "operator": "iAero Group"
   },
@@ -74082,8 +74087,8 @@
       "AZA"
     ],
     "first_seen": "2026-07-13T19:54:45.963016",
-    "last_seen": "2026-08-09T17:53:45.770721",
-    "total_detections": 3,
+    "last_seen": "2026-10-10T02:27:49.040122",
+    "total_detections": 4,
     "is_charter": false,
     "operator": null
   },
@@ -86836,14 +86841,16 @@
   "aaef89": {
     "icao24": "aaef89",
     "callsigns_seen": [
-      "AAL3047"
+      "AAL3047",
+      "AAL2058"
     ],
     "airports_visited": [
+      "SAT",
       "TUS"
     ],
     "first_seen": "2026-08-26T05:55:33.488414",
-    "last_seen": "2026-08-26T05:55:33.488414",
-    "total_detections": 1,
+    "last_seen": "2026-10-10T02:27:49.868325",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -91493,6 +91500,34 @@
     ],
     "first_seen": "2026-10-09T23:21:10.887983",
     "last_seen": "2026-10-09T23:21:10.887983",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a04da8": {
+    "icao24": "a04da8",
+    "callsigns_seen": [
+      "KFB119"
+    ],
+    "airports_visited": [
+      "AZA"
+    ],
+    "first_seen": "2026-10-10T02:27:49.040107",
+    "last_seen": "2026-10-10T02:27:49.040107",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a41f6c": {
+    "icao24": "a41f6c",
+    "callsigns_seen": [
+      "FFT3418"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-10-10T02:27:49.868290",
+    "last_seen": "2026-10-10T02:27:49.868290",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
