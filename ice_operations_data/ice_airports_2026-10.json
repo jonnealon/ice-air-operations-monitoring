@@ -9467,5 +9467,31 @@
       "CHARTER_OPERATOR:iAero Group"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-13T08:03:14.422248",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a89bec",
+    "callsign": "DAL8942",
+    "latitude": 29.5439,
+    "longitude": -98.487,
+    "altitude_m": 259.08,
+    "velocity_ms": 64.13,
+    "heading": 131.75,
+    "vertrate": -2.6,
+    "on_ground": false,
+    "distance_from_airport_km": 2.0102808742745526,
+    "bearing_from_airport": 304.28331217107655,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
