@@ -64721,14 +64721,16 @@
   "a15778": {
     "icao24": "a15778",
     "callsigns_seen": [
-      "FDX1426"
+      "FDX1426",
+      "FDX1537"
     ],
     "airports_visited": [
+      "HRL",
       "SAT"
     ],
     "first_seen": "2026-05-07T10:37:33.941232",
-    "last_seen": "2026-05-07T10:37:33.941232",
-    "total_detections": 1,
+    "last_seen": "2026-10-15T10:55:19.439970",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -92050,6 +92052,20 @@
     ],
     "first_seen": "2026-10-15T05:59:31.065787",
     "last_seen": "2026-10-15T05:59:31.065787",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a47e89": {
+    "icao24": "a47e89",
+    "callsigns_seen": [
+      "UPS312"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-10-15T10:55:17.976919",
+    "last_seen": "2026-10-15T10:55:17.976919",
     "total_detections": 1,
     "is_charter": false,
     "operator": null

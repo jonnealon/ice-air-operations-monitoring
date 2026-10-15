@@ -11827,5 +11827,68 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-10-15T10:55:17.976919",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a47e89",
+    "callsign": "UPS312",
+    "latitude": 29.5361,
+    "longitude": -98.4543,
+    "altitude_m": null,
+    "velocity_ms": 2.57,
+    "heading": 98.44,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.5204681798169182,
+    "bearing_from_airport": 79.90523042427009,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-15T10:55:19.439970",
+    "airport_code": "HRL",
+    "airport_name": "Harlingen Valley",
+    "icao24": "a15778",
+    "callsign": "FDX1537",
+    "latitude": 26.2199,
+    "longitude": -97.6589,
+    "altitude_m": null,
+    "velocity_ms": 4.89,
+    "heading": 194.06,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.0545276690628906,
+    "bearing_from_airport": 205.146262819494,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
