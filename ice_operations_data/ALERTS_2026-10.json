@@ -10595,5 +10595,63 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-16T23:43:11.554524",
+    "airport_code": "AEX",
+    "airport_name": "Alexandria International",
+    "icao24": "a55bcd",
+    "callsign": "AWI7306",
+    "latitude": 31.3079,
+    "longitude": -92.5338,
+    "altitude_m": 30.48,
+    "velocity_ms": 67.91,
+    "heading": 322.7,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 2.643214766895978,
+    "bearing_from_airport": 144.96680422681908,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-16T23:43:12.036275",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a63b94",
+    "callsign": "N500SV",
+    "latitude": 29.5184,
+    "longitude": -98.4747,
+    "altitude_m": 175.26,
+    "velocity_ms": 52.85,
+    "heading": 41.45,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 1.762999839736807,
+    "bearing_from_airport": 195.5727468287355,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
