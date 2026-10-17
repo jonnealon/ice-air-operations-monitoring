@@ -5184,20 +5184,21 @@
   "a88ccf": {
     "icao24": "a88ccf",
     "callsigns_seen": [
-      "AAL546",
+      "AAL983",
       "AAL2721",
-      "AAL3229",
+      "AAL546",
       "AAL1767",
+      "AAL3229",
       "AAL2550"
     ],
     "airports_visited": [
+      "SAT",
       "ELP",
-      "TUS",
-      "SAT"
+      "TUS"
     ],
     "first_seen": "2026-02-15T19:05:54.473146",
-    "last_seen": "2026-10-06T19:09:46.471517",
-    "total_detections": 8,
+    "last_seen": "2026-10-17T19:33:03.032070",
+    "total_detections": 9,
     "is_charter": false,
     "operator": null
   },
@@ -92487,6 +92488,20 @@
     ],
     "first_seen": "2026-10-17T17:21:29.653356",
     "last_seen": "2026-10-17T17:21:29.653356",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a4d454": {
+    "icao24": "a4d454",
+    "callsigns_seen": [
+      "N410CB"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-10-17T19:33:03.032115",
+    "last_seen": "2026-10-17T19:33:03.032115",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
