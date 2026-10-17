@@ -10653,5 +10653,100 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-17T01:49:49.183252",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "abd971",
+    "callsign": "SWA114",
+    "latitude": 29.5212,
+    "longitude": -98.472,
+    "altitude_m": 129.54,
+    "velocity_ms": 77.67,
+    "heading": 40.97,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 1.4036736770872449,
+    "bearing_from_airport": 188.70723560651138,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-17T01:49:49.183302",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a01037",
+    "callsign": "DAL2773",
+    "latitude": 29.5045,
+    "longitude": -98.371,
+    "altitude_m": 1851.66,
+    "velocity_ms": 115.18,
+    "heading": 221.38,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 10.07730451643089,
+    "bearing_from_airport": 108.73488576553291,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-17T01:49:50.058317",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "ab4c09",
+    "callsign": "N827NA",
+    "latitude": 31.8359,
+    "longitude": -106.3286,
+    "altitude_m": 1584.96,
+    "velocity_ms": 77.34,
+    "heading": 235.57,
+    "vertrate": -1.95,
+    "on_ground": false,
+    "distance_from_airport_km": 5.629230551456399,
+    "bearing_from_airport": 55.516602833026866,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
   }
 ]
