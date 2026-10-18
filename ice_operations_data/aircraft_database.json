@@ -2915,8 +2915,8 @@
       "AZA"
     ],
     "first_seen": "2026-02-13T05:13:19.491242",
-    "last_seen": "2026-10-05T02:08:51.650259",
-    "total_detections": 5,
+    "last_seen": "2026-10-18T01:48:13.920399",
+    "total_detections": 6,
     "is_charter": false,
     "operator": null
   },
@@ -52708,6 +52708,7 @@
   "aa395b": {
     "icao24": "aa395b",
     "callsigns_seen": [
+      "SKW6426",
       "SKW6357",
       "Unknown"
     ],
@@ -52716,8 +52717,8 @@
       "TUS"
     ],
     "first_seen": "2026-04-03T17:23:37.375846",
-    "last_seen": "2026-04-15T12:54:40.594620",
-    "total_detections": 4,
+    "last_seen": "2026-10-18T01:48:29.693297",
+    "total_detections": 5,
     "is_charter": false,
     "operator": null
   },
@@ -56603,14 +56604,15 @@
     "icao24": "a01f13",
     "callsigns_seen": [
       "DAL2680",
+      "DAL2773",
       "DAL3123"
     ],
     "airports_visited": [
       "SAT"
     ],
     "first_seen": "2026-04-10T21:59:22.803013",
-    "last_seen": "2026-08-25T19:05:05.805320",
-    "total_detections": 2,
+    "last_seen": "2026-10-18T01:48:23.863940",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -58344,14 +58346,15 @@
   "ab473a": {
     "icao24": "ab473a",
     "callsigns_seen": [
-      "AAL3066"
+      "AAL3066",
+      "Unknown"
     ],
     "airports_visited": [
       "TUS"
     ],
     "first_seen": "2026-04-15T21:10:45.478606",
-    "last_seen": "2026-04-15T21:10:45.478606",
-    "total_detections": 1,
+    "last_seen": "2026-10-18T01:48:29.693256",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -92537,5 +92540,19 @@
     "total_detections": 1,
     "is_charter": false,
     "operator": null
+  },
+  "a1440c": {
+    "icao24": "a1440c",
+    "callsigns_seen": [
+      "SWA2122"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-10-18T01:48:23.863906",
+    "last_seen": "2026-10-18T01:48:23.863906",
+    "total_detections": 1,
+    "is_charter": true,
+    "operator": "iAero Group"
   }
 }
