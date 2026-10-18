@@ -11475,5 +11475,32 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-18T11:49:35.064240",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ad493b",
+    "callsign": "SWA1451",
+    "latitude": 29.5002,
+    "longitude": -98.4926,
+    "altitude_m": 297.18,
+    "velocity_ms": 55.07,
+    "heading": 40.83,
+    "vertrate": -3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 4.321560191185736,
+    "bearing_from_airport": 210.64227792473787,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
