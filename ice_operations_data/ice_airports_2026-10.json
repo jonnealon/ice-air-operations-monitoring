@@ -20729,5 +20729,60 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-23T07:44:31.967604",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a89bd6",
+    "callsign": "N654CP",
+    "latitude": 33.3516,
+    "longitude": -111.7169,
+    "altitude_m": 1699.26,
+    "velocity_ms": 118.72,
+    "heading": 333.21,
+    "vertrate": -3.58,
+    "on_ground": false,
+    "distance_from_airport_km": 7.559444543315168,
+    "bearing_from_airport": 310.05077777494773,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-10-23T07:44:31.967646",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a38368",
+    "callsign": "654321",
+    "latitude": 33.3029,
+    "longitude": -111.6577,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 315,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.6196357420055193,
+    "bearing_from_airport": 208.626586034617,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
