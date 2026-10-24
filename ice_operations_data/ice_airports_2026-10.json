@@ -22181,5 +22181,159 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-24T12:06:59.461815",
+    "airport_code": "AEX",
+    "airport_name": "Alexandria International",
+    "icao24": "a7f3bb",
+    "callsign": "N611PA",
+    "latitude": 31.3455,
+    "longitude": -92.444,
+    "altitude_m": -7.62,
+    "velocity_ms": 7.72,
+    "heading": 180,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 10.230883719476454,
+    "bearing_from_airport": 78.6463141918731,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-24T12:07:00.049584",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a67d17",
+    "callsign": "SKW4951",
+    "latitude": 29.5477,
+    "longitude": -98.4465,
+    "altitude_m": 396.24,
+    "velocity_ms": 79.95,
+    "heading": 37.68,
+    "vertrate": 7.8,
+    "on_ground": false,
+    "distance_from_airport_km": 2.734693344789429,
+    "bearing_from_airport": 55.36385143132071,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-24T12:07:00.049622",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a0ec20",
+    "callsign": "FDX434",
+    "latitude": 29.5332,
+    "longitude": -98.4568,
+    "altitude_m": null,
+    "velocity_ms": 1.54,
+    "heading": 230.62,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.2567312123021999,
+    "bearing_from_airport": 92.52791986692489,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-24T12:07:02.590414",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a1ca5f",
+    "callsign": "SWA3469",
+    "latitude": 32.1186,
+    "longitude": -110.9373,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 59.06,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.44497978435005775,
+    "bearing_from_airport": 51.41738214126826,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-24T12:07:02.590465",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a24314",
+    "callsign": "FDX1414",
+    "latitude": 32.1208,
+    "longitude": -110.9448,
+    "altitude_m": 784.86,
+    "velocity_ms": 71.66,
+    "heading": 135.29,
+    "vertrate": -0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 0.6322978856963549,
+    "bearing_from_airport": 325.59888783206196,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
