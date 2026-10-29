@@ -21413,5 +21413,97 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-29T13:23:43.353003",
+    "airport_code": "AEX",
+    "airport_name": "Alexandria International",
+    "icao24": "a7f3bb",
+    "callsign": "N611PA",
+    "latitude": 31.3331,
+    "longitude": -92.4434,
+    "altitude_m": 22.86,
+    "velocity_ms": 27.39,
+    "heading": 354.61,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 10.108385467776667,
+    "bearing_from_airport": 86.38365006459327,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-29T13:23:44.824763",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a77a04",
+    "callsign": "N581EA",
+    "latitude": 31.7963,
+    "longitude": -106.2728,
+    "altitude_m": 1607.82,
+    "velocity_ms": 126.76,
+    "heading": 273.26,
+    "vertrate": -6.5,
+    "on_ground": false,
+    "distance_from_airport_km": 9.978350782347206,
+    "bearing_from_airport": 96.93631828837874,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-29T13:23:45.997398",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a562e8",
+    "callsign": "SWA280",
+    "latitude": 32.0953,
+    "longitude": -110.9134,
+    "altitude_m": 1104.9,
+    "velocity_ms": 89.59,
+    "heading": 129.17,
+    "vertrate": 7.15,
+    "on_ground": false,
+    "distance_from_airport_km": 3.4732502690139238,
+    "bearing_from_airport": 131.65162051364996,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group"
+    ],
+    "is_alert": true
   }
 ]
