@@ -22000,5 +22000,158 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-30T02:43:27.638700",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2d090",
+    "callsign": "OXF4955",
+    "latitude": 33.2986,
+    "longitude": -111.6392,
+    "altitude_m": 472.44,
+    "velocity_ms": 33.1,
+    "heading": 315.63,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 1.7485228136504007,
+    "bearing_from_airport": 125.72927273833636,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-30T02:43:28.640295",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a46bf6",
+    "callsign": "UPS789",
+    "latitude": 29.5332,
+    "longitude": -98.462,
+    "altitude_m": null,
+    "velocity_ms": 6.43,
+    "heading": 222.19,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.7553447970237376,
+    "bearing_from_airport": 94.21175082090991,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-30T02:43:28.640304",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a1b8a6",
+    "callsign": "N21RF",
+    "latitude": 29.544,
+    "longitude": -98.4872,
+    "altitude_m": 228.6,
+    "velocity_ms": 56.82,
+    "heading": 132.06,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 2.032493866057803,
+    "bearing_from_airport": 304.2352693637573,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-30T02:43:29.478836",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a54bab",
+    "callsign": "SWA392",
+    "latitude": 31.797,
+    "longitude": -106.2858,
+    "altitude_m": 1546.86,
+    "velocity_ms": 88.01,
+    "heading": 271.67,
+    "vertrate": -4.88,
+    "on_ground": false,
+    "distance_from_airport_km": 8.751970483046813,
+    "bearing_from_airport": 97.4082597964096,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-30T02:43:30.809664",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "ac2b80",
+    "callsign": "Unknown",
+    "latitude": 32.1186,
+    "longitude": -110.9383,
+    "altitude_m": null,
+    "velocity_ms": 0.06,
+    "heading": 53.44,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.37608485317454815,
+    "bearing_from_airport": 42.448995188186814,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": true,
+    "alerts": [
+      "UNKNOWN_CALLSIGN",
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
