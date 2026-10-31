@@ -7064,12 +7064,12 @@
       "NDU362"
     ],
     "airports_visited": [
-      "AZA",
-      "TUS"
+      "TUS",
+      "AZA"
     ],
     "first_seen": "2026-02-18T15:08:59.344113",
-    "last_seen": "2026-10-27T14:42:25.738911",
-    "total_detections": 88,
+    "last_seen": "2026-10-31T00:12:24.140242",
+    "total_detections": 89,
     "is_charter": false,
     "operator": null
   },
@@ -18878,6 +18878,7 @@
   "abdd64": {
     "icao24": "abdd64",
     "callsigns_seen": [
+      "SKW5651",
       "Unknown",
       "SKW5686"
     ],
@@ -18885,8 +18886,8 @@
       "TUS"
     ],
     "first_seen": "2026-02-27T20:49:12.263141",
-    "last_seen": "2026-03-22T15:45:30.714148",
-    "total_detections": 2,
+    "last_seen": "2026-10-31T00:12:27.469368",
+    "total_detections": 3,
     "is_charter": false,
     "operator": null
   },
@@ -25914,21 +25915,22 @@
   "a82727": {
     "icao24": "a82727",
     "callsigns_seen": [
-      "TYSON46",
+      "BBQ9924",
       "TYSON61",
-      "BBQ8257",
+      "TYSON46",
       "TYSON53",
-      "TYSON54",
+      "VELUX47",
+      "BBQ8257",
       "BBQ8259",
-      "BBQ9924"
+      "TYSON54"
     ],
     "airports_visited": [
-      "AZA",
-      "ELP"
+      "ELP",
+      "AZA"
     ],
     "first_seen": "2026-03-06T12:28:06.653232",
-    "last_seen": "2026-09-30T12:49:27.001201",
-    "total_detections": 20,
+    "last_seen": "2026-10-31T00:12:24.140282",
+    "total_detections": 21,
     "is_charter": false,
     "operator": null
   },
@@ -94027,6 +94029,48 @@
     ],
     "first_seen": "2026-10-30T20:55:11.612889",
     "last_seen": "2026-10-30T20:55:11.612889",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a450c7": {
+    "icao24": "a450c7",
+    "callsigns_seen": [
+      "N3774Y"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-10-31T00:12:25.133490",
+    "last_seen": "2026-10-31T00:12:25.133490",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a65a5b": {
+    "icao24": "a65a5b",
+    "callsigns_seen": [
+      "N5082W"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-10-31T00:12:27.469408",
+    "last_seen": "2026-10-31T00:12:27.469408",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a650c7": {
+    "icao24": "a650c7",
+    "callsigns_seen": [
+      "FRG9506"
+    ],
+    "airports_visited": [
+      "TUS"
+    ],
+    "first_seen": "2026-10-31T00:12:27.469418",
+    "last_seen": "2026-10-31T00:12:27.469418",
     "total_detections": 1,
     "is_charter": false,
     "operator": null
