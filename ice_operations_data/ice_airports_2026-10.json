@@ -29881,5 +29881,90 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-31T05:59:21.999597",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac48f2",
+    "callsign": "SWA957",
+    "latitude": 29.5477,
+    "longitude": -98.4919,
+    "altitude_m": 259.08,
+    "velocity_ms": 72.16,
+    "heading": 131.53,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 2.640152084638388,
+    "bearing_from_airport": 306.0652319046758,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-31T05:59:21.999674",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "acda2c",
+    "callsign": "SWA900",
+    "latitude": 29.5464,
+    "longitude": -98.4903,
+    "altitude_m": 243.84,
+    "velocity_ms": 67.76,
+    "heading": 131.92,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4304321970230163,
+    "bearing_from_airport": 305.45872337559507,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-31T05:59:23.345974",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "aaa224",
+    "callsign": "SWA2460",
+    "latitude": 31.8478,
+    "longitude": -106.3352,
+    "altitude_m": 1394.46,
+    "velocity_ms": 75.62,
+    "heading": 230.24,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 6.038021271587969,
+    "bearing_from_airport": 41.705576459629526,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE"
+    ],
+    "is_alert": true
   }
 ]
