@@ -354,5 +354,63 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-02T04:37:55.220282",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ab774b",
+    "callsign": "AAL606",
+    "latitude": 29.5467,
+    "longitude": -98.4906,
+    "altitude_m": 259.08,
+    "velocity_ms": 76.86,
+    "heading": 132.02,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 2.4733700310163713,
+    "bearing_from_airport": 305.69793459078204,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-02T04:37:57.940777",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a55ef3",
+    "callsign": "UAL1762",
+    "latitude": 32.1187,
+    "longitude": -110.9355,
+    "altitude_m": null,
+    "velocity_ms": 5.4,
+    "heading": 8.44,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.5921641047746354,
+    "bearing_from_airport": 60.83065991215244,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
