@@ -5509,5 +5509,93 @@
       "UNUSUAL_DESTINATION:AFRICA_EAST"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-11T11:17:22.892878",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a17bfe",
+    "callsign": "AAY703",
+    "latitude": 33.3085,
+    "longitude": -111.6683,
+    "altitude_m": null,
+    "velocity_ms": 0,
+    "heading": 270,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.2825310410935364,
+    "bearing_from_airport": 273.47709893780456,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-11T11:17:23.606333",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a05434",
+    "callsign": "FDX1416",
+    "latitude": 29.5331,
+    "longitude": -98.4568,
+    "altitude_m": null,
+    "velocity_ms": 2.31,
+    "heading": 219.38,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 1.2572703169861883,
+    "bearing_from_airport": 93.03327456838701,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-11T11:17:25.459220",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a11324",
+    "callsign": "ASI447",
+    "latitude": 32.11,
+    "longitude": -110.9307,
+    "altitude_m": 883.92,
+    "velocity_ms": 39.67,
+    "heading": 99.71,
+    "vertrate": 3.25,
+    "on_ground": false,
+    "distance_from_airport_km": 1.181589606649074,
+    "bearing_from_airport": 124.95896257194636,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
