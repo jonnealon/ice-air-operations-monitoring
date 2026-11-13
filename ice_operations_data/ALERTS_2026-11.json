@@ -6923,5 +6923,153 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-13T18:13:02.323259",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2ba4f",
+    "callsign": "AAY9202",
+    "latitude": 33.3072,
+    "longitude": -111.6627,
+    "altitude_m": null,
+    "velocity_ms": 5.4,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.7635937658768206,
+    "bearing_from_airport": 264.99862166249306,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-13T18:13:02.323340",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a143e2",
+    "callsign": "CXK699",
+    "latitude": 33.3077,
+    "longitude": -111.6235,
+    "altitude_m": 807.72,
+    "velocity_ms": 54.87,
+    "heading": 321.09,
+    "vertrate": -0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 2.8757773401012163,
+    "bearing_from_airport": 90.21264054737037,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-13T18:13:03.546567",
+    "airport_code": "BRO",
+    "airport_name": "Brownsville South Padre",
+    "icao24": "a93a7f",
+    "callsign": "N694KM",
+    "latitude": 25.9078,
+    "longitude": -97.4258,
+    "altitude_m": null,
+    "velocity_ms": 23.66,
+    "heading": 135,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.11144815187649595,
+    "bearing_from_airport": 5.139912973417722,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-13T18:13:03.999912",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a40797",
+    "callsign": "AAL2385",
+    "latitude": 31.8396,
+    "longitude": -106.3469,
+    "altitude_m": 1348.74,
+    "velocity_ms": 87.9,
+    "heading": 231.65,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 4.629283683546878,
+    "bearing_from_airport": 39.011104769870144,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-13T18:13:05.204783",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a5ee51",
+    "callsign": "SWA1465",
+    "latitude": 32.1174,
+    "longitude": -110.9381,
+    "altitude_m": null,
+    "velocity_ms": 4.89,
+    "heading": 14.06,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.30847255199335855,
+    "bearing_from_airport": 62.10820323330631,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "UNUSUAL_DESTINATION:AFRICA_EAST",
+      "VERY_CLOSE_TO_AIRPORT",
+      "HIGH_PRIORITY:Charter+Unusual_Destination"
+    ],
+    "is_alert": true
   }
 ]
