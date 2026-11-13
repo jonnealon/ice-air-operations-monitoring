@@ -9479,5 +9479,29 @@
       "HIGH_PRIORITY:Charter+Unusual_Destination"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-13T23:44:03.138381",
+    "airport_code": "BRO",
+    "airport_name": "Brownsville South Padre",
+    "icao24": "a925bc",
+    "callsign": "N689MC",
+    "latitude": 25.8661,
+    "longitude": -97.4839,
+    "altitude_m": 449.58,
+    "velocity_ms": 96.21,
+    "heading": 270.61,
+    "vertrate": 0,
+    "on_ground": false,
+    "distance_from_airport_km": 7.344761163373097,
+    "bearing_from_airport": 232.05888789387646,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
   }
 ]
