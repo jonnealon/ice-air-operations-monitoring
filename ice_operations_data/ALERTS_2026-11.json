@@ -7154,5 +7154,146 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-14T17:13:31.172033",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a2d094",
+    "callsign": "OXF5048",
+    "latitude": 33.28,
+    "longitude": -111.5922,
+    "altitude_m": 815.34,
+    "velocity_ms": 56.65,
+    "heading": 39.47,
+    "vertrate": 0.65,
+    "on_ground": false,
+    "distance_from_airport_km": 6.551561073113095,
+    "bearing_from_airport": 118.07847891334814,
+    "projected_region": "AFRICA_EAST",
+    "potential_destinations": [
+      "Eritrea",
+      "Somalia",
+      "Ethiopia",
+      "Kenya"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_EAST"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-14T17:13:31.172040",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "acf76f",
+    "callsign": "CXK484",
+    "latitude": 33.3173,
+    "longitude": -111.6657,
+    "altitude_m": 426.72,
+    "velocity_ms": 32.75,
+    "heading": 136.27,
+    "vertrate": -4.55,
+    "on_ground": false,
+    "distance_from_airport_km": 1.4803565360882176,
+    "bearing_from_airport": 315.4293133065923,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-14T17:13:33.239618",
+    "airport_code": "BRO",
+    "airport_name": "Brownsville South Padre",
+    "icao24": "0d0dcd",
+    "callsign": "LET5663",
+    "latitude": 25.9046,
+    "longitude": -97.4307,
+    "altitude_m": null,
+    "velocity_ms": 2.57,
+    "heading": 194.06,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.5378853804682561,
+    "bearing_from_airport": 243.0006493103549,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-14T17:13:36.003964",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "a97b2f",
+    "callsign": "N71RD",
+    "latitude": 32.1583,
+    "longitude": -110.911,
+    "altitude_m": 1013.46,
+    "velocity_ms": 46.93,
+    "heading": 224.56,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 5.467768372174706,
+    "bearing_from_airport": 31.03886814763075,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-14T17:13:36.004000",
+    "airport_code": "TUS",
+    "airport_name": "Tucson International",
+    "icao24": "aa9c1d",
+    "callsign": "EPI783",
+    "latitude": 32.1312,
+    "longitude": -110.9425,
+    "altitude_m": 777.24,
+    "velocity_ms": 31.28,
+    "heading": 225,
+    "vertrate": -2.28,
+    "on_ground": false,
+    "distance_from_airport_km": 1.6820220311660652,
+    "bearing_from_airport": 355.1914640953067,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
