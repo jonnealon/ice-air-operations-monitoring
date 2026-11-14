@@ -9608,5 +9608,59 @@
     "unknown_callsign": false,
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-11-14T11:01:20.716202",
+    "airport_code": "AEX",
+    "airport_name": "Alexandria International",
+    "icao24": "a7f3bb",
+    "callsign": "N611PA",
+    "latitude": 31.2825,
+    "longitude": -92.4635,
+    "altitude_m": 0,
+    "velocity_ms": 9.49,
+    "heading": 40.6,
+    "vertrate": -0.98,
+    "on_ground": false,
+    "distance_from_airport_km": 9.581045749416113,
+    "bearing_from_airport": 121.31605417154492,
+    "projected_region": "CARIBBEAN",
+    "potential_destinations": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-11-14T11:01:21.668435",
+    "airport_code": "BRO",
+    "airport_name": "Brownsville South Padre",
+    "icao24": "a3e275",
+    "callsign": "N35AA",
+    "latitude": 25.9119,
+    "longitude": -97.4314,
+    "altitude_m": null,
+    "velocity_ms": 3.86,
+    "heading": 2.81,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.78869077835688,
+    "bearing_from_airport": 315.8726418722563,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
