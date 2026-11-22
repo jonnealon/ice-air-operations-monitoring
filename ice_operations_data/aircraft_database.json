@@ -7250,15 +7250,16 @@
       "AAL2374",
       "AAL546",
       "AAL1391",
-      "AAL1014"
+      "AAL1014",
+      "Unknown"
     ],
     "airports_visited": [
-      "SAT",
-      "TUS"
+      "TUS",
+      "SAT"
     ],
     "first_seen": "2026-02-18T18:03:46.936977",
-    "last_seen": "2026-09-12T17:55:42.097462",
-    "total_detections": 4,
+    "last_seen": "2026-11-22T21:21:51.637660",
+    "total_detections": 5,
     "is_charter": false,
     "operator": null
   },
@@ -92432,8 +92433,8 @@
       "AEX"
     ],
     "first_seen": "2026-10-15T05:59:31.065787",
-    "last_seen": "2026-10-15T05:59:31.065787",
-    "total_detections": 1,
+    "last_seen": "2026-11-22T21:21:51.226947",
+    "total_detections": 2,
     "is_charter": false,
     "operator": null
   },
@@ -96406,5 +96407,61 @@
     "total_detections": 1,
     "is_charter": true,
     "operator": "iAero Group"
+  },
+  "adb437": {
+    "icao24": "adb437",
+    "callsigns_seen": [
+      "SCW4713"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-11-22T21:21:51.637701",
+    "last_seen": "2026-11-22T21:21:51.637701",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "a32859": {
+    "icao24": "a32859",
+    "callsigns_seen": [
+      "N302SJ"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-11-22T21:21:51.637709",
+    "last_seen": "2026-11-22T21:21:51.637709",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "ac90a8": {
+    "icao24": "ac90a8",
+    "callsigns_seen": [
+      "AAL1961"
+    ],
+    "airports_visited": [
+      "SAT"
+    ],
+    "first_seen": "2026-11-22T21:21:51.637716",
+    "last_seen": "2026-11-22T21:21:51.637716",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
+  },
+  "ae14cc": {
+    "icao24": "ae14cc",
+    "callsigns_seen": [
+      "MNTNA07"
+    ],
+    "airports_visited": [
+      "MFE"
+    ],
+    "first_seen": "2026-11-22T21:21:53.459161",
+    "last_seen": "2026-11-22T21:21:53.459161",
+    "total_detections": 1,
+    "is_charter": false,
+    "operator": null
   }
 }
