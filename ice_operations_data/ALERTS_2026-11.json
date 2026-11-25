@@ -13515,5 +13515,35 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-25T09:57:51.374306",
+    "airport_code": "ELP",
+    "airport_name": "El Paso International",
+    "icao24": "a4e6c8",
+    "callsign": "AWI7314",
+    "latitude": 31.8289,
+    "longitude": -106.3617,
+    "altitude_m": 1173.48,
+    "velocity_ms": 79.67,
+    "heading": 224.74,
+    "vertrate": -0.33,
+    "on_ground": false,
+    "distance_from_airport_km": 2.8475183843026852,
+    "bearing_from_airport": 32.22482379121834,
+    "projected_region": "EASTERN_EUROPE",
+    "potential_destinations": [
+      "Romania",
+      "Moldova",
+      "Ukraine"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:EASTERN_EUROPE"
+    ],
+    "is_alert": true
   }
 ]
