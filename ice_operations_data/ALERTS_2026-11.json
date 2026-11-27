@@ -14188,5 +14188,63 @@
       "VERY_CLOSE_TO_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-27T03:20:19.990387",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a60656",
+    "callsign": "N488AE",
+    "latitude": 29.521,
+    "longitude": -98.4756,
+    "altitude_m": 228.6,
+    "velocity_ms": 27.57,
+    "heading": 81.42,
+    "vertrate": -2.93,
+    "on_ground": false,
+    "distance_from_airport_km": 1.5169114540756985,
+    "bearing_from_airport": 201.67320785091667,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-27T03:20:19.990442",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "a3b79c",
+    "callsign": "DAL2797",
+    "latitude": 29.5488,
+    "longitude": -98.4934,
+    "altitude_m": 228.6,
+    "velocity_ms": 71.43,
+    "heading": 131.5,
+    "vertrate": -3.9,
+    "on_ground": false,
+    "distance_from_airport_km": 2.829165300075566,
+    "bearing_from_airport": 306.33794051396194,
+    "projected_region": "UNKNOWN",
+    "potential_destinations": [],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
