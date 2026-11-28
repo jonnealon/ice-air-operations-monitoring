@@ -14423,5 +14423,100 @@
       "DESCENDING_NEAR_AIRPORT"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-28T03:36:36.744233",
+    "airport_code": "AZA",
+    "airport_name": "Mesa Gateway (Phoenix)",
+    "icao24": "a3dfed",
+    "callsign": "NDU349",
+    "latitude": 33.2981,
+    "longitude": -111.65,
+    "altitude_m": 403.86,
+    "velocity_ms": 34.92,
+    "heading": 315,
+    "vertrate": -1.63,
+    "on_ground": false,
+    "distance_from_airport_km": 1.1547926609632637,
+    "bearing_from_airport": 158.80583041414093,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-28T03:36:37.662556",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac767c",
+    "callsign": "AAL1406",
+    "latitude": 29.5573,
+    "longitude": -98.4363,
+    "altitude_m": 312.42,
+    "velocity_ms": 64.13,
+    "heading": 221.75,
+    "vertrate": -4.23,
+    "on_ground": false,
+    "distance_from_airport_km": 4.162899196887948,
+    "bearing_from_airport": 50.991966025427644,
+    "projected_region": "AFRICA_WEST",
+    "potential_destinations": [
+      "Senegal",
+      "Guinea",
+      "Sierra Leone",
+      "Gambia"
+    ],
+    "unusual_destination": true,
+    "is_charter_operator": false,
+    "operator_name": null,
+    "unknown_callsign": false,
+    "alerts": [
+      "UNUSUAL_DESTINATION:AFRICA_WEST",
+      "DESCENDING_NEAR_AIRPORT"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-28T03:36:37.662590",
+    "airport_code": "SAT",
+    "airport_name": "San Antonio International",
+    "icao24": "ac08b1",
+    "callsign": "SWA1917",
+    "latitude": 29.5274,
+    "longitude": -98.4709,
+    "altitude_m": null,
+    "velocity_ms": 2.57,
+    "heading": 146.25,
+    "vertrate": null,
+    "on_ground": true,
+    "distance_from_airport_km": 0.7073233881591137,
+    "bearing_from_airport": 188.63864959620142,
+    "projected_region": "MEXICO_CENTRAL_AMERICA",
+    "potential_destinations": [
+      "Mexico",
+      "Guatemala",
+      "Honduras",
+      "El Salvador"
+    ],
+    "unusual_destination": false,
+    "is_charter_operator": true,
+    "operator_name": "iAero Group",
+    "unknown_callsign": false,
+    "alerts": [
+      "CHARTER_OPERATOR:iAero Group",
+      "VERY_CLOSE_TO_AIRPORT"
+    ],
+    "is_alert": true
   }
 ]
